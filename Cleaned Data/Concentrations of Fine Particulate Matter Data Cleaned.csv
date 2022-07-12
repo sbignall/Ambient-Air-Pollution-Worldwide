@@ -1,0 +1,577 @@
+﻿Location,Residence,Mean Measures,Low Measures,High Measures
+Afghanistan,All,55.14,31.15,93.7
+Afghanistan,Urban,63.61,33.83,116
+Afghanistan,Rural,52.84,29.23,94.73
+Albania,All,18.07,16.61,21.04
+Albania,Urban,19.32,17.36,21.49
+Albania,Rural,17.20,15.8,20.71
+Algeria,All,35.18,23.11,60.4
+Algeria,Urban,34.13,21.4,57.54
+Algeria,Rural,39.57,26.46,69.37
+Andorra,All,8.71,8.05,10.32
+Andorra,Urban,9.47,8.42,10.67
+Andorra,Rural,7.99,6.67,9.49
+Angola,All,38.29,22.61,67.74
+Angola,Urban,40.32,21.91,75.78
+Angola,Rural,37.36,23.28,64.4
+Antigua and Barbuda,All,21.03,10.12,43.22
+Antigua and Barbuda,Urban,21.15,10.2,43.31
+Antigua and Barbuda,Rural,15.92,7.27,36.47
+Argentina,All,12.58,10.81,18.72
+Argentina,Urban,12.35,11.06,17.36
+Argentina,Rural,13.15,10.33,21.21
+Armenia,All,33.84,24.47,51.88
+Armenia,Urban,45.53,30.41,67.63
+Armenia,Rural,26.03,18.99,37.84
+Australia,All,7.14,6.29,8.68
+Australia,Urban,7.29,6.4,8.89
+Australia,Rural,6.21,5.59,7.61
+Austria,All,12.15,11.84,12.61
+Austria,Urban,12.95,12.49,13.33
+Austria,Rural,10.54,10.21,11.06
+Azerbaijan,All,20.99,12.36,36.96
+Azerbaijan,Urban,23.21,13.35,42.03
+Azerbaijan,Rural,18.74,11.37,32.82
+Bahamas,All,16.57,8.02,38.84
+Bahamas,Urban,17.74,9.03,42.11
+Bahamas,Rural,14.57,6.59,34.71
+Bahrain,All,63.21,52.3,82.02
+Bahrain,Urban,63.32,51.92,82.37
+Bahrain,Rural,61.73,48.46,83.83
+Bangladesh,All,62.79,53.88,74.26
+Bangladesh,Urban,64.13,54.5,74.88
+Bangladesh,Rural,58.69,49.58,71.49
+Barbados,All,24.82,12.38,53.12
+Barbados,Urban,25.42,12.51,52.96
+Barbados,Rural,23.89,11.48,50.78
+Belarus,All,16.36,14.72,19.61
+Belarus,Urban,18.12,16.57,21.48
+Belarus,Rural,14.35,12.17,17.37
+Belgium,All,12.68,12.32,13.26
+Belgium,Urban,12.78,12.47,13.43
+Belgium,Rural,9.10,8.77,9.99
+Belize,All,20.61,7.89,56.55
+Belize,Urban,20.70,7.55,56.04
+Belize,Rural,20.60,7.9,56.86
+Benin,All,42.17,29.78,72.44
+Benin,Urban,38.80,26.26,56.93
+Benin,Rural,45.38,30.91,83.4
+Bhutan,All,37.57,34.16,47.44
+Bhutan,Urban,36.90,39.67,50.29
+Bhutan,Rural,37.68,32.78,46.72
+Bolivia (Plurinational State of),All,26.06,18.74,39.43
+Bolivia (Plurinational State of),Urban,27.29,21.44,38.52
+Bolivia (Plurinational State of),Rural,25.18,16.76,40.31
+Bosnia and Herzegovina,All,28.14,24.77,30.89
+Bosnia and Herzegovina,Urban,30.69,26.71,33.33
+Bosnia and Herzegovina,Rural,24.86,22.34,28
+Botswana,All,25.16,17.75,37.45
+Botswana,Urban,25.05,17.42,37.76
+Botswana,Rural,25.18,18.01,38.35
+Brazil,All,11.62,10.63,13.69
+Brazil,Urban,11.76,10.75,13.66
+Brazil,Rural,10.85,9.25,14.81
+Brunei Darussalam,All,7.51,6.07,9.45
+Brunei Darussalam,Urban,7.44,5.97,9.36
+Brunei Darussalam,Rural,7.80,6.24,9.82
+Bulgaria,All,19.04,18.46,20.76
+Bulgaria,Urban,21.08,20.22,22.36
+Bulgaria,Rural,17.82,16.71,19.34
+Burkina Faso,All,55.96,31.32,106.4
+Burkina Faso,Urban,54.22,27.41,113.6
+Burkina Faso,Rural,56.48,32.42,106.2
+Burundi,All,36.81,19.95,66.35
+Burundi,Urban,37.25,19.82,69.77
+Burundi,Rural,36.56,19.98,64.77
+Cabo Verde,All,62.20,36.01,110.3
+Cabo Verde,Urban,62.05,35.55,108.8
+Cabo Verde,Rural,62.87,36.71,112.4
+Cambodia,All,25.05,16.59,39.35
+Cambodia,Urban,27.21,17.26,46.9
+Cambodia,Rural,24.51,16.4,38.11
+Cameroon,All,65.42,48.18,107.9
+Cameroon,Urban,64.27,47.96,102.9
+Cameroon,Rural,66.63,47.32,116.7
+Canada,All,6.41,6.19,6.61
+Canada,Urban,6.69,6.48,6.96
+Canada,Rural,4.93,4.8,5.19
+Central African Republic,All,43.27,24.4,82.03
+Central African Republic,Urban,42.90,21.02,84.62
+Central African Republic,Rural,43.45,26.21,79.26
+Chad,All,64.27,39.6,137.1
+Chad,Urban,66.75,38.77,162.4
+Chad,Rural,63.61,38.9,131
+Chile,All,23.92,21.89,25.43
+Chile,Urban,26.34,23.93,27.58
+Chile,Rural,20.13,18.49,22.93
+China,All,45.76,45.86,50.03
+China,Urban,48.77,48.21,52.76
+China,Rural,42.43,42.68,47.12
+Colombia,All,18.45,15.33,25.99
+Colombia,Urban,19.03,15.41,26.8
+Colombia,Rural,17.85,14.42,25.54
+Comoros,All,15.34,8.58,25.21
+Comoros,Urban,15.49,8.63,26.03
+Comoros,Rural,15.28,8.56,24.98
+Congo,All,42.88,25.79,78.44
+Congo,Urban,44.42,21.39,92.26
+Congo,Rural,41.67,26.22,80.07
+Cook Islands,All,8.87,4.75,14.48
+Cook Islands,Rural,8.87,4.75,14.48
+Costa Rica,All,18.69,16.06,21.54
+Costa Rica,Urban,18.64,16.13,21.31
+Costa Rica,Rural,18.83,15.38,23.47
+Côte d’Ivoire,All,57.65,33.86,97.85
+Côte d’Ivoire,Urban,58.47,35.12,94.32
+Côte d’Ivoire,Rural,56.71,32.67,100.5
+Croatia,All,17.26,15.93,18.95
+Croatia,Urban,17.75,16.33,19.46
+Croatia,Rural,16.12,15.25,18.44
+Cuba,All,19.11,12.57,31.48
+Cuba,Urban,22.68,15.09,34.04
+Cuba,Rural,16.35,9.19,29.77
+Cyprus,All,14.72,12.98,16.43
+Cyprus,Urban,15.59,13.87,17.07
+Cyprus,Rural,12.95,10.68,15.13
+Czechia,All,15.41,15.7,16.82
+Czechia,Urban,15.82,16.22,17.38
+Czechia,Rural,13.94,13.58,14.91
+Democratic People's Republic of Korea,All,38.89,29.3,52.96
+Democratic People's Republic of Korea,Urban,39.74,29.27,54.54
+Democratic People's Republic of Korea,Rural,36.64,27.94,50.07
+Democratic Republic of the Congo,All,42.50,29.53,70.72
+Democratic Republic of the Congo,Urban,43.35,28.44,74.45
+Democratic Republic of the Congo,Rural,42.04,28.29,71.77
+Denmark,All,9.85,9.04,11.11
+Denmark,Urban,10.11,9.36,11.31
+Denmark,Rural,9.12,7.91,10.56
+Djibouti,All,38.34,19.83,83.71
+Djibouti,Urban,38.22,19.75,87.29
+Djibouti,Rural,38.50,19.61,85.11
+Dominica,All,20.50,9.71,44.19
+Dominica,Urban,21.59,10.56,46.42
+Dominica,Rural,18.76,8.99,42.13
+Dominican Republic,All,16.04,7.86,35.27
+Dominican Republic,Urban,16.53,8.17,36.61
+Dominican Republic,Rural,13.86,6.46,28.86
+Ecuador,All,19.55,15.8,25.41
+Ecuador,Urban,19.66,16.54,24.85
+Ecuador,Rural,19.40,14.89,26.54
+Egypt,All,72.31,52.78,102.9
+Egypt,Urban,72.97,53.07,103.9
+Egypt,Rural,66.73,48.78,94.63
+El Salvador,All,29.14,19.73,43.58
+El Salvador,Urban,29.28,19.43,43.54
+El Salvador,Rural,28.97,20.06,42.71
+Equatorial Guinea,All,44.47,24.87,82.69
+Equatorial Guinea,Urban,45.04,24.96,89.08
+Equatorial Guinea,Rural,44.38,24.38,82.81
+Eritrea,All,37.02,18.5,69.32
+Eritrea,Urban,35.35,17.42,70.84
+Eritrea,Rural,37.69,18.9,68.99
+Estonia,All,6.41,5.85,7.26
+Estonia,Urban,6.73,6.14,7.54
+Estonia,Rural,5.73,4.99,6.92
+Eswatini,All,19.90,14.11,28.76
+Eswatini,Urban,19.78,13.77,29.37
+Eswatini,Rural,19.94,14.12,28.39
+Ethiopia,All,31.85,22.2,50.09
+Ethiopia,Urban,31.11,22.09,47.7
+Ethiopia,Rural,32.13,22.28,50.36
+Fiji,All,10.70,3.48,28.91
+Fiji,Urban,11.07,3.27,32.84
+Fiji,Rural,10.35,3.78,25.05
+Finland,All,5.75,5.42,6.08
+Finland,Urban,6.48,6.11,6.89
+Finland,Rural,5.33,4.91,5.72
+France,All,11.45,11.46,11.91
+France,Urban,12.21,12.13,12.59
+France,Rural,9.64,9.44,10
+Gabon,All,40.81,23.59,70.16
+Gabon,Urban,41.51,22.18,74.06
+Gabon,Rural,40.38,22.9,75.74
+Gambia,All,57.74,31.85,96.64
+Gambia,Urban,58.43,33.28,95.76
+Gambia,Rural,56.73,29.53,102.1
+Georgia,All,22.15,18.29,31.98
+Georgia,Urban,26.95,20.68,36.88
+Georgia,Rural,17.37,12.69,24.73
+Germany,All,11.51,11.53,12.01
+Germany,Urban,11.76,11.78,12.27
+Germany,Rural,10.23,10.04,10.62
+Ghana,All,54.50,37.42,86.41
+Ghana,Urban,55.62,37.43,88.15
+Ghana,Rural,51.65,34.31,83.79
+Greece,All,14.04,13.17,15.52
+Greece,Urban,14.99,14.01,16.33
+Greece,Rural,11.59,10.42,13.54
+Grenada,All,22.87,11.79,57.3
+Grenada,Urban,23.14,11.96,57.76
+Grenada,Rural,21.09,10.68,52.87
+Guatemala,All,30.47,23.01,40.14
+Guatemala,Urban,30.88,24.73,38.29
+Guatemala,Rural,30.17,21.98,41.39
+Guinea,All,53.32,29.88,99.82
+Guinea,Urban,53.80,28.63,108.1
+Guinea,Rural,53.12,29.79,100.6
+Guinea-Bissau,All,54.43,28.6,97.17
+Guinea-Bissau,Urban,55.02,28.75,95.04
+Guinea-Bissau,Rural,53.76,27.94,98.45
+Guyana,All,23.14,9.89,56.91
+Guyana,Urban,26.77,10.81,66.42
+Guyana,Rural,21.14,9.01,53.14
+Haiti,All,17.56,8.56,38.79
+Haiti,Urban,19.51,9.22,45.4
+Haiti,Rural,16.01,7.49,35.56
+Honduras,All,25.47,19.6,34.76
+Honduras,Urban,25.41,19.06,35.66
+Honduras,Rural,25.51,19.62,33.94
+Hungary,All,16.04,15.19,17.38
+Hungary,Urban,16.66,15.78,17.95
+Hungary,Rural,14.90,13.68,16.4
+Iceland,All,5.81,5.53,7.11
+Iceland,Urban,5.82,5.1,6.71
+Iceland,Rural,5.81,5.58,7.41
+India,All,68.76,74.18,88.96
+India,Urban,78.16,81.49,97.47
+India,Rural,60.94,67.06,81.75
+Indonesia,All,19.05,16.56,23.89
+Indonesia,Urban,20.66,17.63,25.39
+Indonesia,Rural,17.42,15.05,22.65
+Iran (Islamic Republic of),All,34.45,33.06,42.21
+Iran (Islamic Republic of),Urban,33.68,31.93,39.16
+Iran (Islamic Republic of),Rural,35.02,33.49,44.14
+Iraq,All,55.42,42.91,79.18
+Iraq,Urban,56.39,42.15,79.77
+Iraq,Rural,54.18,42.84,78.63
+Ireland,All,8.01,7.51,8.72
+Ireland,Urban,8.49,7.94,9.04
+Ireland,Rural,7.28,6.7,8.1
+Israel,All,18.52,17.08,18.99
+Israel,Urban,18.59,17.09,18.97
+Israel,Rural,17.40,14.23,21.05
+Italy,All,14.84,15.56,16.11
+Italy,Urban,15.29,16,16.6
+Italy,Rural,10.60,11.18,11.83
+Jamaica,All,14.86,11.44,20.28
+Jamaica,Urban,15.36,11.82,20.82
+Jamaica,Rural,13.96,10.5,19.39
+Japan,All,13.42,12.08,15.19
+Japan,Urban,13.74,12.36,15.58
+Japan,Rural,11.45,10.02,13.55
+Jordan,All,33.20,28.64,38.9
+Jordan,Urban,32.76,28.19,37.27
+Jordan,Rural,37.28,29.25,52
+Kazakhstan,All,17.84,13.03,29.6
+Kazakhstan,Urban,25.60,17.26,41.67
+Kazakhstan,Rural,16.14,11.52,26.62
+Kenya,All,26.60,19.53,40.15
+Kenya,Urban,24.07,18.48,36.47
+Kenya,Rural,27.45,19.45,41.37
+Kiribati,All,11.07,3.74,29.82
+Kiribati,Urban,11.56,3.41,33.44
+Kiribati,Rural,10.82,3.83,28.85
+Kuwait,All,62.59,55.53,77.2
+Kuwait,Urban,64.97,58.43,80.85
+Kuwait,Rural,56.52,44.92,70.61
+Kyrgyzstan,All,23.88,16.88,40.44
+Kyrgyzstan,Urban,28.24,19.89,44.96
+Kyrgyzstan,Rural,20.57,14.56,36.5
+Lao People's Democratic Republic,All,20.46,16.24,29.21
+Lao People's Democratic Republic,Urban,21.78,17.14,31.65
+Lao People's Democratic Republic,Rural,19.46,15.27,26.89
+Latvia,All,12.33,11.33,14.72
+Latvia,Urban,14.41,13.46,16.94
+Latvia,Rural,10.00,8.33,12.1
+Lebanon,All,30.66,24.77,37.79
+Lebanon,Urban,30.70,24.78,37.8
+Lebanon,Rural,29.64,22.5,38.35
+Lesotho,All,24.49,18.16,36.49
+Lesotho,Urban,25.84,18.39,37.52
+Lesotho,Rural,24.28,17.92,36.11
+Liberia,All,52.28,31.35,90.87
+Liberia,Urban,52.03,30.9,89.39
+Liberia,Rural,52.47,30.06,93.61
+Libya,All,49.23,32.11,87.85
+Libya,Urban,46.37,25.18,92.78
+Libya,Rural,50.31,32.83,89.34
+Lithuania,All,10.71,9.9,12.43
+Lithuania,Urban,11.70,10.96,13.64
+Lithuania,Rural,9.91,8.83,11.67
+Luxembourg,All,10.02,9.25,10.72
+Luxembourg,Urban,10.20,9.55,10.91
+Luxembourg,Rural,8.54,7.62,9.97
+Madagascar,All,17.50,10.54,29.9
+Madagascar,Urban,17.92,10.72,31.56
+Madagascar,Rural,17.20,10.75,29.22
+Malawi,All,25.62,15.19,47.15
+Malawi,Urban,24.63,14.3,46.92
+Malawi,Rural,25.83,15.37,47.38
+Malaysia,All,16.27,13.79,19.37
+Malaysia,Urban,17.15,14.44,20.76
+Malaysia,Rural,13.12,10.93,16.99
+Maldives,All,10.97,8.6,14.44
+Maldives,Urban,10.40,8.03,13.21
+Maldives,Rural,12.01,8.99,16.24
+Mali,All,63.64,35.33,122.9
+Mali,Urban,63.07,32.84,129.4
+Mali,Rural,64.04,38.55,114.4
+Malta,All,13.14,11.75,14.38
+Malta,Urban,13.15,11.76,14.39
+Malta,Rural,9.43,8.44,10.57
+Marshall Islands,All,10.20,3.95,27.83
+Marshall Islands,Rural,10.20,3.95,27.83
+Mauritania,All,74.13,43.37,135.5
+Mauritania,Urban,78.10,43.19,145.6
+Mauritania,Rural,70.81,38.66,143.1
+Mauritius,All,10.52,7.22,16.54
+Mauritius,Urban,9.52,6.59,15.95
+Mauritius,Rural,11.36,7.3,17.86
+Mexico,All,22.73,19.76,30.1
+Mexico,Urban,22.77,20.03,29.75
+Mexico,Rural,22.44,17.83,32.24
+Micronesia (Federated States of),All,10.54,3.5,30.41
+Micronesia (Federated States of),Urban,10.81,3.27,31.88
+Micronesia (Federated States of),Rural,10.36,3.69,29.16
+Monaco,All,11.52,9.16,14.47
+Monaco,Urban,11.52,9.16,14.47
+Mongolia,All,42.79,31.51,57.67
+Mongolia,Urban,59.97,43.86,80.62
+Mongolia,Rural,35.07,27.2,50.33
+Montenegro,All,20.39,18.28,24.42
+Montenegro,Urban,19.41,18.05,23.02
+Montenegro,Rural,20.85,18.35,24.92
+Morocco,All,28.38,23.6,35.6
+Morocco,Urban,28.57,24.58,34.9
+Morocco,Rural,28.19,22.42,37.59
+Mozambique,All,21.22,14.59,34.14
+Mozambique,Urban,19.94,13.62,31.33
+Mozambique,Rural,22.10,15.1,36.6
+Myanmar,All,33.15,28.58,39.01
+Myanmar,Urban,33.73,29.24,40.69
+Myanmar,Rural,33.02,28.53,39.08
+Namibia,All,24.05,15.59,39.55
+Namibia,Urban,20.48,13.75,34.87
+Namibia,Rural,27.56,16.61,44.66
+Nauru,All,8.19,4.57,14.05
+Nauru,Urban,8.19,4.57,14.05
+Nauru,Rural,9.88,4.06,23.53
+Nepal,All,81.57,63.07,108.3
+Nepal,Urban,87.97,68.98,115.9
+Nepal,Rural,77.72,59.02,108.6
+Netherlands,All,11.96,11.52,12.39
+Netherlands,Urban,12.01,11.61,12.46
+Netherlands,Rural,10.66,10.08,11.4
+New Zealand,All,6.65,6.2,7.52
+New Zealand,Urban,6.72,6.31,7.63
+New Zealand,Rural,6.32,5.81,7.33
+Nicaragua,All,22.16,15.19,31.97
+Nicaragua,Urban,22.63,15.03,33.62
+Nicaragua,Rural,21.53,14.28,30.8
+Niger,All,93.18,57.75,211.9
+Niger,Urban,89.42,55.7,206.6
+Niger,Rural,93.83,56.76,210.1
+Nigeria,All,61.73,46.33,114.2
+Nigeria,Urban,47.11,40.03,87.24
+Nigeria,Rural,72.78,50.86,133.4
+Niue,All,9.34,4.88,16.37
+Niue,Rural,9.34,4.88,16.37
+Norway,All,6.82,6.34,7.26
+Norway,Urban,7.64,7.09,8.04
+Norway,Rural,6.17,5.8,6.76
+Oman,All,43.69,32.93,67.29
+Oman,Urban,41.33,27.48,64.77
+Oman,Rural,45.72,34.81,70.66
+Pakistan,All,58.76,46.89,77.04
+Pakistan,Urban,62.61,51.68,77.96
+Pakistan,Rural,56.18,44.25,78.89
+Palau,All,8.79,4.93,15.95
+Palau,Urban,8.68,4.92,15.75
+Palau,Rural,8.84,4.94,16.26
+Panama,All,14.74,11.08,19.82
+Panama,Urban,14.48,10.79,19.02
+Panama,Rural,15.35,11.27,21.21
+Papua New Guinea,All,11.11,3.73,33.07
+Papua New Guinea,Urban,12.18,3.42,46.15
+Papua New Guinea,Rural,11.01,3.76,32.46
+Paraguay,All,11.94,8.99,17.23
+Paraguay,Urban,12.00,9.29,16.52
+Paraguay,Rural,11.81,8.1,17.79
+Peru,All,30.46,24.48,40.81
+Peru,Urban,33.32,29.19,40.66
+Peru,Rural,26.32,18.47,42.19
+Philippines,All,21.29,18.79,24.78
+Philippines,Urban,23.72,21.72,26.81
+Philippines,Rural,18.52,15.26,22.9
+Poland,All,20.96,20.72,21.91
+Poland,Urban,21.90,21.63,22.83
+Poland,Rural,18.59,17.86,19.58
+Portugal,All,7.69,7.47,8.07
+Portugal,Urban,8.40,8.03,8.72
+Portugal,Rural,7.30,6.85,7.7
+Qatar,All,80.80,68.02,106.2
+Qatar,Urban,81.64,69.23,107.6
+Qatar,Rural,73.30,53.85,100.9
+Republic of Korea,All,26.41,24.42,29.07
+Republic of Korea,Urban,26.50,24.41,29.16
+Republic of Korea,Rural,25.69,23.29,28.91
+Republic of Moldova,All,13.55,9.96,19.26
+Republic of Moldova,Urban,14.09,10.11,20.11
+Republic of Moldova,Rural,12.76,9.39,17.97
+Romania,All,14.76,14.43,16.01
+Romania,Urban,15.74,15.17,17.01
+Romania,Rural,13.33,12.66,14.46
+Russian Federation,All,9.80,8.02,13.59
+Russian Federation,Urban,11.20,9.15,15.13
+Russian Federation,Rural,8.09,6.38,11.69
+Rwanda,All,39.70,19.84,69.41
+Rwanda,Urban,39.42,19.37,69.18
+Rwanda,Rural,39.83,19.97,69.52
+Saint Kitts and Nevis,All,9.73,7.38,12.55
+Saint Kitts and Nevis,Urban,9.72,7.36,12.51
+Saint Kitts and Nevis,Rural,9.79,7.45,12.66
+Saint Lucia,All,22.89,11.92,49.95
+Saint Lucia,Urban,22.94,11.96,50.09
+Saint Lucia,Rural,19.10,9.02,43.47
+Saint Vincent and the Grenadines,All,22.72,11.42,56.06
+Saint Vincent and the Grenadines,Urban,23.09,11.64,56.45
+Saint Vincent and the Grenadines,Rural,20.37,9.76,53.88
+Samoa,All,10.76,3.12,33.68
+Samoa,Urban,10.98,2.95,38.08
+Samoa,Rural,10.66,3.22,31.92
+San Marino,All,10.06,7.63,13.76
+San Marino,Urban,10.06,7.63,13.76
+Sao Tome and Principe,All,39.00,25.09,63.25
+Sao Tome and Principe,Urban,38.38,24.41,63.13
+Sao Tome and Principe,Rural,39.17,25.37,62.41
+Saudi Arabia,All,60.11,49.34,79.21
+Saudi Arabia,Urban,63.96,51.81,84.91
+Saudi Arabia,Rural,58.62,48.22,78.12
+Senegal,All,59.78,37.3,93.76
+Senegal,Urban,59.77,39.94,87.12
+Senegal,Rural,59.77,36.29,101.3
+Serbia,All,24.85,22.81,28.12
+Serbia,Urban,25.15,23.36,28.49
+Serbia,Rural,23.90,21.38,26.89
+Seychelles,All,13.67,9.16,22.21
+Seychelles,Urban,13.67,9.13,22.33
+Seychelles,Rural,13.70,9.03,22.16
+Sierra Leone,All,54.28,29.84,95.3
+Sierra Leone,Urban,56.02,29.72,99.87
+Sierra Leone,Rural,53.26,29.65,91.44
+Singapore,All,17.24,12.85,23.33
+Singapore,Urban,17.24,12.85,23.33
+Singapore,Rural,15.35,9.12,26.01
+Slovakia,All,17.82,17.1,19.05
+Slovakia,Urban,18.27,17.46,19.43
+Slovakia,Rural,16.78,15.97,18.25
+Slovenia,All,16.29,15.5,17.49
+Slovenia,Urban,16.77,15.97,17.88
+Slovenia,Rural,15.32,14.06,16.69
+Solomon Islands,All,11.12,4.12,31.63
+Solomon Islands,Urban,11.80,3.44,41.84
+Solomon Islands,Rural,10.99,4.1,30.07
+Somalia,All,27.67,17.9,43.35
+Somalia,Urban,27.66,16.55,45.86
+Somalia,Rural,27.67,18.11,42.85
+South Africa,All,25.15,21.6,34.17
+South Africa,Urban,29.42,24.02,37.41
+South Africa,Rural,22.24,18.29,30.17
+South Sudan,All,34.75,22.17,57.85
+South Sudan,Urban,34.57,22.16,57.52
+South Sudan,Rural,34.77,22.2,57.91
+Spain,All,9.20,9.17,9.56
+Spain,Urban,9.51,9.48,9.89
+Spain,Rural,7.97,7.94,8.53
+Sri Lanka,All,16.54,11.83,24.06
+Sri Lanka,Urban,16.77,12.29,23.35
+Sri Lanka,Rural,16.33,11.52,24.36
+Sudan,All,43.80,27.75,77.74
+Sudan,Urban,42.99,25.92,82.26
+Sudan,Rural,44.08,28.39,78.74
+Suriname,All,26.48,11.51,59.31
+Suriname,Urban,30.20,12,64.7
+Suriname,Rural,20.61,8.28,53.72
+Sweden,All,5.73,5.6,6.28
+Sweden,Urban,6.03,6,6.71
+Sweden,Rural,5.15,4.84,5.68
+Switzerland,All,10.11,9.86,10.46
+Switzerland,Urban,10.32,10.04,10.65
+Switzerland,Rural,8.30,7.96,8.72
+Syrian Arab Republic,All,37.43,32.18,50.76
+Syrian Arab Republic,Urban,35.58,29.71,46.85
+Syrian Arab Republic,Rural,46.76,36.31,67.84
+Tajikistan,All,34.86,19.99,76.11
+Tajikistan,Urban,46.47,25.83,102
+Tajikistan,Rural,31.60,17.66,66.79
+Thailand,All,29.83,26.68,33.34
+Thailand,Urban,31.88,28.98,34.12
+Thailand,Rural,28.30,25.07,33.75
+The former Yugoslav Republic of Macedonia,All,29.59,28.02,34.13
+The former Yugoslav Republic of Macedonia,Urban,33.64,31.48,37.65
+The former Yugoslav Republic of Macedonia,Rural,25.94,23.8,30.22
+Timor-Leste,All,16.34,7.56,37.81
+Timor-Leste,Urban,17.69,8,40.76
+Timor-Leste,Rural,15.88,7.42,36.44
+Togo,All,45.48,31.75,73.5
+Togo,Urban,46.08,31.06,69.99
+Togo,Rural,45.09,30.85,78.44
+Tonga,All,10.95,3.66,27.83
+Tonga,Urban,11.12,3.5,29.37
+Tonga,Rural,10.72,3.8,26.68
+Trinidad and Tobago,All,23.32,10.5,61.15
+Trinidad and Tobago,Urban,24.41,10.91,62.19
+Trinidad and Tobago,Rural,22.59,10.39,59.07
+Tunisia,All,33.27,23.59,51.75
+Tunisia,Urban,32.48,23.75,48.85
+Tunisia,Rural,35.34,23.8,59.21
+Türkiye,All,37.21,33.53,43.14
+Türkiye,Urban,36.88,33.45,43
+Türkiye,Rural,37.73,33.35,43.28
+Turkmenistan,All,18.24,12.89,35.91
+Turkmenistan,Urban,33.26,18.63,55.87
+Turkmenistan,Rural,16.67,10.67,32.01
+Tuvalu,All,8.50,4.48,17.46
+Tuvalu,Rural,8.50,4.48,17.46
+Uganda,All,42.75,30.67,61.18
+Uganda,Urban,45.74,33.47,65.02
+Uganda,Rural,41.96,29.78,60.9
+Ukraine,All,13.98,10.83,19.98
+Ukraine,Urban,14.93,11.16,21.84
+Ukraine,Rural,12.71,9.63,18.02
+United Arab Emirates,All,44.87,33.67,60.44
+United Arab Emirates,Urban,42.24,30.07,61.53
+United Arab Emirates,Rural,45.84,34.77,59.82
+United Kingdom of Great Britain and Northern Ireland,All,10.33,9.89,10.66
+United Kingdom of Great Britain and Northern Ireland,Urban,10.45,10.04,10.81
+United Kingdom of Great Britain and Northern Ireland,Rural,8.09,7.53,8.59
+United Republic of Tanzania,All,26.73,19.32,40.46
+United Republic of Tanzania,Urban,24.57,17.5,36.75
+United Republic of Tanzania,Rural,27.51,19.79,41.14
+United States of America,All,7.43,7.35,7.58
+United States of America,Urban,7.67,7.59,7.84
+United States of America,Rural,6.36,6.13,6.39
+Uruguay,All,9.95,8.47,13.13
+Uruguay,Urban,9.99,8.55,13.09
+Uruguay,Rural,9.60,6.8,15.25
+Uzbekistan,All,28.30,17.13,58.59
+Uzbekistan,Urban,33.86,18.86,71.21
+Uzbekistan,Rural,23.97,14.79,51.78
+Vanuatu,All,10.50,3.62,31.29
+Vanuatu,Urban,11.12,3.38,36.71
+Vanuatu,Rural,10.28,3.68,28.85
+Venezuela (Bolivarian Republic of),All,20.26,15,31.07
+Venezuela (Bolivarian Republic of),Urban,20.11,14.97,30.32
+Venezuela (Bolivarian Republic of),Rural,20.44,14.54,32.51
+Viet Nam,All,22.01,17.97,25.44
+Viet Nam,Urban,23.75,19.57,27.58
+Viet Nam,Rural,19.05,15.52,23.04
+Yemen,All,41.46,24.62,78.11
+Yemen,Urban,40.26,22.59,78.88
+Yemen,Rural,42.12,25.13,79.37
+Zambia,All,30.79,19.25,51.22
+Zambia,Urban,29.42,16.1,50.07
+Zambia,Rural,31.45,19.42,52.33
+Zimbabwe,All,25.18,15.94,42.19
+Zimbabwe,Urban,24.56,14.63,43.73
+Zimbabwe,Rural,25.45,16,42.58

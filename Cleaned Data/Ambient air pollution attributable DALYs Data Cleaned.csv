@@ -1,0 +1,3683 @@
+﻿Country,Sex,Cause of Death,DALY per 100k Pop
+Angola,Both sexes,Total,1758
+Angola,Both sexes,Lower respiratory infections,1447
+Angola,Both sexes,"Trachea, bronchus, lung cancers",3.14
+Angola,Both sexes,Cataracts,0
+Angola,Both sexes,Ischaemic heart disease,151.7
+Angola,Both sexes,Stroke,103.6
+Angola,Both sexes,Chronic obstructive pulmonary disease,52.42
+Angola,Male,Total,1757
+Angola,Male,Lower respiratory infections,1432
+Angola,Male,"Trachea, bronchus, lung cancers",3.81
+Angola,Male,Ischaemic heart disease,172.6
+Angola,Male,Stroke,96.86
+Angola,Male,Chronic obstructive pulmonary disease,51.46
+Angola,Female,Total,1759
+Angola,Female,Lower respiratory infections,1462
+Angola,Female,"Trachea, bronchus, lung cancers",2.49
+Angola,Female,Cataracts,0
+Angola,Female,Ischaemic heart disease,131.7
+Angola,Female,Stroke,110
+Angola,Female,Chronic obstructive pulmonary disease,53.34
+Burundi,Both sexes,Total,2052
+Burundi,Both sexes,Lower respiratory infections,1579
+Burundi,Both sexes,"Trachea, bronchus, lung cancers",4.3
+Burundi,Both sexes,Cataracts,0
+Burundi,Both sexes,Ischaemic heart disease,218.6
+Burundi,Both sexes,Stroke,171.9
+Burundi,Both sexes,Chronic obstructive pulmonary disease,78.27
+Burundi,Male,Total,2190
+Burundi,Male,Lower respiratory infections,1667
+Burundi,Male,"Trachea, bronchus, lung cancers",4.45
+Burundi,Male,Ischaemic heart disease,262
+Burundi,Male,Stroke,166.2
+Burundi,Male,Chronic obstructive pulmonary disease,90.5
+Burundi,Female,Total,1918
+Burundi,Female,Lower respiratory infections,1494
+Burundi,Female,"Trachea, bronchus, lung cancers",4.16
+Burundi,Female,Cataracts,0
+Burundi,Female,Ischaemic heart disease,176.6
+Burundi,Female,Stroke,177.4
+Burundi,Female,Chronic obstructive pulmonary disease,66.44
+Benin,Both sexes,Total,2365
+Benin,Both sexes,Lower respiratory infections,1789
+Benin,Both sexes,"Trachea, bronchus, lung cancers",2.86
+Benin,Both sexes,Cataracts,0
+Benin,Both sexes,Ischaemic heart disease,261
+Benin,Both sexes,Stroke,215.9
+Benin,Both sexes,Chronic obstructive pulmonary disease,96.12
+Benin,Male,Total,2393
+Benin,Male,Lower respiratory infections,1785
+Benin,Male,"Trachea, bronchus, lung cancers",3.21
+Benin,Male,Ischaemic heart disease,296.2
+Benin,Male,Stroke,210
+Benin,Male,Chronic obstructive pulmonary disease,98.81
+Benin,Female,Total,2337
+Benin,Female,Lower respiratory infections,1794
+Benin,Female,"Trachea, bronchus, lung cancers",2.52
+Benin,Female,Cataracts,0
+Benin,Female,Ischaemic heart disease,225.9
+Benin,Female,Stroke,221.7
+Benin,Female,Chronic obstructive pulmonary disease,93.45
+Burkina Faso,Both sexes,Total,1915
+Burkina Faso,Both sexes,Lower respiratory infections,1449
+Burkina Faso,Both sexes,"Trachea, bronchus, lung cancers",5.41
+Burkina Faso,Both sexes,Cataracts,0
+Burkina Faso,Both sexes,Ischaemic heart disease,262.4
+Burkina Faso,Both sexes,Stroke,139.6
+Burkina Faso,Both sexes,Chronic obstructive pulmonary disease,57.83
+Burkina Faso,Male,Total,1970
+Burkina Faso,Male,Lower respiratory infections,1494
+Burkina Faso,Male,"Trachea, bronchus, lung cancers",5.75
+Burkina Faso,Male,Ischaemic heart disease,287.7
+Burkina Faso,Male,Stroke,127
+Burkina Faso,Male,Chronic obstructive pulmonary disease,55.46
+Burkina Faso,Female,Total,1860
+Burkina Faso,Female,Lower respiratory infections,1405
+Burkina Faso,Female,"Trachea, bronchus, lung cancers",5.08
+Burkina Faso,Female,Cataracts,0
+Burkina Faso,Female,Ischaemic heart disease,237.3
+Burkina Faso,Female,Stroke,152.2
+Burkina Faso,Female,Chronic obstructive pulmonary disease,60.2
+Botswana,Both sexes,Total,841.3
+Botswana,Both sexes,Lower respiratory infections,368.4
+Botswana,Both sexes,"Trachea, bronchus, lung cancers",8.76
+Botswana,Both sexes,Cataracts,0
+Botswana,Both sexes,Ischaemic heart disease,227
+Botswana,Both sexes,Stroke,129.7
+Botswana,Both sexes,Chronic obstructive pulmonary disease,107.5
+Botswana,Male,Total,913.2
+Botswana,Male,Lower respiratory infections,411.9
+Botswana,Male,"Trachea, bronchus, lung cancers",14.23
+Botswana,Male,Ischaemic heart disease,224.1
+Botswana,Male,Stroke,125.3
+Botswana,Male,Chronic obstructive pulmonary disease,137.7
+Botswana,Female,Total,771
+Botswana,Female,Lower respiratory infections,325.9
+Botswana,Female,"Trachea, bronchus, lung cancers",3.41
+Botswana,Female,Cataracts,0
+Botswana,Female,Ischaemic heart disease,229.8
+Botswana,Female,Stroke,133.9
+Botswana,Female,Chronic obstructive pulmonary disease,78.02
+Central African Republic,Both sexes,Total,3275
+Central African Republic,Both sexes,Lower respiratory infections,2531
+Central African Republic,Both sexes,"Trachea, bronchus, lung cancers",6.43
+Central African Republic,Both sexes,Cataracts,0
+Central African Republic,Both sexes,Ischaemic heart disease,330.3
+Central African Republic,Both sexes,Stroke,286.8
+Central African Republic,Both sexes,Chronic obstructive pulmonary disease,120.8
+Central African Republic,Male,Total,3362
+Central African Republic,Male,Lower respiratory infections,2569
+Central African Republic,Male,"Trachea, bronchus, lung cancers",8.36
+Central African Republic,Male,Ischaemic heart disease,387.9
+Central African Republic,Male,Stroke,275.2
+Central African Republic,Male,Chronic obstructive pulmonary disease,121.6
+Central African Republic,Female,Total,3191
+Central African Republic,Female,Lower respiratory infections,2494
+Central African Republic,Female,"Trachea, bronchus, lung cancers",4.55
+Central African Republic,Female,Cataracts,0
+Central African Republic,Female,Ischaemic heart disease,274.3
+Central African Republic,Female,Stroke,298
+Central African Republic,Female,Chronic obstructive pulmonary disease,120.1
+Côte d’Ivoire,Both sexes,Total,2551
+Côte d’Ivoire,Both sexes,Lower respiratory infections,1659
+Côte d’Ivoire,Both sexes,"Trachea, bronchus, lung cancers",3.77
+Côte d’Ivoire,Both sexes,Cataracts,0
+Côte d’Ivoire,Both sexes,Ischaemic heart disease,472.4
+Côte d’Ivoire,Both sexes,Stroke,313.5
+Côte d’Ivoire,Both sexes,Chronic obstructive pulmonary disease,101.9
+Côte d’Ivoire,Male,Total,2841
+Côte d’Ivoire,Male,Lower respiratory infections,1836
+Côte d’Ivoire,Male,"Trachea, bronchus, lung cancers",4.81
+Côte d’Ivoire,Male,Ischaemic heart disease,564.8
+Côte d’Ivoire,Male,Stroke,320.3
+Côte d’Ivoire,Male,Chronic obstructive pulmonary disease,115.2
+Côte d’Ivoire,Female,Total,2253
+Côte d’Ivoire,Female,Lower respiratory infections,1478
+Côte d’Ivoire,Female,"Trachea, bronchus, lung cancers",2.7
+Côte d’Ivoire,Female,Cataracts,0
+Côte d’Ivoire,Female,Ischaemic heart disease,377.4
+Côte d’Ivoire,Female,Stroke,306.6
+Côte d’Ivoire,Female,Chronic obstructive pulmonary disease,88.22
+Cameroon,Both sexes,Total,3007
+Cameroon,Both sexes,Lower respiratory infections,2301
+Cameroon,Both sexes,"Trachea, bronchus, lung cancers",8.9
+Cameroon,Both sexes,Cataracts,0
+Cameroon,Both sexes,Ischaemic heart disease,309.1
+Cameroon,Both sexes,Stroke,253.7
+Cameroon,Both sexes,Chronic obstructive pulmonary disease,133.4
+Cameroon,Male,Total,3345
+Cameroon,Male,Lower respiratory infections,2550
+Cameroon,Male,"Trachea, bronchus, lung cancers",11
+Cameroon,Male,Ischaemic heart disease,380.1
+Cameroon,Male,Stroke,260
+Cameroon,Male,Chronic obstructive pulmonary disease,144.5
+Cameroon,Female,Total,2668
+Cameroon,Female,Lower respiratory infections,2053
+Cameroon,Female,"Trachea, bronchus, lung cancers",6.8
+Cameroon,Female,Cataracts,0
+Cameroon,Female,Ischaemic heart disease,238
+Cameroon,Female,Stroke,247.5
+Cameroon,Female,Chronic obstructive pulmonary disease,122.4
+Democratic Republic of the Congo,Both sexes,Total,2254
+Democratic Republic of the Congo,Both sexes,Lower respiratory infections,1833
+Democratic Republic of the Congo,Both sexes,"Trachea, bronchus, lung cancers",3.12
+Democratic Republic of the Congo,Both sexes,Cataracts,0
+Democratic Republic of the Congo,Both sexes,Ischaemic heart disease,185.7
+Democratic Republic of the Congo,Both sexes,Stroke,157.3
+Democratic Republic of the Congo,Both sexes,Chronic obstructive pulmonary disease,74.71
+Democratic Republic of the Congo,Male,Total,2274
+Democratic Republic of the Congo,Male,Lower respiratory infections,1849
+Democratic Republic of the Congo,Male,"Trachea, bronchus, lung cancers",3.46
+Democratic Republic of the Congo,Male,Ischaemic heart disease,210.7
+Democratic Republic of the Congo,Male,Stroke,142.4
+Democratic Republic of the Congo,Male,Chronic obstructive pulmonary disease,68.47
+Democratic Republic of the Congo,Female,Total,2233
+Democratic Republic of the Congo,Female,Lower respiratory infections,1816
+Democratic Republic of the Congo,Female,"Trachea, bronchus, lung cancers",2.78
+Democratic Republic of the Congo,Female,Cataracts,0
+Democratic Republic of the Congo,Female,Ischaemic heart disease,160.8
+Democratic Republic of the Congo,Female,Stroke,172.2
+Democratic Republic of the Congo,Female,Chronic obstructive pulmonary disease,80.92
+Congo,Both sexes,Total,1404
+Congo,Both sexes,Lower respiratory infections,928.2
+Congo,Both sexes,"Trachea, bronchus, lung cancers",4.18
+Congo,Both sexes,Cataracts,0
+Congo,Both sexes,Ischaemic heart disease,232.9
+Congo,Both sexes,Stroke,155.1
+Congo,Both sexes,Chronic obstructive pulmonary disease,83.14
+Congo,Male,Total,1376
+Congo,Male,Lower respiratory infections,941.3
+Congo,Male,"Trachea, bronchus, lung cancers",4.9
+Congo,Male,Ischaemic heart disease,234.3
+Congo,Male,Stroke,124.8
+Congo,Male,Chronic obstructive pulmonary disease,71.15
+Congo,Female,Total,1431
+Congo,Female,Lower respiratory infections,915
+Congo,Female,"Trachea, bronchus, lung cancers",3.46
+Congo,Female,Cataracts,0
+Congo,Female,Ischaemic heart disease,231.5
+Congo,Female,Stroke,185.5
+Congo,Female,Chronic obstructive pulmonary disease,95.14
+Comoros,Both sexes,Total,1378
+Comoros,Both sexes,Lower respiratory infections,923.9
+Comoros,Both sexes,"Trachea, bronchus, lung cancers",3.8
+Comoros,Both sexes,Cataracts,0
+Comoros,Both sexes,Ischaemic heart disease,265.3
+Comoros,Both sexes,Stroke,131.9
+Comoros,Both sexes,Chronic obstructive pulmonary disease,53.21
+Comoros,Male,Total,1491
+Comoros,Male,Lower respiratory infections,965.5
+Comoros,Male,"Trachea, bronchus, lung cancers",5.36
+Comoros,Male,Ischaemic heart disease,319.6
+Comoros,Male,Stroke,137.8
+Comoros,Male,Chronic obstructive pulmonary disease,63.05
+Comoros,Female,Total,1263
+Comoros,Female,Lower respiratory infections,881.6
+Comoros,Female,"Trachea, bronchus, lung cancers",2.21
+Comoros,Female,Cataracts,0
+Comoros,Female,Ischaemic heart disease,210.1
+Comoros,Female,Stroke,125.8
+Comoros,Female,Chronic obstructive pulmonary disease,43.19
+Cabo Verde,Both sexes,Total,944.2
+Cabo Verde,Both sexes,Lower respiratory infections,355.6
+Cabo Verde,Both sexes,"Trachea, bronchus, lung cancers",8.49
+Cabo Verde,Both sexes,Cataracts,0
+Cabo Verde,Both sexes,Ischaemic heart disease,343
+Cabo Verde,Both sexes,Stroke,154.3
+Cabo Verde,Both sexes,Chronic obstructive pulmonary disease,82.83
+Cabo Verde,Male,Total,1009
+Cabo Verde,Male,Lower respiratory infections,404.7
+Cabo Verde,Male,"Trachea, bronchus, lung cancers",10.72
+Cabo Verde,Male,Ischaemic heart disease,353.1
+Cabo Verde,Male,Stroke,155.1
+Cabo Verde,Male,Chronic obstructive pulmonary disease,85.65
+Cabo Verde,Female,Total,879.6
+Cabo Verde,Female,Lower respiratory infections,306.8
+Cabo Verde,Female,"Trachea, bronchus, lung cancers",6.28
+Cabo Verde,Female,Cataracts,0
+Cabo Verde,Female,Ischaemic heart disease,333
+Cabo Verde,Female,Stroke,153.5
+Cabo Verde,Female,Chronic obstructive pulmonary disease,80.03
+Algeria,Both sexes,Total,986.8
+Algeria,Both sexes,Lower respiratory infections,277.8
+Algeria,Both sexes,"Trachea, bronchus, lung cancers",40.12
+Algeria,Both sexes,Cataracts,0
+Algeria,Both sexes,Ischaemic heart disease,456
+Algeria,Both sexes,Stroke,140.8
+Algeria,Both sexes,Chronic obstructive pulmonary disease,72.06
+Algeria,Male,Total,1059
+Algeria,Male,Lower respiratory infections,247.1
+Algeria,Male,"Trachea, bronchus, lung cancers",63.88
+Algeria,Male,Ischaemic heart disease,521.6
+Algeria,Male,Stroke,139.2
+Algeria,Male,Chronic obstructive pulmonary disease,87.67
+Algeria,Female,Total,912.7
+Algeria,Female,Lower respiratory infections,309.2
+Algeria,Female,"Trachea, bronchus, lung cancers",15.87
+Algeria,Female,Cataracts,0
+Algeria,Female,Ischaemic heart disease,389.1
+Algeria,Female,Stroke,142.4
+Algeria,Female,Chronic obstructive pulmonary disease,56.13
+Eritrea,Both sexes,Total,1818
+Eritrea,Both sexes,Lower respiratory infections,1213
+Eritrea,Both sexes,"Trachea, bronchus, lung cancers",9.34
+Eritrea,Both sexes,Cataracts,0
+Eritrea,Both sexes,Ischaemic heart disease,267.8
+Eritrea,Both sexes,Stroke,222.5
+Eritrea,Both sexes,Chronic obstructive pulmonary disease,105.3
+Eritrea,Male,Total,2057
+Eritrea,Male,Lower respiratory infections,1358
+Eritrea,Male,"Trachea, bronchus, lung cancers",9.4
+Eritrea,Male,Ischaemic heart disease,336.8
+Eritrea,Male,Stroke,224.3
+Eritrea,Male,Chronic obstructive pulmonary disease,128.3
+Eritrea,Female,Total,1578
+Eritrea,Female,Lower respiratory infections,1067
+Eritrea,Female,"Trachea, bronchus, lung cancers",9.27
+Eritrea,Female,Cataracts,0
+Eritrea,Female,Ischaemic heart disease,198.5
+Eritrea,Female,Stroke,220.6
+Eritrea,Female,Chronic obstructive pulmonary disease,82.09
+Ethiopia,Both sexes,Total,1461
+Ethiopia,Both sexes,Lower respiratory infections,1025
+Ethiopia,Both sexes,"Trachea, bronchus, lung cancers",9.7
+Ethiopia,Both sexes,Cataracts,0
+Ethiopia,Both sexes,Ischaemic heart disease,227.5
+Ethiopia,Both sexes,Stroke,131.7
+Ethiopia,Both sexes,Chronic obstructive pulmonary disease,66.95
+Ethiopia,Male,Total,1639
+Ethiopia,Male,Lower respiratory infections,1147
+Ethiopia,Male,"Trachea, bronchus, lung cancers",9.05
+Ethiopia,Male,Ischaemic heart disease,276
+Ethiopia,Male,Stroke,131.3
+Ethiopia,Male,Chronic obstructive pulmonary disease,76.21
+Ethiopia,Female,Total,1283
+Ethiopia,Female,Lower respiratory infections,903.4
+Ethiopia,Female,"Trachea, bronchus, lung cancers",10.36
+Ethiopia,Female,Cataracts,0
+Ethiopia,Female,Ischaemic heart disease,179.1
+Ethiopia,Female,Stroke,132.1
+Ethiopia,Female,Chronic obstructive pulmonary disease,57.71
+Gabon,Both sexes,Total,1231
+Gabon,Both sexes,Lower respiratory infections,784.8
+Gabon,Both sexes,"Trachea, bronchus, lung cancers",20.48
+Gabon,Both sexes,Cataracts,0
+Gabon,Both sexes,Ischaemic heart disease,206.4
+Gabon,Both sexes,Stroke,139.1
+Gabon,Both sexes,Chronic obstructive pulmonary disease,79.97
+Gabon,Male,Total,1279
+Gabon,Male,Lower respiratory infections,828.7
+Gabon,Male,"Trachea, bronchus, lung cancers",26.34
+Gabon,Male,Ischaemic heart disease,216.7
+Gabon,Male,Stroke,129.8
+Gabon,Male,Chronic obstructive pulmonary disease,78.03
+Gabon,Female,Total,1179
+Gabon,Female,Lower respiratory infections,738.5
+Gabon,Female,"Trachea, bronchus, lung cancers",14.28
+Gabon,Female,Cataracts,0
+Gabon,Female,Ischaemic heart disease,195.5
+Gabon,Female,Stroke,148.8
+Gabon,Female,Chronic obstructive pulmonary disease,82.03
+Ghana,Both sexes,Total,1510
+Ghana,Both sexes,Lower respiratory infections,893.5
+Ghana,Both sexes,"Trachea, bronchus, lung cancers",6.43
+Ghana,Both sexes,Cataracts,0
+Ghana,Both sexes,Ischaemic heart disease,295.2
+Ghana,Both sexes,Stroke,243.9
+Ghana,Both sexes,Chronic obstructive pulmonary disease,71.05
+Ghana,Male,Total,1532
+Ghana,Male,Lower respiratory infections,1057
+Ghana,Male,"Trachea, bronchus, lung cancers",10.17
+Ghana,Male,Ischaemic heart disease,238.6
+Ghana,Male,Stroke,152
+Ghana,Male,Chronic obstructive pulmonary disease,74.58
+Ghana,Female,Total,1488
+Ghana,Female,Lower respiratory infections,731.7
+Ghana,Female,"Trachea, bronchus, lung cancers",2.72
+Ghana,Female,Cataracts,0
+Ghana,Female,Ischaemic heart disease,351.3
+Ghana,Female,Stroke,335
+Ghana,Female,Chronic obstructive pulmonary disease,67.54
+Guinea,Both sexes,Total,1887
+Guinea,Both sexes,Lower respiratory infections,1316
+Guinea,Both sexes,"Trachea, bronchus, lung cancers",3.44
+Guinea,Both sexes,Cataracts,0
+Guinea,Both sexes,Ischaemic heart disease,289.9
+Guinea,Both sexes,Stroke,196.5
+Guinea,Both sexes,Chronic obstructive pulmonary disease,80.77
+Guinea,Male,Total,1967
+Guinea,Male,Lower respiratory infections,1390
+Guinea,Male,"Trachea, bronchus, lung cancers",4.41
+Guinea,Male,Ischaemic heart disease,310.6
+Guinea,Male,Stroke,178.5
+Guinea,Male,Chronic obstructive pulmonary disease,83.56
+Guinea,Female,Total,1805
+Guinea,Female,Lower respiratory infections,1241
+Guinea,Female,"Trachea, bronchus, lung cancers",2.47
+Guinea,Female,Cataracts,0
+Guinea,Female,Ischaemic heart disease,269
+Guinea,Female,Stroke,214.5
+Guinea,Female,Chronic obstructive pulmonary disease,77.95
+Gambia,Both sexes,Total,1672
+Gambia,Both sexes,Lower respiratory infections,1160
+Gambia,Both sexes,"Trachea, bronchus, lung cancers",4.75
+Gambia,Both sexes,Cataracts,0
+Gambia,Both sexes,Ischaemic heart disease,287.7
+Gambia,Both sexes,Stroke,151
+Gambia,Both sexes,Chronic obstructive pulmonary disease,68.85
+Gambia,Male,Total,1833
+Gambia,Male,Lower respiratory infections,1254
+Gambia,Male,"Trachea, bronchus, lung cancers",7.17
+Gambia,Male,Ischaemic heart disease,342.9
+Gambia,Male,Stroke,156.7
+Gambia,Male,Chronic obstructive pulmonary disease,72.98
+Gambia,Female,Total,1515
+Gambia,Female,Lower respiratory infections,1068
+Gambia,Female,"Trachea, bronchus, lung cancers",2.38
+Gambia,Female,Cataracts,0
+Gambia,Female,Ischaemic heart disease,233.6
+Gambia,Female,Stroke,145.5
+Gambia,Female,Chronic obstructive pulmonary disease,64.8
+Guinea-Bissau,Both sexes,Total,1870
+Guinea-Bissau,Both sexes,Lower respiratory infections,1375
+Guinea-Bissau,Both sexes,"Trachea, bronchus, lung cancers",4.45
+Guinea-Bissau,Both sexes,Cataracts,0
+Guinea-Bissau,Both sexes,Ischaemic heart disease,254.5
+Guinea-Bissau,Both sexes,Stroke,163.7
+Guinea-Bissau,Both sexes,Chronic obstructive pulmonary disease,72.53
+Guinea-Bissau,Male,Total,1991
+Guinea-Bissau,Male,Lower respiratory infections,1483
+Guinea-Bissau,Male,"Trachea, bronchus, lung cancers",5.09
+Guinea-Bissau,Male,Ischaemic heart disease,270.3
+Guinea-Bissau,Male,Stroke,154
+Guinea-Bissau,Male,Chronic obstructive pulmonary disease,79.09
+Guinea-Bissau,Female,Total,1754
+Guinea-Bissau,Female,Lower respiratory infections,1271
+Guinea-Bissau,Female,"Trachea, bronchus, lung cancers",3.84
+Guinea-Bissau,Female,Cataracts,0
+Guinea-Bissau,Female,Ischaemic heart disease,239.1
+Guinea-Bissau,Female,Stroke,173.1
+Guinea-Bissau,Female,Chronic obstructive pulmonary disease,66.17
+Equatorial Guinea,Both sexes,Total,2594
+Equatorial Guinea,Both sexes,Lower respiratory infections,1974
+Equatorial Guinea,Both sexes,"Trachea, bronchus, lung cancers",15.37
+Equatorial Guinea,Both sexes,Cataracts,0
+Equatorial Guinea,Both sexes,Ischaemic heart disease,317.4
+Equatorial Guinea,Both sexes,Stroke,185.8
+Equatorial Guinea,Both sexes,Chronic obstructive pulmonary disease,101.9
+Equatorial Guinea,Male,Total,2655
+Equatorial Guinea,Male,Lower respiratory infections,1997
+Equatorial Guinea,Male,"Trachea, bronchus, lung cancers",19.32
+Equatorial Guinea,Male,Ischaemic heart disease,364.9
+Equatorial Guinea,Male,Stroke,182.2
+Equatorial Guinea,Male,Chronic obstructive pulmonary disease,91.82
+Equatorial Guinea,Female,Total,2519
+Equatorial Guinea,Female,Lower respiratory infections,1945
+Equatorial Guinea,Female,"Trachea, bronchus, lung cancers",10.49
+Equatorial Guinea,Female,Cataracts,0
+Equatorial Guinea,Female,Ischaemic heart disease,258.6
+Equatorial Guinea,Female,Stroke,190.2
+Equatorial Guinea,Female,Chronic obstructive pulmonary disease,114.4
+Kenya,Both sexes,Total,743.3
+Kenya,Both sexes,Lower respiratory infections,582.9
+Kenya,Both sexes,"Trachea, bronchus, lung cancers",4.24
+Kenya,Both sexes,Cataracts,0
+Kenya,Both sexes,Ischaemic heart disease,66.93
+Kenya,Both sexes,Stroke,56.48
+Kenya,Both sexes,Chronic obstructive pulmonary disease,32.76
+Kenya,Male,Total,798.5
+Kenya,Male,Lower respiratory infections,620.1
+Kenya,Male,"Trachea, bronchus, lung cancers",5.09
+Kenya,Male,Ischaemic heart disease,81.36
+Kenya,Male,Stroke,56.31
+Kenya,Male,Chronic obstructive pulmonary disease,35.61
+Kenya,Female,Total,688.7
+Kenya,Female,Lower respiratory infections,546
+Kenya,Female,"Trachea, bronchus, lung cancers",3.4
+Kenya,Female,Cataracts,0
+Kenya,Female,Ischaemic heart disease,52.66
+Kenya,Female,Stroke,56.65
+Kenya,Female,Chronic obstructive pulmonary disease,29.94
+Liberia,Both sexes,Total,1029
+Liberia,Both sexes,Lower respiratory infections,698.3
+Liberia,Both sexes,"Trachea, bronchus, lung cancers",2.81
+Liberia,Both sexes,Cataracts,0
+Liberia,Both sexes,Ischaemic heart disease,187.9
+Liberia,Both sexes,Stroke,106.6
+Liberia,Both sexes,Chronic obstructive pulmonary disease,33.77
+Liberia,Male,Total,1045
+Liberia,Male,Lower respiratory infections,699.3
+Liberia,Male,"Trachea, bronchus, lung cancers",3.55
+Liberia,Male,Ischaemic heart disease,207.1
+Liberia,Male,Stroke,101.2
+Liberia,Male,Chronic obstructive pulmonary disease,33.57
+Liberia,Female,Total,1014
+Liberia,Female,Lower respiratory infections,697.3
+Liberia,Female,"Trachea, bronchus, lung cancers",2.05
+Liberia,Female,Cataracts,0
+Liberia,Female,Ischaemic heart disease,168.4
+Liberia,Female,Stroke,112.1
+Liberia,Female,Chronic obstructive pulmonary disease,33.98
+Lesotho,Both sexes,Total,1843
+Lesotho,Both sexes,Lower respiratory infections,1147
+Lesotho,Both sexes,"Trachea, bronchus, lung cancers",7.93
+Lesotho,Both sexes,Cataracts,0
+Lesotho,Both sexes,Ischaemic heart disease,267.3
+Lesotho,Both sexes,Stroke,238.1
+Lesotho,Both sexes,Chronic obstructive pulmonary disease,182.7
+Lesotho,Male,Total,1828
+Lesotho,Male,Lower respiratory infections,1176
+Lesotho,Male,"Trachea, bronchus, lung cancers",11.85
+Lesotho,Male,Ischaemic heart disease,234.9
+Lesotho,Male,Stroke,195.6
+Lesotho,Male,Chronic obstructive pulmonary disease,209.5
+Lesotho,Female,Total,1857
+Lesotho,Female,Lower respiratory infections,1119
+Lesotho,Female,"Trachea, bronchus, lung cancers",4.24
+Lesotho,Female,Cataracts,0
+Lesotho,Female,Ischaemic heart disease,297.8
+Lesotho,Female,Stroke,278.1
+Lesotho,Female,Chronic obstructive pulmonary disease,157.4
+Madagascar,Both sexes,Total,1099
+Madagascar,Both sexes,Lower respiratory infections,655
+Madagascar,Both sexes,"Trachea, bronchus, lung cancers",12.06
+Madagascar,Both sexes,Cataracts,0
+Madagascar,Both sexes,Ischaemic heart disease,164.1
+Madagascar,Both sexes,Stroke,192.9
+Madagascar,Both sexes,Chronic obstructive pulmonary disease,74.53
+Madagascar,Male,Total,1169
+Madagascar,Male,Lower respiratory infections,677.1
+Madagascar,Male,"Trachea, bronchus, lung cancers",19.87
+Madagascar,Male,Ischaemic heart disease,211
+Madagascar,Male,Stroke,181.4
+Madagascar,Male,Chronic obstructive pulmonary disease,79.89
+Madagascar,Female,Total,1028
+Madagascar,Female,Lower respiratory infections,633.1
+Madagascar,Female,"Trachea, bronchus, lung cancers",4.29
+Madagascar,Female,Cataracts,0
+Madagascar,Female,Ischaemic heart disease,117.5
+Madagascar,Female,Stroke,204.4
+Madagascar,Female,Chronic obstructive pulmonary disease,69.19
+Mali,Both sexes,Total,2202
+Mali,Both sexes,Lower respiratory infections,1611
+Mali,Both sexes,"Trachea, bronchus, lung cancers",5.57
+Mali,Both sexes,Cataracts,0
+Mali,Both sexes,Ischaemic heart disease,273.7
+Mali,Both sexes,Stroke,192.3
+Mali,Both sexes,Chronic obstructive pulmonary disease,119.3
+Mali,Male,Total,2121
+Mali,Male,Lower respiratory infections,1587
+Mali,Male,"Trachea, bronchus, lung cancers",6.3
+Mali,Male,Ischaemic heart disease,245.3
+Mali,Male,Stroke,148.5
+Mali,Male,Chronic obstructive pulmonary disease,134.5
+Mali,Female,Total,2283
+Mali,Female,Lower respiratory infections,1636
+Mali,Female,"Trachea, bronchus, lung cancers",4.85
+Mali,Female,Cataracts,0
+Mali,Female,Ischaemic heart disease,302
+Mali,Female,Stroke,236.2
+Mali,Female,Chronic obstructive pulmonary disease,104.1
+Mozambique,Both sexes,Total,999
+Mozambique,Both sexes,Lower respiratory infections,761.7
+Mozambique,Both sexes,"Trachea, bronchus, lung cancers",3.79
+Mozambique,Both sexes,Cataracts,0
+Mozambique,Both sexes,Ischaemic heart disease,102.1
+Mozambique,Both sexes,Stroke,98.18
+Mozambique,Both sexes,Chronic obstructive pulmonary disease,33.22
+Mozambique,Male,Total,1045
+Mozambique,Male,Lower respiratory infections,797.6
+Mozambique,Male,"Trachea, bronchus, lung cancers",4.66
+Mozambique,Male,Ischaemic heart disease,110.8
+Mozambique,Male,Stroke,94.74
+Mozambique,Male,Chronic obstructive pulmonary disease,37.46
+Mozambique,Female,Total,954.8
+Mozambique,Female,Lower respiratory infections,727.5
+Mozambique,Female,"Trachea, bronchus, lung cancers",2.97
+Mozambique,Female,Cataracts,0
+Mozambique,Female,Ischaemic heart disease,93.7
+Mozambique,Female,Stroke,101.5
+Mozambique,Female,Chronic obstructive pulmonary disease,29.18
+Mauritania,Both sexes,Total,2001
+Mauritania,Both sexes,Lower respiratory infections,1444
+Mauritania,Both sexes,"Trachea, bronchus, lung cancers",5.09
+Mauritania,Both sexes,Cataracts,0
+Mauritania,Both sexes,Ischaemic heart disease,321.1
+Mauritania,Both sexes,Stroke,159.7
+Mauritania,Both sexes,Chronic obstructive pulmonary disease,71.05
+Mauritania,Male,Total,2238
+Mauritania,Male,Lower respiratory infections,1682
+Mauritania,Male,"Trachea, bronchus, lung cancers",6.79
+Mauritania,Male,Ischaemic heart disease,337.2
+Mauritania,Male,Stroke,140.1
+Mauritania,Male,Chronic obstructive pulmonary disease,72.07
+Mauritania,Female,Total,1760
+Mauritania,Female,Lower respiratory infections,1203
+Mauritania,Female,"Trachea, bronchus, lung cancers",3.37
+Mauritania,Female,Cataracts,0
+Mauritania,Female,Ischaemic heart disease,304.6
+Mauritania,Female,Stroke,179.6
+Mauritania,Female,Chronic obstructive pulmonary disease,70.02
+Mauritius,Both sexes,Total,976
+Mauritius,Both sexes,Lower respiratory infections,65.43
+Mauritius,Both sexes,"Trachea, bronchus, lung cancers",27.62
+Mauritius,Both sexes,Cataracts,0
+Mauritius,Both sexes,Ischaemic heart disease,488.8
+Mauritius,Both sexes,Stroke,216.4
+Mauritius,Both sexes,Chronic obstructive pulmonary disease,177.8
+Mauritius,Male,Total,1268
+Mauritius,Male,Lower respiratory infections,80.04
+Mauritius,Male,"Trachea, bronchus, lung cancers",43.62
+Mauritius,Male,Ischaemic heart disease,647.2
+Mauritius,Male,Stroke,263.2
+Mauritius,Male,Chronic obstructive pulmonary disease,233.8
+Mauritius,Female,Total,689.9
+Mauritius,Female,Lower respiratory infections,51.1
+Mauritius,Female,"Trachea, bronchus, lung cancers",11.94
+Mauritius,Female,Cataracts,0
+Mauritius,Female,Ischaemic heart disease,333.5
+Mauritius,Female,Stroke,170.5
+Mauritius,Female,Chronic obstructive pulmonary disease,122.9
+Malawi,Both sexes,Total,770.8
+Malawi,Both sexes,Lower respiratory infections,568.2
+Malawi,Both sexes,"Trachea, bronchus, lung cancers",1.73
+Malawi,Both sexes,Cataracts,0
+Malawi,Both sexes,Ischaemic heart disease,105.8
+Malawi,Both sexes,Stroke,59.19
+Malawi,Both sexes,Chronic obstructive pulmonary disease,35.9
+Malawi,Male,Total,856.2
+Malawi,Male,Lower respiratory infections,629.2
+Malawi,Male,"Trachea, bronchus, lung cancers",2.37
+Malawi,Male,Ischaemic heart disease,125
+Malawi,Male,Stroke,58.19
+Malawi,Male,Chronic obstructive pulmonary disease,41.42
+Malawi,Female,Total,687.1
+Malawi,Female,Lower respiratory infections,508.3
+Malawi,Female,"Trachea, bronchus, lung cancers",1.1
+Malawi,Female,Cataracts,0
+Malawi,Female,Ischaemic heart disease,86.99
+Malawi,Female,Stroke,60.16
+Malawi,Female,Chronic obstructive pulmonary disease,30.48
+Namibia,Both sexes,Total,1112
+Namibia,Both sexes,Lower respiratory infections,651.9
+Namibia,Both sexes,"Trachea, bronchus, lung cancers",7.59
+Namibia,Both sexes,Cataracts,0
+Namibia,Both sexes,Ischaemic heart disease,218
+Namibia,Both sexes,Stroke,133.9
+Namibia,Both sexes,Chronic obstructive pulmonary disease,101.1
+Namibia,Male,Total,1203
+Namibia,Male,Lower respiratory infections,709.6
+Namibia,Male,"Trachea, bronchus, lung cancers",9.66
+Namibia,Male,Ischaemic heart disease,232.9
+Namibia,Male,Stroke,124.2
+Namibia,Male,Chronic obstructive pulmonary disease,126.3
+Namibia,Female,Total,1027
+Namibia,Female,Lower respiratory infections,597.3
+Namibia,Female,"Trachea, bronchus, lung cancers",5.62
+Namibia,Female,Cataracts,0
+Namibia,Female,Ischaemic heart disease,203.9
+Namibia,Female,Stroke,143
+Namibia,Female,Chronic obstructive pulmonary disease,77.23
+Niger,Both sexes,Total,4072
+Niger,Both sexes,Lower respiratory infections,3435
+Niger,Both sexes,"Trachea, bronchus, lung cancers",2.77
+Niger,Both sexes,Cataracts,0
+Niger,Both sexes,Ischaemic heart disease,315.2
+Niger,Both sexes,Stroke,222.4
+Niger,Both sexes,Chronic obstructive pulmonary disease,97.21
+Niger,Male,Total,4155
+Niger,Male,Lower respiratory infections,3465
+Niger,Male,"Trachea, bronchus, lung cancers",3.91
+Niger,Male,Ischaemic heart disease,359.5
+Niger,Male,Stroke,215.2
+Niger,Male,Chronic obstructive pulmonary disease,110.7
+Niger,Female,Total,3989
+Niger,Female,Lower respiratory infections,3404
+Niger,Female,"Trachea, bronchus, lung cancers",1.63
+Niger,Female,Cataracts,0
+Niger,Female,Ischaemic heart disease,270.7
+Niger,Female,Stroke,229.6
+Niger,Female,Chronic obstructive pulmonary disease,83.61
+Nigeria,Both sexes,Total,4045
+Nigeria,Both sexes,Lower respiratory infections,3378
+Nigeria,Both sexes,"Trachea, bronchus, lung cancers",4.29
+Nigeria,Both sexes,Cataracts,0
+Nigeria,Both sexes,Ischaemic heart disease,348.9
+Nigeria,Both sexes,Stroke,213.8
+Nigeria,Both sexes,Chronic obstructive pulmonary disease,99.99
+Nigeria,Male,Total,4157
+Nigeria,Male,Lower respiratory infections,3506
+Nigeria,Male,"Trachea, bronchus, lung cancers",4.15
+Nigeria,Male,Ischaemic heart disease,364.6
+Nigeria,Male,Stroke,190.2
+Nigeria,Male,Chronic obstructive pulmonary disease,92.5
+Nigeria,Female,Total,3930
+Nigeria,Female,Lower respiratory infections,3247
+Nigeria,Female,"Trachea, bronchus, lung cancers",4.43
+Nigeria,Female,Cataracts,0
+Nigeria,Female,Ischaemic heart disease,332.8
+Nigeria,Female,Stroke,238.2
+Nigeria,Female,Chronic obstructive pulmonary disease,107.7
+Rwanda,Both sexes,Total,996.7
+Rwanda,Both sexes,Lower respiratory infections,690
+Rwanda,Both sexes,"Trachea, bronchus, lung cancers",5.03
+Rwanda,Both sexes,Cataracts,0
+Rwanda,Both sexes,Ischaemic heart disease,125.1
+Rwanda,Both sexes,Stroke,107.8
+Rwanda,Both sexes,Chronic obstructive pulmonary disease,68.72
+Rwanda,Male,Total,1089
+Rwanda,Male,Lower respiratory infections,760.6
+Rwanda,Male,"Trachea, bronchus, lung cancers",5.33
+Rwanda,Male,Ischaemic heart disease,146.6
+Rwanda,Male,Stroke,106.1
+Rwanda,Male,Chronic obstructive pulmonary disease,70.6
+Rwanda,Female,Total,907.8
+Rwanda,Female,Lower respiratory infections,622.1
+Rwanda,Female,"Trachea, bronchus, lung cancers",4.73
+Rwanda,Female,Cataracts,0
+Rwanda,Female,Ischaemic heart disease,104.5
+Rwanda,Female,Stroke,109.5
+Rwanda,Female,Chronic obstructive pulmonary disease,66.92
+Senegal,Both sexes,Total,1388
+Senegal,Both sexes,Lower respiratory infections,904.9
+Senegal,Both sexes,"Trachea, bronchus, lung cancers",6
+Senegal,Both sexes,Cataracts,0
+Senegal,Both sexes,Ischaemic heart disease,258.9
+Senegal,Both sexes,Stroke,140.4
+Senegal,Both sexes,Chronic obstructive pulmonary disease,77.71
+Senegal,Male,Total,1514
+Senegal,Male,Lower respiratory infections,999.2
+Senegal,Male,"Trachea, bronchus, lung cancers",7.41
+Senegal,Male,Ischaemic heart disease,285.1
+Senegal,Male,Stroke,132
+Senegal,Male,Chronic obstructive pulmonary disease,90.79
+Senegal,Female,Total,1266
+Senegal,Female,Lower respiratory infections,814
+Senegal,Female,"Trachea, bronchus, lung cancers",4.64
+Senegal,Female,Cataracts,0
+Senegal,Female,Ischaemic heart disease,233.5
+Senegal,Female,Stroke,148.6
+Senegal,Female,Chronic obstructive pulmonary disease,65.1
+Sierra Leone,Both sexes,Total,2162
+Sierra Leone,Both sexes,Lower respiratory infections,1365
+Sierra Leone,Both sexes,"Trachea, bronchus, lung cancers",2.81
+Sierra Leone,Both sexes,Cataracts,0
+Sierra Leone,Both sexes,Ischaemic heart disease,433.3
+Sierra Leone,Both sexes,Stroke,276.8
+Sierra Leone,Both sexes,Chronic obstructive pulmonary disease,84.15
+Sierra Leone,Male,Total,2213
+Sierra Leone,Male,Lower respiratory infections,1422
+Sierra Leone,Male,"Trachea, bronchus, lung cancers",3.58
+Sierra Leone,Male,Ischaemic heart disease,457.5
+Sierra Leone,Male,Stroke,249
+Sierra Leone,Male,Chronic obstructive pulmonary disease,80.67
+Sierra Leone,Female,Total,2112
+Sierra Leone,Female,Lower respiratory infections,1309
+Sierra Leone,Female,"Trachea, bronchus, lung cancers",2.05
+Sierra Leone,Female,Cataracts,0
+Sierra Leone,Female,Ischaemic heart disease,409.5
+Sierra Leone,Female,Stroke,304.1
+Sierra Leone,Female,Chronic obstructive pulmonary disease,87.56
+South Sudan,Both sexes,Total,2537
+South Sudan,Both sexes,Lower respiratory infections,2078
+South Sudan,Both sexes,"Trachea, bronchus, lung cancers",7.46
+South Sudan,Both sexes,Cataracts,0
+South Sudan,Both sexes,Ischaemic heart disease,224.1
+South Sudan,Both sexes,Stroke,157.3
+South Sudan,Both sexes,Chronic obstructive pulmonary disease,70.66
+South Sudan,Male,Total,2653
+South Sudan,Male,Lower respiratory infections,2163
+South Sudan,Male,"Trachea, bronchus, lung cancers",8.19
+South Sudan,Male,Ischaemic heart disease,256.1
+South Sudan,Male,Stroke,146.2
+South Sudan,Male,Chronic obstructive pulmonary disease,79.37
+South Sudan,Female,Total,2422
+South Sudan,Female,Lower respiratory infections,1993
+South Sudan,Female,"Trachea, bronchus, lung cancers",6.74
+South Sudan,Female,Cataracts,0
+South Sudan,Female,Ischaemic heart disease,191.9
+South Sudan,Female,Stroke,168.4
+South Sudan,Female,Chronic obstructive pulmonary disease,61.92
+Sao Tome and Principe,Both sexes,Total,986.1
+Sao Tome and Principe,Both sexes,Lower respiratory infections,558.5
+Sao Tome and Principe,Both sexes,"Trachea, bronchus, lung cancers",25.8
+Sao Tome and Principe,Both sexes,Cataracts,0
+Sao Tome and Principe,Both sexes,Ischaemic heart disease,139
+Sao Tome and Principe,Both sexes,Stroke,145.1
+Sao Tome and Principe,Both sexes,Chronic obstructive pulmonary disease,117.7
+Sao Tome and Principe,Male,Total,1020
+Sao Tome and Principe,Male,Lower respiratory infections,607.8
+Sao Tome and Principe,Male,"Trachea, bronchus, lung cancers",36.24
+Sao Tome and Principe,Male,Ischaemic heart disease,134.3
+Sao Tome and Principe,Male,Stroke,122.2
+Sao Tome and Principe,Male,Chronic obstructive pulmonary disease,119.6
+Sao Tome and Principe,Female,Total,952.3
+Sao Tome and Principe,Female,Lower respiratory infections,509.6
+Sao Tome and Principe,Female,"Trachea, bronchus, lung cancers",15.44
+Sao Tome and Principe,Female,Cataracts,0
+Sao Tome and Principe,Female,Ischaemic heart disease,143.6
+Sao Tome and Principe,Female,Stroke,167.8
+Sao Tome and Principe,Female,Chronic obstructive pulmonary disease,115.9
+Eswatini,Both sexes,Total,1077
+Eswatini,Both sexes,Lower respiratory infections,675.3
+Eswatini,Both sexes,"Trachea, bronchus, lung cancers",5.33
+Eswatini,Both sexes,Cataracts,0
+Eswatini,Both sexes,Ischaemic heart disease,187.3
+Eswatini,Both sexes,Stroke,121
+Eswatini,Both sexes,Chronic obstructive pulmonary disease,88.1
+Eswatini,Male,Total,1142
+Eswatini,Male,Lower respiratory infections,736.1
+Eswatini,Male,"Trachea, bronchus, lung cancers",7.09
+Eswatini,Male,Ischaemic heart disease,179.1
+Eswatini,Male,Stroke,109.2
+Eswatini,Male,Chronic obstructive pulmonary disease,110.1
+Eswatini,Female,Total,1016
+Eswatini,Female,Lower respiratory infections,618.3
+Eswatini,Female,"Trachea, bronchus, lung cancers",3.67
+Eswatini,Female,Cataracts,0
+Eswatini,Female,Ischaemic heart disease,195.1
+Eswatini,Female,Stroke,132
+Eswatini,Female,Chronic obstructive pulmonary disease,67.4
+Seychelles,Both sexes,Total,1178
+Seychelles,Both sexes,Lower respiratory infections,277
+Seychelles,Both sexes,"Trachea, bronchus, lung cancers",46.01
+Seychelles,Both sexes,Cataracts,0
+Seychelles,Both sexes,Ischaemic heart disease,508.3
+Seychelles,Both sexes,Stroke,208.4
+Seychelles,Both sexes,Chronic obstructive pulmonary disease,138.5
+Seychelles,Male,Total,1690
+Seychelles,Male,Lower respiratory infections,385.7
+Seychelles,Male,"Trachea, bronchus, lung cancers",72.37
+Seychelles,Male,Ischaemic heart disease,742.4
+Seychelles,Male,Stroke,293.2
+Seychelles,Male,Chronic obstructive pulmonary disease,196.2
+Seychelles,Female,Total,679.8
+Seychelles,Female,Lower respiratory infections,171.1
+Seychelles,Female,"Trachea, bronchus, lung cancers",20.33
+Seychelles,Female,Cataracts,0
+Seychelles,Female,Ischaemic heart disease,280.1
+Seychelles,Female,Stroke,125.9
+Seychelles,Female,Chronic obstructive pulmonary disease,82.39
+Chad,Both sexes,Total,5303
+Chad,Both sexes,Lower respiratory infections,4594
+Chad,Both sexes,"Trachea, bronchus, lung cancers",4.11
+Chad,Both sexes,Cataracts,0
+Chad,Both sexes,Ischaemic heart disease,345.2
+Chad,Both sexes,Stroke,253.7
+Chad,Both sexes,Chronic obstructive pulmonary disease,105.5
+Chad,Male,Total,5598
+Chad,Male,Lower respiratory infections,4816
+Chad,Male,"Trachea, bronchus, lung cancers",4.6
+Chad,Male,Ischaemic heart disease,414.2
+Chad,Male,Stroke,251.4
+Chad,Male,Chronic obstructive pulmonary disease,111.9
+Chad,Female,Total,5006
+Chad,Female,Lower respiratory infections,4371
+Chad,Female,"Trachea, bronchus, lung cancers",3.63
+Chad,Female,Cataracts,0
+Chad,Female,Ischaemic heart disease,276.2
+Chad,Female,Stroke,256
+Chad,Female,Chronic obstructive pulmonary disease,99.11
+Togo,Both sexes,Total,2013
+Togo,Both sexes,Lower respiratory infections,1331
+Togo,Both sexes,"Trachea, bronchus, lung cancers",3.93
+Togo,Both sexes,Cataracts,0
+Togo,Both sexes,Ischaemic heart disease,361.5
+Togo,Both sexes,Stroke,220.2
+Togo,Both sexes,Chronic obstructive pulmonary disease,96.01
+Togo,Male,Total,2210
+Togo,Male,Lower respiratory infections,1474
+Togo,Male,"Trachea, bronchus, lung cancers",5.48
+Togo,Male,Ischaemic heart disease,414.7
+Togo,Male,Stroke,216.9
+Togo,Male,Chronic obstructive pulmonary disease,98.66
+Togo,Female,Total,1817
+Togo,Female,Lower respiratory infections,1189
+Togo,Female,"Trachea, bronchus, lung cancers",2.39
+Togo,Female,Cataracts,0
+Togo,Female,Ischaemic heart disease,308.6
+Togo,Female,Stroke,223.4
+Togo,Female,Chronic obstructive pulmonary disease,93.38
+United Republic of Tanzania,Both sexes,Total,1239
+United Republic of Tanzania,Both sexes,Lower respiratory infections,904.4
+United Republic of Tanzania,Both sexes,"Trachea, bronchus, lung cancers",1.64
+United Republic of Tanzania,Both sexes,Cataracts,0
+United Republic of Tanzania,Both sexes,Ischaemic heart disease,190
+United Republic of Tanzania,Both sexes,Stroke,92.87
+United Republic of Tanzania,Both sexes,Chronic obstructive pulmonary disease,50.02
+United Republic of Tanzania,Male,Total,1284
+United Republic of Tanzania,Male,Lower respiratory infections,937.2
+United Republic of Tanzania,Male,"Trachea, bronchus, lung cancers",1.83
+United Republic of Tanzania,Male,Ischaemic heart disease,208
+United Republic of Tanzania,Male,Stroke,83.81
+United Republic of Tanzania,Male,Chronic obstructive pulmonary disease,53.66
+United Republic of Tanzania,Female,Total,1194
+United Republic of Tanzania,Female,Lower respiratory infections,872.3
+United Republic of Tanzania,Female,"Trachea, bronchus, lung cancers",1.45
+United Republic of Tanzania,Female,Cataracts,0
+United Republic of Tanzania,Female,Ischaemic heart disease,172.4
+United Republic of Tanzania,Female,Stroke,101.7
+United Republic of Tanzania,Female,Chronic obstructive pulmonary disease,46.47
+Uganda,Both sexes,Total,1768
+Uganda,Both sexes,Lower respiratory infections,1423
+Uganda,Both sexes,"Trachea, bronchus, lung cancers",7.36
+Uganda,Both sexes,Cataracts,0
+Uganda,Both sexes,Ischaemic heart disease,148.4
+Uganda,Both sexes,Stroke,123
+Uganda,Both sexes,Chronic obstructive pulmonary disease,65.7
+Uganda,Male,Total,1861
+Uganda,Male,Lower respiratory infections,1505
+Uganda,Male,"Trachea, bronchus, lung cancers",7.68
+Uganda,Male,Ischaemic heart disease,169.1
+Uganda,Male,Stroke,112.6
+Uganda,Male,Chronic obstructive pulmonary disease,66.95
+Uganda,Female,Total,1675
+Uganda,Female,Lower respiratory infections,1342
+Uganda,Female,"Trachea, bronchus, lung cancers",7.04
+Uganda,Female,Cataracts,0
+Uganda,Female,Ischaemic heart disease,127.9
+Uganda,Female,Stroke,133.3
+Uganda,Female,Chronic obstructive pulmonary disease,64.47
+South Africa,Both sexes,Total,1321
+South Africa,Both sexes,Lower respiratory infections,595.3
+South Africa,Both sexes,"Trachea, bronchus, lung cancers",49.61
+South Africa,Both sexes,Cataracts,0
+South Africa,Both sexes,Ischaemic heart disease,322
+South Africa,Both sexes,Stroke,184.9
+South Africa,Both sexes,Chronic obstructive pulmonary disease,169.6
+South Africa,Male,Total,1571
+South Africa,Male,Lower respiratory infections,693.7
+South Africa,Male,"Trachea, bronchus, lung cancers",66.91
+South Africa,Male,Ischaemic heart disease,396
+South Africa,Male,Stroke,203.3
+South Africa,Male,Chronic obstructive pulmonary disease,211
+South Africa,Female,Total,1081
+South Africa,Female,Lower respiratory infections,500.4
+South Africa,Female,"Trachea, bronchus, lung cancers",32.92
+South Africa,Female,Cataracts,0
+South Africa,Female,Ischaemic heart disease,250.7
+South Africa,Female,Stroke,167.2
+South Africa,Female,Chronic obstructive pulmonary disease,129.8
+Zambia,Both sexes,Total,1156
+Zambia,Both sexes,Lower respiratory infections,869.4
+Zambia,Both sexes,"Trachea, bronchus, lung cancers",2.85
+Zambia,Both sexes,Cataracts,0
+Zambia,Both sexes,Ischaemic heart disease,152
+Zambia,Both sexes,Stroke,85.95
+Zambia,Both sexes,Chronic obstructive pulmonary disease,45.91
+Zambia,Male,Total,1226
+Zambia,Male,Lower respiratory infections,925.6
+Zambia,Male,"Trachea, bronchus, lung cancers",3.21
+Zambia,Male,Ischaemic heart disease,169.7
+Zambia,Male,Stroke,77.27
+Zambia,Male,Chronic obstructive pulmonary disease,50.19
+Zambia,Female,Total,1087
+Zambia,Female,Lower respiratory infections,814.1
+Zambia,Female,"Trachea, bronchus, lung cancers",2.49
+Zambia,Female,Cataracts,0
+Zambia,Female,Ischaemic heart disease,134.5
+Zambia,Female,Stroke,94.51
+Zambia,Female,Chronic obstructive pulmonary disease,41.69
+Zimbabwe,Both sexes,Total,984
+Zimbabwe,Both sexes,Lower respiratory infections,690.8
+Zimbabwe,Both sexes,"Trachea, bronchus, lung cancers",4.76
+Zimbabwe,Both sexes,Cataracts,0
+Zimbabwe,Both sexes,Ischaemic heart disease,133.2
+Zimbabwe,Both sexes,Stroke,96.32
+Zimbabwe,Both sexes,Chronic obstructive pulmonary disease,58.97
+Zimbabwe,Male,Total,979.9
+Zimbabwe,Male,Lower respiratory infections,720.8
+Zimbabwe,Male,"Trachea, bronchus, lung cancers",6.4
+Zimbabwe,Male,Ischaemic heart disease,109.6
+Zimbabwe,Male,Stroke,81.34
+Zimbabwe,Male,Chronic obstructive pulmonary disease,61.67
+Zimbabwe,Female,Total,987.9
+Zimbabwe,Female,Lower respiratory infections,662.3
+Zimbabwe,Female,"Trachea, bronchus, lung cancers",3.21
+Zimbabwe,Female,Cataracts,0
+Zimbabwe,Female,Ischaemic heart disease,155.5
+Zimbabwe,Female,Stroke,110.5
+Zimbabwe,Female,Chronic obstructive pulmonary disease,56.41
+Argentina,Both sexes,Total,662.6
+Argentina,Both sexes,Lower respiratory infections,152.5
+Argentina,Both sexes,"Trachea, bronchus, lung cancers",43.21
+Argentina,Both sexes,Cataracts,0
+Argentina,Both sexes,Ischaemic heart disease,254
+Argentina,Both sexes,Stroke,100.1
+Argentina,Both sexes,Chronic obstructive pulmonary disease,112.6
+Argentina,Male,Total,795
+Argentina,Male,Lower respiratory infections,165.7
+Argentina,Male,"Trachea, bronchus, lung cancers",59.8
+Argentina,Male,Ischaemic heart disease,332.3
+Argentina,Male,Stroke,111.9
+Argentina,Male,Chronic obstructive pulmonary disease,125.3
+Argentina,Female,Total,535.6
+Argentina,Female,Lower respiratory infections,139.9
+Argentina,Female,"Trachea, bronchus, lung cancers",27.32
+Argentina,Female,Cataracts,0
+Argentina,Female,Ischaemic heart disease,179
+Argentina,Female,Stroke,88.87
+Argentina,Female,Chronic obstructive pulmonary disease,100.5
+Antigua and Barbuda,Both sexes,Total,610.4
+Antigua and Barbuda,Both sexes,Lower respiratory infections,109.7
+Antigua and Barbuda,Both sexes,"Trachea, bronchus, lung cancers",12.57
+Antigua and Barbuda,Both sexes,Cataracts,0
+Antigua and Barbuda,Both sexes,Ischaemic heart disease,295.7
+Antigua and Barbuda,Both sexes,Stroke,144.7
+Antigua and Barbuda,Both sexes,Chronic obstructive pulmonary disease,47.85
+Antigua and Barbuda,Male,Total,725.8
+Antigua and Barbuda,Male,Lower respiratory infections,155.8
+Antigua and Barbuda,Male,"Trachea, bronchus, lung cancers",15.56
+Antigua and Barbuda,Male,Ischaemic heart disease,365.3
+Antigua and Barbuda,Male,Stroke,128.2
+Antigua and Barbuda,Male,Chronic obstructive pulmonary disease,60.93
+Antigua and Barbuda,Female,Total,503.9
+Antigua and Barbuda,Female,Lower respiratory infections,67.11
+Antigua and Barbuda,Female,"Trachea, bronchus, lung cancers",9.8
+Antigua and Barbuda,Female,Cataracts,0
+Antigua and Barbuda,Female,Ischaemic heart disease,231.4
+Antigua and Barbuda,Female,Stroke,159.8
+Antigua and Barbuda,Female,Chronic obstructive pulmonary disease,35.78
+Bahamas,Both sexes,Total,546
+Bahamas,Both sexes,Lower respiratory infections,100.7
+Bahamas,Both sexes,"Trachea, bronchus, lung cancers",29.81
+Bahamas,Both sexes,Cataracts,0
+Bahamas,Both sexes,Ischaemic heart disease,267.5
+Bahamas,Both sexes,Stroke,119.4
+Bahamas,Both sexes,Chronic obstructive pulmonary disease,28.53
+Bahamas,Male,Total,687.7
+Bahamas,Male,Lower respiratory infections,116.3
+Bahamas,Male,"Trachea, bronchus, lung cancers",43.45
+Bahamas,Male,Ischaemic heart disease,356.5
+Bahamas,Male,Stroke,132.8
+Bahamas,Male,Chronic obstructive pulmonary disease,38.64
+Bahamas,Female,Total,410.1
+Bahamas,Female,Lower respiratory infections,85.8
+Bahamas,Female,"Trachea, bronchus, lung cancers",16.73
+Bahamas,Female,Cataracts,0
+Bahamas,Female,Ischaemic heart disease,182.1
+Bahamas,Female,Stroke,106.6
+Bahamas,Female,Chronic obstructive pulmonary disease,18.84
+Belize,Both sexes,Total,605.7
+Belize,Both sexes,Lower respiratory infections,153.2
+Belize,Both sexes,"Trachea, bronchus, lung cancers",33.67
+Belize,Both sexes,Cataracts,0
+Belize,Both sexes,Ischaemic heart disease,258.7
+Belize,Both sexes,Stroke,106.6
+Belize,Both sexes,Chronic obstructive pulmonary disease,53.62
+Belize,Male,Total,768
+Belize,Male,Lower respiratory infections,180
+Belize,Male,"Trachea, bronchus, lung cancers",52.29
+Belize,Male,Ischaemic heart disease,335.1
+Belize,Male,Stroke,126.3
+Belize,Male,Chronic obstructive pulmonary disease,74.35
+Belize,Female,Total,444.6
+Belize,Female,Lower respiratory infections,126.5
+Belize,Female,"Trachea, bronchus, lung cancers",15.18
+Belize,Female,Cataracts,0
+Belize,Female,Ischaemic heart disease,182.8
+Belize,Female,Stroke,87.07
+Belize,Female,Chronic obstructive pulmonary disease,33.05
+Bolivia (Plurinational State of),Both sexes,Total,1025
+Bolivia (Plurinational State of),Both sexes,Lower respiratory infections,410.2
+Bolivia (Plurinational State of),Both sexes,"Trachea, bronchus, lung cancers",10.64
+Bolivia (Plurinational State of),Both sexes,Cataracts,0
+Bolivia (Plurinational State of),Both sexes,Ischaemic heart disease,349.8
+Bolivia (Plurinational State of),Both sexes,Stroke,172.3
+Bolivia (Plurinational State of),Both sexes,Chronic obstructive pulmonary disease,81.68
+Bolivia (Plurinational State of),Male,Total,1156
+Bolivia (Plurinational State of),Male,Lower respiratory infections,454.4
+Bolivia (Plurinational State of),Male,"Trachea, bronchus, lung cancers",10.19
+Bolivia (Plurinational State of),Male,Ischaemic heart disease,427.3
+Bolivia (Plurinational State of),Male,Stroke,177.4
+Bolivia (Plurinational State of),Male,Chronic obstructive pulmonary disease,87.13
+Bolivia (Plurinational State of),Female,Total,892.4
+Bolivia (Plurinational State of),Female,Lower respiratory infections,365.9
+Bolivia (Plurinational State of),Female,"Trachea, bronchus, lung cancers",11.09
+Bolivia (Plurinational State of),Female,Cataracts,0
+Bolivia (Plurinational State of),Female,Ischaemic heart disease,272
+Bolivia (Plurinational State of),Female,Stroke,167.3
+Bolivia (Plurinational State of),Female,Chronic obstructive pulmonary disease,76.21
+Brazil,Both sexes,Total,612.8
+Brazil,Both sexes,Lower respiratory infections,114.6
+Brazil,Both sexes,"Trachea, bronchus, lung cancers",25.91
+Brazil,Both sexes,Cataracts,0
+Brazil,Both sexes,Ischaemic heart disease,273.3
+Brazil,Both sexes,Stroke,121.3
+Brazil,Both sexes,Chronic obstructive pulmonary disease,77.6
+Brazil,Male,Total,734.8
+Brazil,Male,Lower respiratory infections,130.5
+Brazil,Male,"Trachea, bronchus, lung cancers",30.97
+Brazil,Male,Ischaemic heart disease,351.5
+Brazil,Male,Stroke,133.1
+Brazil,Male,Chronic obstructive pulmonary disease,88.73
+Brazil,Female,Total,494.7
+Brazil,Female,Lower respiratory infections,99.23
+Brazil,Female,"Trachea, bronchus, lung cancers",21.03
+Brazil,Female,Cataracts,0
+Brazil,Female,Ischaemic heart disease,197.7
+Brazil,Female,Stroke,110
+Brazil,Female,Chronic obstructive pulmonary disease,66.85
+Barbados,Both sexes,Total,1026
+Barbados,Both sexes,Lower respiratory infections,310.8
+Barbados,Both sexes,"Trachea, bronchus, lung cancers",45.58
+Barbados,Both sexes,Cataracts,0
+Barbados,Both sexes,Ischaemic heart disease,352.8
+Barbados,Both sexes,Stroke,247.1
+Barbados,Both sexes,Chronic obstructive pulmonary disease,69.5
+Barbados,Male,Total,1220
+Barbados,Male,Lower respiratory infections,352.8
+Barbados,Male,"Trachea, bronchus, lung cancers",58.53
+Barbados,Male,Ischaemic heart disease,438.1
+Barbados,Male,Stroke,280.7
+Barbados,Male,Chronic obstructive pulmonary disease,90.24
+Barbados,Female,Total,846.8
+Barbados,Female,Lower respiratory infections,272.2
+Barbados,Female,"Trachea, bronchus, lung cancers",33.68
+Barbados,Female,Cataracts,0
+Barbados,Female,Ischaemic heart disease,274.4
+Barbados,Female,Stroke,216.2
+Barbados,Female,Chronic obstructive pulmonary disease,50.43
+Canada,Both sexes,Total,272.1
+Canada,Both sexes,Lower respiratory infections,13.01
+Canada,Both sexes,"Trachea, bronchus, lung cancers",34.8
+Canada,Both sexes,Cataracts,0
+Canada,Both sexes,Ischaemic heart disease,142
+Canada,Both sexes,Stroke,37.61
+Canada,Both sexes,Chronic obstructive pulmonary disease,44.68
+Canada,Male,Total,327.2
+Canada,Male,Lower respiratory infections,13.24
+Canada,Male,"Trachea, bronchus, lung cancers",37.56
+Canada,Male,Ischaemic heart disease,193.1
+Canada,Male,Stroke,35.87
+Canada,Male,Chronic obstructive pulmonary disease,47.41
+Canada,Female,Total,217.9
+Canada,Female,Lower respiratory infections,12.79
+Canada,Female,"Trachea, bronchus, lung cancers",32.09
+Canada,Female,Cataracts,0
+Canada,Female,Ischaemic heart disease,91.67
+Canada,Female,Stroke,39.33
+Canada,Female,Chronic obstructive pulmonary disease,41.99
+Chile,Both sexes,Total,557.9
+Chile,Both sexes,Lower respiratory infections,70.93
+Chile,Both sexes,"Trachea, bronchus, lung cancers",51.52
+Chile,Both sexes,Cataracts,0
+Chile,Both sexes,Ischaemic heart disease,223.4
+Chile,Both sexes,Stroke,132.1
+Chile,Both sexes,Chronic obstructive pulmonary disease,79.88
+Chile,Male,Total,680.7
+Chile,Male,Lower respiratory infections,81.36
+Chile,Male,"Trachea, bronchus, lung cancers",62.95
+Chile,Male,Ischaemic heart disease,306.1
+Chile,Male,Stroke,143.4
+Chile,Male,Chronic obstructive pulmonary disease,86.85
+Chile,Female,Total,437.4
+Chile,Female,Lower respiratory infections,60.71
+Chile,Female,"Trachea, bronchus, lung cancers",40.3
+Chile,Female,Cataracts,0
+Chile,Female,Ischaemic heart disease,142.3
+Chile,Female,Stroke,121.1
+Chile,Female,Chronic obstructive pulmonary disease,73.03
+Colombia,Both sexes,Total,631.5
+Colombia,Both sexes,Lower respiratory infections,100.4
+Colombia,Both sexes,"Trachea, bronchus, lung cancers",31.83
+Colombia,Both sexes,Cataracts,0
+Colombia,Both sexes,Ischaemic heart disease,331
+Colombia,Both sexes,Stroke,106.1
+Colombia,Both sexes,Chronic obstructive pulmonary disease,62.15
+Colombia,Male,Total,761.3
+Colombia,Male,Lower respiratory infections,115.2
+Colombia,Male,"Trachea, bronchus, lung cancers",38.42
+Colombia,Male,Ischaemic heart disease,427.4
+Colombia,Male,Stroke,110.4
+Colombia,Male,Chronic obstructive pulmonary disease,69.85
+Colombia,Female,Total,505.7
+Colombia,Female,Lower respiratory infections,86.13
+Colombia,Female,"Trachea, bronchus, lung cancers",25.43
+Colombia,Female,Cataracts,0
+Colombia,Female,Ischaemic heart disease,237.6
+Colombia,Female,Stroke,101.8
+Colombia,Female,Chronic obstructive pulmonary disease,54.69
+Costa Rica,Both sexes,Total,461.9
+Costa Rica,Both sexes,Lower respiratory infections,53.31
+Costa Rica,Both sexes,"Trachea, bronchus, lung cancers",16.09
+Costa Rica,Both sexes,Cataracts,0
+Costa Rica,Both sexes,Ischaemic heart disease,255.6
+Costa Rica,Both sexes,Stroke,74.1
+Costa Rica,Both sexes,Chronic obstructive pulmonary disease,62.8
+Costa Rica,Male,Total,577.1
+Costa Rica,Male,Lower respiratory infections,65.06
+Costa Rica,Male,"Trachea, bronchus, lung cancers",21.71
+Costa Rica,Male,Ischaemic heart disease,342.8
+Costa Rica,Male,Stroke,78.28
+Costa Rica,Male,Chronic obstructive pulmonary disease,69.24
+Costa Rica,Female,Total,346.5
+Costa Rica,Female,Lower respiratory infections,41.55
+Costa Rica,Female,"Trachea, bronchus, lung cancers",10.47
+Costa Rica,Female,Cataracts,0
+Costa Rica,Female,Ischaemic heart disease,168.2
+Costa Rica,Female,Stroke,69.92
+Costa Rica,Female,Chronic obstructive pulmonary disease,56.36
+Cuba,Both sexes,Total,1081
+Cuba,Both sexes,Lower respiratory infections,155.4
+Cuba,Both sexes,"Trachea, bronchus, lung cancers",124.4
+Cuba,Both sexes,Cataracts,0
+Cuba,Both sexes,Ischaemic heart disease,482.8
+Cuba,Both sexes,Stroke,176.6
+Cuba,Both sexes,Chronic obstructive pulmonary disease,141.5
+Cuba,Male,Total,1256
+Cuba,Male,Lower respiratory infections,167.3
+Cuba,Male,"Trachea, bronchus, lung cancers",157.8
+Cuba,Male,Ischaemic heart disease,584.4
+Cuba,Male,Stroke,197.5
+Cuba,Male,Chronic obstructive pulmonary disease,148.7
+Cuba,Female,Total,905.6
+Cuba,Female,Lower respiratory infections,143.4
+Cuba,Female,"Trachea, bronchus, lung cancers",91.08
+Cuba,Female,Cataracts,0
+Cuba,Female,Ischaemic heart disease,381.1
+Cuba,Female,Stroke,155.7
+Cuba,Female,Chronic obstructive pulmonary disease,134.3
+Dominica,Both sexes,Cataracts,0
+Dominica,Female,Cataracts,0
+Dominican Republic,Both sexes,Total,796.5
+Dominican Republic,Both sexes,Lower respiratory infections,137.6
+Dominican Republic,Both sexes,"Trachea, bronchus, lung cancers",22.7
+Dominican Republic,Both sexes,Cataracts,0
+Dominican Republic,Both sexes,Ischaemic heart disease,444.4
+Dominican Republic,Both sexes,Stroke,157.3
+Dominican Republic,Both sexes,Chronic obstructive pulmonary disease,34.49
+Dominican Republic,Male,Total,954.6
+Dominican Republic,Male,Lower respiratory infections,162
+Dominican Republic,Male,"Trachea, bronchus, lung cancers",26.73
+Dominican Republic,Male,Ischaemic heart disease,546.4
+Dominican Republic,Male,Stroke,181.4
+Dominican Republic,Male,Chronic obstructive pulmonary disease,37.99
+Dominican Republic,Female,Total,639.7
+Dominican Republic,Female,Lower respiratory infections,113.4
+Dominican Republic,Female,"Trachea, bronchus, lung cancers",18.69
+Dominican Republic,Female,Cataracts,0
+Dominican Republic,Female,Ischaemic heart disease,343.1
+Dominican Republic,Female,Stroke,133.5
+Dominican Republic,Female,Chronic obstructive pulmonary disease,31.01
+Ecuador,Both sexes,Total,456.3
+Ecuador,Both sexes,Lower respiratory infections,143.2
+Ecuador,Both sexes,"Trachea, bronchus, lung cancers",12.1
+Ecuador,Both sexes,Cataracts,0
+Ecuador,Both sexes,Ischaemic heart disease,170.3
+Ecuador,Both sexes,Stroke,83.7
+Ecuador,Both sexes,Chronic obstructive pulmonary disease,47.01
+Ecuador,Male,Total,533.3
+Ecuador,Male,Lower respiratory infections,156.9
+Ecuador,Male,"Trachea, bronchus, lung cancers",13.23
+Ecuador,Male,Ischaemic heart disease,218.7
+Ecuador,Male,Stroke,89.6
+Ecuador,Male,Chronic obstructive pulmonary disease,54.86
+Ecuador,Female,Total,379.2
+Ecuador,Female,Lower respiratory infections,129.4
+Ecuador,Female,"Trachea, bronchus, lung cancers",10.97
+Ecuador,Female,Cataracts,0
+Ecuador,Female,Ischaemic heart disease,121.9
+Ecuador,Female,Stroke,77.8
+Ecuador,Female,Chronic obstructive pulmonary disease,39.15
+Grenada,Both sexes,Total,909.7
+Grenada,Both sexes,Lower respiratory infections,224.7
+Grenada,Both sexes,"Trachea, bronchus, lung cancers",38.07
+Grenada,Both sexes,Cataracts,0
+Grenada,Both sexes,Ischaemic heart disease,445.4
+Grenada,Both sexes,Stroke,146
+Grenada,Both sexes,Chronic obstructive pulmonary disease,55.59
+Grenada,Male,Total,1019
+Grenada,Male,Lower respiratory infections,237.1
+Grenada,Male,"Trachea, bronchus, lung cancers",49.65
+Grenada,Male,Ischaemic heart disease,514.6
+Grenada,Male,Stroke,157.3
+Grenada,Male,Chronic obstructive pulmonary disease,60.77
+Grenada,Female,Total,799.2
+Grenada,Female,Lower respiratory infections,212.2
+Grenada,Female,"Trachea, bronchus, lung cancers",26.4
+Grenada,Female,Cataracts,0
+Grenada,Female,Ischaemic heart disease,375.6
+Grenada,Female,Stroke,134.6
+Grenada,Female,Chronic obstructive pulmonary disease,50.36
+Guatemala,Both sexes,Total,628.1
+Guatemala,Both sexes,Lower respiratory infections,345.8
+Guatemala,Both sexes,"Trachea, bronchus, lung cancers",7.39
+Guatemala,Both sexes,Cataracts,0
+Guatemala,Both sexes,Ischaemic heart disease,165.6
+Guatemala,Both sexes,Stroke,66.67
+Guatemala,Both sexes,Chronic obstructive pulmonary disease,42.65
+Guatemala,Male,Total,678
+Guatemala,Male,Lower respiratory infections,375.3
+Guatemala,Male,"Trachea, bronchus, lung cancers",7.97
+Guatemala,Male,Ischaemic heart disease,184.3
+Guatemala,Male,Stroke,65.42
+Guatemala,Male,Chronic obstructive pulmonary disease,45
+Guatemala,Female,Total,579.8
+Guatemala,Female,Lower respiratory infections,317.2
+Guatemala,Female,"Trachea, bronchus, lung cancers",6.83
+Guatemala,Female,Cataracts,0
+Guatemala,Female,Ischaemic heart disease,147.5
+Guatemala,Female,Stroke,67.87
+Guatemala,Female,Chronic obstructive pulmonary disease,40.38
+Guyana,Both sexes,Total,1310
+Guyana,Both sexes,Lower respiratory infections,233.5
+Guyana,Both sexes,"Trachea, bronchus, lung cancers",11
+Guyana,Both sexes,Cataracts,0
+Guyana,Both sexes,Ischaemic heart disease,690.7
+Guyana,Both sexes,Stroke,296.8
+Guyana,Both sexes,Chronic obstructive pulmonary disease,78.38
+Guyana,Male,Total,1493
+Guyana,Male,Lower respiratory infections,261.1
+Guyana,Male,"Trachea, bronchus, lung cancers",13.1
+Guyana,Male,Ischaemic heart disease,825
+Guyana,Male,Stroke,291.2
+Guyana,Male,Chronic obstructive pulmonary disease,102.3
+Guyana,Female,Total,1125
+Guyana,Female,Lower respiratory infections,205.4
+Guyana,Female,"Trachea, bronchus, lung cancers",8.87
+Guyana,Female,Cataracts,0
+Guyana,Female,Ischaemic heart disease,554.2
+Guyana,Female,Stroke,302.4
+Guyana,Female,Chronic obstructive pulmonary disease,54
+Honduras,Both sexes,Total,530.7
+Honduras,Both sexes,Lower respiratory infections,99.08
+Honduras,Both sexes,"Trachea, bronchus, lung cancers",11.2
+Honduras,Both sexes,Cataracts,0
+Honduras,Both sexes,Ischaemic heart disease,295.4
+Honduras,Both sexes,Stroke,67.94
+Honduras,Both sexes,Chronic obstructive pulmonary disease,57.02
+Honduras,Male,Total,661.8
+Honduras,Male,Lower respiratory infections,116.7
+Honduras,Male,"Trachea, bronchus, lung cancers",12.86
+Honduras,Male,Ischaemic heart disease,400.2
+Honduras,Male,Stroke,84.81
+Honduras,Male,Chronic obstructive pulmonary disease,47.17
+Honduras,Female,Total,400.3
+Honduras,Female,Lower respiratory infections,81.51
+Honduras,Female,"Trachea, bronchus, lung cancers",9.55
+Honduras,Female,Cataracts,0
+Honduras,Female,Ischaemic heart disease,191.2
+Honduras,Female,Stroke,51.17
+Honduras,Female,Chronic obstructive pulmonary disease,66.82
+Haiti,Both sexes,Total,1433
+Haiti,Both sexes,Lower respiratory infections,600.9
+Haiti,Both sexes,"Trachea, bronchus, lung cancers",11.49
+Haiti,Both sexes,Cataracts,0
+Haiti,Both sexes,Ischaemic heart disease,491.5
+Haiti,Both sexes,Stroke,264.9
+Haiti,Both sexes,Chronic obstructive pulmonary disease,64.61
+Haiti,Male,Total,1559
+Haiti,Male,Lower respiratory infections,678.5
+Haiti,Male,"Trachea, bronchus, lung cancers",10.28
+Haiti,Male,Ischaemic heart disease,556.3
+Haiti,Male,Stroke,239.9
+Haiti,Male,Chronic obstructive pulmonary disease,74.11
+Haiti,Female,Total,1311
+Haiti,Female,Lower respiratory infections,525.1
+Haiti,Female,"Trachea, bronchus, lung cancers",12.67
+Haiti,Female,Cataracts,0
+Haiti,Female,Ischaemic heart disease,428.2
+Haiti,Female,Stroke,289.4
+Haiti,Female,Chronic obstructive pulmonary disease,55.32
+Jamaica,Both sexes,Total,451.5
+Jamaica,Both sexes,Lower respiratory infections,51.03
+Jamaica,Both sexes,"Trachea, bronchus, lung cancers",32.78
+Jamaica,Both sexes,Cataracts,0
+Jamaica,Both sexes,Ischaemic heart disease,167
+Jamaica,Both sexes,Stroke,153.2
+Jamaica,Both sexes,Chronic obstructive pulmonary disease,47.54
+Jamaica,Male,Total,517.7
+Jamaica,Male,Lower respiratory infections,54.91
+Jamaica,Male,"Trachea, bronchus, lung cancers",53.55
+Jamaica,Male,Ischaemic heart disease,187.1
+Jamaica,Male,Stroke,150.7
+Jamaica,Male,Chronic obstructive pulmonary disease,71.44
+Jamaica,Female,Total,386.1
+Jamaica,Female,Lower respiratory infections,47.18
+Jamaica,Female,"Trachea, bronchus, lung cancers",12.22
+Jamaica,Female,Cataracts,0
+Jamaica,Female,Ischaemic heart disease,147
+Jamaica,Female,Stroke,155.8
+Jamaica,Female,Chronic obstructive pulmonary disease,23.86
+Saint Kitts and Nevis,Both sexes,Cataracts,0
+Saint Kitts and Nevis,Female,Cataracts,0
+Saint Lucia,Both sexes,Total,780.1
+Saint Lucia,Both sexes,Lower respiratory infections,117.1
+Saint Lucia,Both sexes,"Trachea, bronchus, lung cancers",36.94
+Saint Lucia,Both sexes,Cataracts,0
+Saint Lucia,Both sexes,Ischaemic heart disease,288.3
+Saint Lucia,Both sexes,Stroke,210.1
+Saint Lucia,Both sexes,Chronic obstructive pulmonary disease,127.6
+Saint Lucia,Male,Total,929.8
+Saint Lucia,Male,Lower respiratory infections,121.4
+Saint Lucia,Male,"Trachea, bronchus, lung cancers",60.74
+Saint Lucia,Male,Ischaemic heart disease,327.8
+Saint Lucia,Male,Stroke,217.1
+Saint Lucia,Male,Chronic obstructive pulmonary disease,202.8
+Saint Lucia,Female,Total,636.4
+Saint Lucia,Female,Lower respiratory infections,113
+Saint Lucia,Female,"Trachea, bronchus, lung cancers",14.11
+Saint Lucia,Female,Cataracts,0
+Saint Lucia,Female,Ischaemic heart disease,250.4
+Saint Lucia,Female,Stroke,203.4
+Saint Lucia,Female,Chronic obstructive pulmonary disease,55.46
+Mexico,Both sexes,Total,534.4
+Mexico,Both sexes,Lower respiratory infections,105.2
+Mexico,Both sexes,"Trachea, bronchus, lung cancers",15.82
+Mexico,Both sexes,Cataracts,0
+Mexico,Both sexes,Ischaemic heart disease,264.6
+Mexico,Both sexes,Stroke,75.24
+Mexico,Both sexes,Chronic obstructive pulmonary disease,73.49
+Mexico,Male,Total,640.8
+Mexico,Male,Lower respiratory infections,121.3
+Mexico,Male,"Trachea, bronchus, lung cancers",19.44
+Mexico,Male,Ischaemic heart disease,338.8
+Mexico,Male,Stroke,79.99
+Mexico,Male,Chronic obstructive pulmonary disease,81.27
+Mexico,Female,Total,428.8
+Mexico,Female,Lower respiratory infections,89.24
+Mexico,Female,"Trachea, bronchus, lung cancers",12.22
+Mexico,Female,Cataracts,0
+Mexico,Female,Ischaemic heart disease,191
+Mexico,Female,Stroke,70.53
+Mexico,Female,Chronic obstructive pulmonary disease,65.78
+Nicaragua,Both sexes,Total,532.2
+Nicaragua,Both sexes,Lower respiratory infections,153.4
+Nicaragua,Both sexes,"Trachea, bronchus, lung cancers",13.23
+Nicaragua,Both sexes,Cataracts,0
+Nicaragua,Both sexes,Ischaemic heart disease,237.7
+Nicaragua,Both sexes,Stroke,81.45
+Nicaragua,Both sexes,Chronic obstructive pulmonary disease,46.4
+Nicaragua,Male,Total,603.2
+Nicaragua,Male,Lower respiratory infections,186.9
+Nicaragua,Male,"Trachea, bronchus, lung cancers",16.38
+Nicaragua,Male,Ischaemic heart disease,268.3
+Nicaragua,Male,Stroke,81.84
+Nicaragua,Male,Chronic obstructive pulmonary disease,49.75
+Nicaragua,Female,Total,463.2
+Nicaragua,Female,Lower respiratory infections,120.8
+Nicaragua,Female,"Trachea, bronchus, lung cancers",10.18
+Nicaragua,Female,Cataracts,0
+Nicaragua,Female,Ischaemic heart disease,208
+Nicaragua,Female,Stroke,81.07
+Nicaragua,Female,Chronic obstructive pulmonary disease,43.14
+Panama,Both sexes,Total,393.1
+Panama,Both sexes,Lower respiratory infections,81.65
+Panama,Both sexes,"Trachea, bronchus, lung cancers",13.26
+Panama,Both sexes,Cataracts,0
+Panama,Both sexes,Ischaemic heart disease,172.9
+Panama,Both sexes,Stroke,77
+Panama,Both sexes,Chronic obstructive pulmonary disease,48.27
+Panama,Male,Total,483.3
+Panama,Male,Lower respiratory infections,92.57
+Panama,Male,"Trachea, bronchus, lung cancers",16.41
+Panama,Male,Ischaemic heart disease,226.4
+Panama,Male,Stroke,92.87
+Panama,Male,Chronic obstructive pulmonary disease,55.04
+Panama,Female,Total,302.5
+Panama,Female,Lower respiratory infections,70.67
+Panama,Female,"Trachea, bronchus, lung cancers",10.09
+Panama,Female,Cataracts,0
+Panama,Female,Ischaemic heart disease,119.2
+Panama,Female,Stroke,61.05
+Panama,Female,Chronic obstructive pulmonary disease,41.46
+Peru,Both sexes,Total,828
+Peru,Both sexes,Lower respiratory infections,366.8
+Peru,Both sexes,"Trachea, bronchus, lung cancers",26.91
+Peru,Both sexes,Cataracts,0
+Peru,Both sexes,Ischaemic heart disease,259.4
+Peru,Both sexes,Stroke,108.9
+Peru,Both sexes,Chronic obstructive pulmonary disease,65.94
+Peru,Male,Total,958.5
+Peru,Male,Lower respiratory infections,410.2
+Peru,Male,"Trachea, bronchus, lung cancers",26.68
+Peru,Male,Ischaemic heart disease,330.9
+Peru,Male,Stroke,115.7
+Peru,Male,Chronic obstructive pulmonary disease,74.96
+Peru,Female,Total,697.8
+Peru,Female,Lower respiratory infections,323.5
+Peru,Female,"Trachea, bronchus, lung cancers",27.14
+Peru,Female,Cataracts,0
+Peru,Female,Ischaemic heart disease,188
+Peru,Female,Stroke,102.1
+Peru,Female,Chronic obstructive pulmonary disease,56.94
+Paraguay,Both sexes,Total,528.3
+Paraguay,Both sexes,Lower respiratory infections,94.01
+Paraguay,Both sexes,"Trachea, bronchus, lung cancers",19.17
+Paraguay,Both sexes,Cataracts,0
+Paraguay,Both sexes,Ischaemic heart disease,250.8
+Paraguay,Both sexes,Stroke,125.2
+Paraguay,Both sexes,Chronic obstructive pulmonary disease,39.22
+Paraguay,Male,Total,605.4
+Paraguay,Male,Lower respiratory infections,101.7
+Paraguay,Male,"Trachea, bronchus, lung cancers",30.58
+Paraguay,Male,Ischaemic heart disease,301.1
+Paraguay,Male,Stroke,121.6
+Paraguay,Male,Chronic obstructive pulmonary disease,50.53
+Paraguay,Female,Total,449
+Paraguay,Female,Lower respiratory infections,86.13
+Paraguay,Female,"Trachea, bronchus, lung cancers",7.43
+Paraguay,Female,Cataracts,0
+Paraguay,Female,Ischaemic heart disease,199
+Paraguay,Female,Stroke,128.8
+Paraguay,Female,Chronic obstructive pulmonary disease,27.58
+El Salvador,Both sexes,Total,753.3
+El Salvador,Both sexes,Lower respiratory infections,213.5
+El Salvador,Both sexes,"Trachea, bronchus, lung cancers",17.63
+El Salvador,Both sexes,Cataracts,0
+El Salvador,Both sexes,Ischaemic heart disease,383.5
+El Salvador,Both sexes,Stroke,79.3
+El Salvador,Both sexes,Chronic obstructive pulmonary disease,59.33
+El Salvador,Male,Total,931.6
+El Salvador,Male,Lower respiratory infections,276.8
+El Salvador,Male,"Trachea, bronchus, lung cancers",19.9
+El Salvador,Male,Ischaemic heart disease,484.7
+El Salvador,Male,Stroke,87.88
+El Salvador,Male,Chronic obstructive pulmonary disease,62.25
+El Salvador,Female,Total,595.1
+El Salvador,Female,Lower respiratory infections,157.3
+El Salvador,Female,"Trachea, bronchus, lung cancers",15.61
+El Salvador,Female,Cataracts,0
+El Salvador,Female,Ischaemic heart disease,293.7
+El Salvador,Female,Stroke,71.68
+El Salvador,Female,Chronic obstructive pulmonary disease,56.74
+Suriname,Both sexes,Total,1026
+Suriname,Both sexes,Lower respiratory infections,169.2
+Suriname,Both sexes,"Trachea, bronchus, lung cancers",43.31
+Suriname,Both sexes,Cataracts,0
+Suriname,Both sexes,Ischaemic heart disease,469.8
+Suriname,Both sexes,Stroke,285.5
+Suriname,Both sexes,Chronic obstructive pulmonary disease,58.25
+Suriname,Male,Total,1301
+Suriname,Male,Lower respiratory infections,204.4
+Suriname,Male,"Trachea, bronchus, lung cancers",61.89
+Suriname,Male,Ischaemic heart disease,634.2
+Suriname,Male,Stroke,333.1
+Suriname,Male,Chronic obstructive pulmonary disease,67.32
+Suriname,Female,Total,749.1
+Suriname,Female,Lower respiratory infections,133.8
+Suriname,Female,"Trachea, bronchus, lung cancers",24.59
+Suriname,Female,Cataracts,0
+Suriname,Female,Ischaemic heart disease,304.2
+Suriname,Female,Stroke,237.5
+Suriname,Female,Chronic obstructive pulmonary disease,49.1
+Trinidad and Tobago,Both sexes,Total,1091
+Trinidad and Tobago,Both sexes,Lower respiratory infections,130.5
+Trinidad and Tobago,Both sexes,"Trachea, bronchus, lung cancers",41.31
+Trinidad and Tobago,Both sexes,Cataracts,0
+Trinidad and Tobago,Both sexes,Ischaemic heart disease,631.1
+Trinidad and Tobago,Both sexes,Stroke,217.7
+Trinidad and Tobago,Both sexes,Chronic obstructive pulmonary disease,70.81
+Trinidad and Tobago,Male,Total,1366
+Trinidad and Tobago,Male,Lower respiratory infections,156.4
+Trinidad and Tobago,Male,"Trachea, bronchus, lung cancers",62.71
+Trinidad and Tobago,Male,Ischaemic heart disease,802.6
+Trinidad and Tobago,Male,Stroke,240.4
+Trinidad and Tobago,Male,Chronic obstructive pulmonary disease,103.4
+Trinidad and Tobago,Female,Total,824.8
+Trinidad and Tobago,Female,Lower respiratory infections,105.3
+Trinidad and Tobago,Female,"Trachea, bronchus, lung cancers",20.5
+Trinidad and Tobago,Female,Cataracts,0
+Trinidad and Tobago,Female,Ischaemic heart disease,464.4
+Trinidad and Tobago,Female,Stroke,195.5
+Trinidad and Tobago,Female,Chronic obstructive pulmonary disease,39.06
+Uruguay,Both sexes,Total,532.1
+Uruguay,Both sexes,Lower respiratory infections,48.96
+Uruguay,Both sexes,"Trachea, bronchus, lung cancers",51.29
+Uruguay,Both sexes,Cataracts,0
+Uruguay,Both sexes,Ischaemic heart disease,224.3
+Uruguay,Both sexes,Stroke,111.9
+Uruguay,Both sexes,Chronic obstructive pulmonary disease,95.66
+Uruguay,Male,Total,656.2
+Uruguay,Male,Lower respiratory infections,52.84
+Uruguay,Male,"Trachea, bronchus, lung cancers",79.41
+Uruguay,Male,Ischaemic heart disease,292.4
+Uruguay,Male,Stroke,108.3
+Uruguay,Male,Chronic obstructive pulmonary disease,123.2
+Uruguay,Female,Total,416.2
+Uruguay,Female,Lower respiratory infections,45.34
+Uruguay,Female,"Trachea, bronchus, lung cancers",25.02
+Uruguay,Female,Cataracts,0
+Uruguay,Female,Ischaemic heart disease,160.7
+Uruguay,Female,Stroke,115.1
+Uruguay,Female,Chronic obstructive pulmonary disease,69.97
+United States of America,Both sexes,Total,515.5
+United States of America,Both sexes,Lower respiratory infections,24.45
+United States of America,Both sexes,"Trachea, bronchus, lung cancers",39.25
+United States of America,Both sexes,Cataracts,0
+United States of America,Both sexes,Ischaemic heart disease,279.8
+United States of America,Both sexes,Stroke,62.5
+United States of America,Both sexes,Chronic obstructive pulmonary disease,109.5
+United States of America,Male,Total,617.4
+United States of America,Male,Lower respiratory infections,25.96
+United States of America,Male,"Trachea, bronchus, lung cancers",43.89
+United States of America,Male,Ischaemic heart disease,369.9
+United States of America,Male,Stroke,61.73
+United States of America,Male,Chronic obstructive pulmonary disease,116
+United States of America,Female,Total,415.7
+United States of America,Female,Lower respiratory infections,22.97
+United States of America,Female,"Trachea, bronchus, lung cancers",34.7
+United States of America,Female,Cataracts,0
+United States of America,Female,Ischaemic heart disease,191.6
+United States of America,Female,Stroke,63.26
+United States of America,Female,Chronic obstructive pulmonary disease,103.2
+Saint Vincent and the Grenadines,Both sexes,Total,984.4
+Saint Vincent and the Grenadines,Both sexes,Lower respiratory infections,222.2
+Saint Vincent and the Grenadines,Both sexes,"Trachea, bronchus, lung cancers",28.15
+Saint Vincent and the Grenadines,Both sexes,Cataracts,0
+Saint Vincent and the Grenadines,Both sexes,Ischaemic heart disease,422.7
+Saint Vincent and the Grenadines,Both sexes,Stroke,242.6
+Saint Vincent and the Grenadines,Both sexes,Chronic obstructive pulmonary disease,68.65
+Saint Vincent and the Grenadines,Male,Total,1160
+Saint Vincent and the Grenadines,Male,Lower respiratory infections,236.9
+Saint Vincent and the Grenadines,Male,"Trachea, bronchus, lung cancers",35.19
+Saint Vincent and the Grenadines,Male,Ischaemic heart disease,469.4
+Saint Vincent and the Grenadines,Male,Stroke,310.2
+Saint Vincent and the Grenadines,Male,Chronic obstructive pulmonary disease,108.3
+Saint Vincent and the Grenadines,Female,Total,805.7
+Saint Vincent and the Grenadines,Female,Lower respiratory infections,207.2
+Saint Vincent and the Grenadines,Female,"Trachea, bronchus, lung cancers",20.98
+Saint Vincent and the Grenadines,Female,Cataracts,0
+Saint Vincent and the Grenadines,Female,Ischaemic heart disease,375.3
+Saint Vincent and the Grenadines,Female,Stroke,173.9
+Saint Vincent and the Grenadines,Female,Chronic obstructive pulmonary disease,28.28
+Venezuela (Bolivarian Republic of),Both sexes,Total,681.1
+Venezuela (Bolivarian Republic of),Both sexes,Lower respiratory infections,103.2
+Venezuela (Bolivarian Republic of),Both sexes,"Trachea, bronchus, lung cancers",33.98
+Venezuela (Bolivarian Republic of),Both sexes,Cataracts,0
+Venezuela (Bolivarian Republic of),Both sexes,Ischaemic heart disease,371.3
+Venezuela (Bolivarian Republic of),Both sexes,Stroke,112
+Venezuela (Bolivarian Republic of),Both sexes,Chronic obstructive pulmonary disease,60.56
+Venezuela (Bolivarian Republic of),Male,Total,868.2
+Venezuela (Bolivarian Republic of),Male,Lower respiratory infections,122.9
+Venezuela (Bolivarian Republic of),Male,"Trachea, bronchus, lung cancers",40.99
+Venezuela (Bolivarian Republic of),Male,Ischaemic heart disease,510
+Venezuela (Bolivarian Republic of),Male,Stroke,126.2
+Venezuela (Bolivarian Republic of),Male,Chronic obstructive pulmonary disease,68.05
+Venezuela (Bolivarian Republic of),Female,Total,495.7
+Venezuela (Bolivarian Republic of),Female,Lower respiratory infections,83.73
+Venezuela (Bolivarian Republic of),Female,"Trachea, bronchus, lung cancers",27.04
+Venezuela (Bolivarian Republic of),Female,Cataracts,0
+Venezuela (Bolivarian Republic of),Female,Ischaemic heart disease,233.9
+Venezuela (Bolivarian Republic of),Female,Stroke,97.96
+Venezuela (Bolivarian Republic of),Female,Chronic obstructive pulmonary disease,53.14
+Afghanistan,Both sexes,Total,2339
+Afghanistan,Both sexes,Lower respiratory infections,1301
+Afghanistan,Both sexes,"Trachea, bronchus, lung cancers",23.38
+Afghanistan,Both sexes,Cataracts,0
+Afghanistan,Both sexes,Ischaemic heart disease,654
+Afghanistan,Both sexes,Stroke,254.1
+Afghanistan,Both sexes,Chronic obstructive pulmonary disease,106.4
+Afghanistan,Male,Total,2344
+Afghanistan,Male,Lower respiratory infections,1208
+Afghanistan,Male,"Trachea, bronchus, lung cancers",32.82
+Afghanistan,Male,Ischaemic heart disease,763.2
+Afghanistan,Male,Stroke,230.3
+Afghanistan,Male,Chronic obstructive pulmonary disease,109.2
+Afghanistan,Female,Total,2334
+Afghanistan,Female,Lower respiratory infections,1400
+Afghanistan,Female,"Trachea, bronchus, lung cancers",13.34
+Afghanistan,Female,Cataracts,0
+Afghanistan,Female,Ischaemic heart disease,537.8
+Afghanistan,Female,Stroke,279.4
+Afghanistan,Female,Chronic obstructive pulmonary disease,103.5
+United Arab Emirates,Both sexes,Total,611.6
+United Arab Emirates,Both sexes,Lower respiratory infections,39.12
+United Arab Emirates,Both sexes,"Trachea, bronchus, lung cancers",14.18
+United Arab Emirates,Both sexes,Cataracts,0
+United Arab Emirates,Both sexes,Ischaemic heart disease,347.9
+United Arab Emirates,Both sexes,Stroke,129.7
+United Arab Emirates,Both sexes,Chronic obstructive pulmonary disease,80.74
+United Arab Emirates,Male,Total,717.4
+United Arab Emirates,Male,Lower respiratory infections,39.24
+United Arab Emirates,Male,"Trachea, bronchus, lung cancers",14.74
+United Arab Emirates,Male,Ischaemic heart disease,426.7
+United Arab Emirates,Male,Stroke,137.9
+United Arab Emirates,Male,Chronic obstructive pulmonary disease,98.74
+United Arab Emirates,Female,Total,329
+United Arab Emirates,Female,Lower respiratory infections,38.8
+United Arab Emirates,Female,"Trachea, bronchus, lung cancers",12.67
+United Arab Emirates,Female,Cataracts,0
+United Arab Emirates,Female,Ischaemic heart disease,137.3
+United Arab Emirates,Female,Stroke,107.6
+United Arab Emirates,Female,Chronic obstructive pulmonary disease,32.65
+Bahrain,Both sexes,Total,488.6
+Bahrain,Both sexes,Lower respiratory infections,61.71
+Bahrain,Both sexes,"Trachea, bronchus, lung cancers",35.06
+Bahrain,Both sexes,Cataracts,0
+Bahrain,Both sexes,Ischaemic heart disease,276.5
+Bahrain,Both sexes,Stroke,53.91
+Bahrain,Both sexes,Chronic obstructive pulmonary disease,61.37
+Bahrain,Male,Total,542.1
+Bahrain,Male,Lower respiratory infections,59.9
+Bahrain,Male,"Trachea, bronchus, lung cancers",40.29
+Bahrain,Male,Ischaemic heart disease,324.1
+Bahrain,Male,Stroke,52.12
+Bahrain,Male,Chronic obstructive pulmonary disease,65.74
+Bahrain,Female,Total,400.8
+Bahrain,Female,Lower respiratory infections,64.68
+Bahrain,Female,"Trachea, bronchus, lung cancers",26.48
+Bahrain,Female,Cataracts,0
+Bahrain,Female,Ischaemic heart disease,198.6
+Bahrain,Female,Stroke,56.86
+Bahrain,Female,Chronic obstructive pulmonary disease,54.22
+Djibouti,Both sexes,Total,1763
+Djibouti,Both sexes,Lower respiratory infections,1069
+Djibouti,Both sexes,"Trachea, bronchus, lung cancers",12.04
+Djibouti,Both sexes,Cataracts,0
+Djibouti,Both sexes,Ischaemic heart disease,383.4
+Djibouti,Both sexes,Stroke,211.5
+Djibouti,Both sexes,Chronic obstructive pulmonary disease,87.48
+Djibouti,Male,Total,1972
+Djibouti,Male,Lower respiratory infections,1145
+Djibouti,Male,"Trachea, bronchus, lung cancers",12.01
+Djibouti,Male,Ischaemic heart disease,483.6
+Djibouti,Male,Stroke,223
+Djibouti,Male,Chronic obstructive pulmonary disease,108.6
+Djibouti,Female,Total,1552
+Djibouti,Female,Lower respiratory infections,991.3
+Djibouti,Female,"Trachea, bronchus, lung cancers",12.07
+Djibouti,Female,Cataracts,0
+Djibouti,Female,Ischaemic heart disease,282.5
+Djibouti,Female,Stroke,199.9
+Djibouti,Female,Chronic obstructive pulmonary disease,66.21
+Egypt,Both sexes,Total,2162
+Egypt,Both sexes,Lower respiratory infections,481.1
+Egypt,Both sexes,"Trachea, bronchus, lung cancers",46.71
+Egypt,Both sexes,Cataracts,0
+Egypt,Both sexes,Ischaemic heart disease,1112
+Egypt,Both sexes,Stroke,338.2
+Egypt,Both sexes,Chronic obstructive pulmonary disease,184
+Egypt,Male,Total,2500
+Egypt,Male,Lower respiratory infections,565.6
+Egypt,Male,"Trachea, bronchus, lung cancers",65.93
+Egypt,Male,Ischaemic heart disease,1306
+Egypt,Male,Stroke,338.2
+Egypt,Male,Chronic obstructive pulmonary disease,223.9
+Egypt,Female,Total,1816
+Egypt,Female,Lower respiratory infections,394.6
+Egypt,Female,"Trachea, bronchus, lung cancers",27.05
+Egypt,Female,Cataracts,0
+Egypt,Female,Ischaemic heart disease,913.5
+Egypt,Female,Stroke,338.1
+Egypt,Female,Chronic obstructive pulmonary disease,143.2
+Iran (Islamic Republic of),Both sexes,Total,821.9
+Iran (Islamic Republic of),Both sexes,Lower respiratory infections,134.7
+Iran (Islamic Republic of),Both sexes,"Trachea, bronchus, lung cancers",30.97
+Iran (Islamic Republic of),Both sexes,Cataracts,0
+Iran (Islamic Republic of),Both sexes,Ischaemic heart disease,450.3
+Iran (Islamic Republic of),Both sexes,Stroke,124.6
+Iran (Islamic Republic of),Both sexes,Chronic obstructive pulmonary disease,81.35
+Iran (Islamic Republic of),Male,Total,961.4
+Iran (Islamic Republic of),Male,Lower respiratory infections,138.5
+Iran (Islamic Republic of),Male,"Trachea, bronchus, lung cancers",41.08
+Iran (Islamic Republic of),Male,Ischaemic heart disease,547.9
+Iran (Islamic Republic of),Male,Stroke,132.5
+Iran (Islamic Republic of),Male,Chronic obstructive pulmonary disease,101.4
+Iran (Islamic Republic of),Female,Total,680.7
+Iran (Islamic Republic of),Female,Lower respiratory infections,130.9
+Iran (Islamic Republic of),Female,"Trachea, bronchus, lung cancers",20.73
+Iran (Islamic Republic of),Female,Cataracts,0
+Iran (Islamic Republic of),Female,Ischaemic heart disease,351.4
+Iran (Islamic Republic of),Female,Stroke,116.6
+Iran (Islamic Republic of),Female,Chronic obstructive pulmonary disease,61.09
+Iraq,Both sexes,Total,1250
+Iraq,Both sexes,Lower respiratory infections,543.7
+Iraq,Both sexes,"Trachea, bronchus, lung cancers",45.72
+Iraq,Both sexes,Cataracts,0
+Iraq,Both sexes,Ischaemic heart disease,458.3
+Iraq,Both sexes,Stroke,149.7
+Iraq,Both sexes,Chronic obstructive pulmonary disease,53.13
+Iraq,Male,Total,1494
+Iraq,Male,Lower respiratory infections,706
+Iraq,Male,"Trachea, bronchus, lung cancers",67.42
+Iraq,Male,Ischaemic heart disease,522.7
+Iraq,Male,Stroke,142.7
+Iraq,Male,Chronic obstructive pulmonary disease,55.67
+Iraq,Female,Total,1000
+Iraq,Female,Lower respiratory infections,377.4
+Iraq,Female,"Trachea, bronchus, lung cancers",23.47
+Iraq,Female,Cataracts,0
+Iraq,Female,Ischaemic heart disease,392.3
+Iraq,Female,Stroke,156.8
+Iraq,Female,Chronic obstructive pulmonary disease,50.52
+Jordan,Both sexes,Total,763.1
+Jordan,Both sexes,Lower respiratory infections,157.3
+Jordan,Both sexes,"Trachea, bronchus, lung cancers",30.01
+Jordan,Both sexes,Cataracts,0
+Jordan,Both sexes,Ischaemic heart disease,407.8
+Jordan,Both sexes,Stroke,120.8
+Jordan,Both sexes,Chronic obstructive pulmonary disease,47.26
+Jordan,Male,Total,945.2
+Jordan,Male,Lower respiratory infections,160.3
+Jordan,Male,"Trachea, bronchus, lung cancers",50.49
+Jordan,Male,Ischaemic heart disease,552.3
+Jordan,Male,Stroke,117.2
+Jordan,Male,Chronic obstructive pulmonary disease,64.94
+Jordan,Female,Total,576.2
+Jordan,Female,Lower respiratory infections,154.2
+Jordan,Female,"Trachea, bronchus, lung cancers",9
+Jordan,Female,Cataracts,0
+Jordan,Female,Ischaemic heart disease,259.5
+Jordan,Female,Stroke,124.5
+Jordan,Female,Chronic obstructive pulmonary disease,29.12
+Kuwait,Both sexes,Total,1180
+Kuwait,Both sexes,Lower respiratory infections,226.2
+Kuwait,Both sexes,"Trachea, bronchus, lung cancers",38.59
+Kuwait,Both sexes,Cataracts,0
+Kuwait,Both sexes,Ischaemic heart disease,716
+Kuwait,Both sexes,Stroke,133
+Kuwait,Both sexes,Chronic obstructive pulmonary disease,66.27
+Kuwait,Male,Total,1520
+Kuwait,Male,Lower respiratory infections,220.2
+Kuwait,Male,"Trachea, bronchus, lung cancers",54.02
+Kuwait,Male,Ischaemic heart disease,1018
+Kuwait,Male,Stroke,155
+Kuwait,Male,Chronic obstructive pulmonary disease,73.29
+Kuwait,Female,Total,721.5
+Kuwait,Female,Lower respiratory infections,234.4
+Kuwait,Female,"Trachea, bronchus, lung cancers",17.76
+Kuwait,Female,Cataracts,0
+Kuwait,Female,Ischaemic heart disease,309.2
+Kuwait,Female,Stroke,103.4
+Kuwait,Female,Chronic obstructive pulmonary disease,56.79
+Lebanon,Both sexes,Total,1179
+Lebanon,Both sexes,Lower respiratory infections,61.47
+Lebanon,Both sexes,"Trachea, bronchus, lung cancers",72.34
+Lebanon,Both sexes,Cataracts,0
+Lebanon,Both sexes,Ischaemic heart disease,835.4
+Lebanon,Both sexes,Stroke,110.5
+Lebanon,Both sexes,Chronic obstructive pulmonary disease,99.03
+Lebanon,Male,Total,1451
+Lebanon,Male,Lower respiratory infections,58.31
+Lebanon,Male,"Trachea, bronchus, lung cancers",101.1
+Lebanon,Male,Ischaemic heart disease,1132
+Lebanon,Male,Stroke,54.97
+Lebanon,Male,Chronic obstructive pulmonary disease,104.3
+Lebanon,Female,Total,904.4
+Lebanon,Female,Lower respiratory infections,64.65
+Lebanon,Female,"Trachea, bronchus, lung cancers",43.41
+Lebanon,Female,Cataracts,0
+Lebanon,Female,Ischaemic heart disease,536.2
+Lebanon,Female,Stroke,166.5
+Lebanon,Female,Chronic obstructive pulmonary disease,93.69
+Libya,Both sexes,Total,1222
+Libya,Both sexes,Lower respiratory infections,179.5
+Libya,Both sexes,"Trachea, bronchus, lung cancers",72.23
+Libya,Both sexes,Cataracts,0
+Libya,Both sexes,Ischaemic heart disease,700.4
+Libya,Both sexes,Stroke,171.5
+Libya,Both sexes,Chronic obstructive pulmonary disease,98.65
+Libya,Male,Total,1494
+Libya,Male,Lower respiratory infections,192.8
+Libya,Male,"Trachea, bronchus, lung cancers",123.5
+Libya,Male,Ischaemic heart disease,875.2
+Libya,Male,Stroke,181.5
+Libya,Male,Chronic obstructive pulmonary disease,120.9
+Libya,Female,Total,945.9
+Libya,Female,Lower respiratory infections,165.9
+Libya,Female,"Trachea, bronchus, lung cancers",20.04
+Libya,Female,Cataracts,0
+Libya,Female,Ischaemic heart disease,522.6
+Libya,Female,Stroke,161.3
+Libya,Female,Chronic obstructive pulmonary disease,76.02
+Morocco,Both sexes,Total,892.3
+Morocco,Both sexes,Lower respiratory infections,209.8
+Morocco,Both sexes,"Trachea, bronchus, lung cancers",59.61
+Morocco,Both sexes,Cataracts,0
+Morocco,Both sexes,Ischaemic heart disease,429.5
+Morocco,Both sexes,Stroke,119.7
+Morocco,Both sexes,Chronic obstructive pulmonary disease,73.73
+Morocco,Male,Total,1002
+Morocco,Male,Lower respiratory infections,224.8
+Morocco,Male,"Trachea, bronchus, lung cancers",106.7
+Morocco,Male,Ischaemic heart disease,466
+Morocco,Male,Stroke,115.2
+Morocco,Male,Chronic obstructive pulmonary disease,89.13
+Morocco,Female,Total,785
+Morocco,Female,Lower respiratory infections,195.1
+Morocco,Female,"Trachea, bronchus, lung cancers",13.46
+Morocco,Female,Cataracts,0
+Morocco,Female,Ischaemic heart disease,393.7
+Morocco,Female,Stroke,124.1
+Morocco,Female,Chronic obstructive pulmonary disease,58.62
+Oman,Both sexes,Total,674.4
+Oman,Both sexes,Lower respiratory infections,114.3
+Oman,Both sexes,"Trachea, bronchus, lung cancers",15.34
+Oman,Both sexes,Cataracts,0
+Oman,Both sexes,Ischaemic heart disease,419.2
+Oman,Both sexes,Stroke,90.14
+Oman,Both sexes,Chronic obstructive pulmonary disease,35.43
+Oman,Male,Total,761.2
+Oman,Male,Lower respiratory infections,109.6
+Oman,Male,"Trachea, bronchus, lung cancers",19.51
+Oman,Male,Ischaemic heart disease,492.9
+Oman,Male,Stroke,99.11
+Oman,Male,Chronic obstructive pulmonary disease,40.13
+Oman,Female,Total,510.4
+Oman,Female,Lower respiratory infections,123.3
+Oman,Female,"Trachea, bronchus, lung cancers",7.46
+Oman,Female,Cataracts,0
+Oman,Female,Ischaemic heart disease,279.9
+Oman,Female,Stroke,73.19
+Oman,Female,Chronic obstructive pulmonary disease,26.55
+Pakistan,Both sexes,Total,2436
+Pakistan,Both sexes,Lower respiratory infections,1122
+Pakistan,Both sexes,"Trachea, bronchus, lung cancers",26.01
+Pakistan,Both sexes,Cataracts,0
+Pakistan,Both sexes,Ischaemic heart disease,755.7
+Pakistan,Both sexes,Stroke,286.8
+Pakistan,Both sexes,Chronic obstructive pulmonary disease,245.3
+Pakistan,Male,Total,2749
+Pakistan,Male,Lower respiratory infections,1116
+Pakistan,Male,"Trachea, bronchus, lung cancers",42.03
+Pakistan,Male,Ischaemic heart disease,976.6
+Pakistan,Male,Stroke,298.3
+Pakistan,Male,Chronic obstructive pulmonary disease,315.4
+Pakistan,Female,Total,2105
+Pakistan,Female,Lower respiratory infections,1128
+Pakistan,Female,"Trachea, bronchus, lung cancers",9.08
+Pakistan,Female,Cataracts,0
+Pakistan,Female,Ischaemic heart disease,522.3
+Pakistan,Female,Stroke,274.6
+Pakistan,Female,Chronic obstructive pulmonary disease,171.3
+Qatar,Both sexes,Total,468.7
+Qatar,Both sexes,Lower respiratory infections,55.49
+Qatar,Both sexes,"Trachea, bronchus, lung cancers",37.12
+Qatar,Both sexes,Cataracts,0
+Qatar,Both sexes,Ischaemic heart disease,273
+Qatar,Both sexes,Stroke,61.41
+Qatar,Both sexes,Chronic obstructive pulmonary disease,41.69
+Qatar,Male,Total,526
+Qatar,Male,Lower respiratory infections,56.09
+Qatar,Male,"Trachea, bronchus, lung cancers",41.13
+Qatar,Male,Ischaemic heart disease,317.4
+Qatar,Male,Stroke,66.43
+Qatar,Male,Chronic obstructive pulmonary disease,45.04
+Qatar,Female,Total,294.4
+Qatar,Female,Lower respiratory infections,53.65
+Qatar,Female,"Trachea, bronchus, lung cancers",24.93
+Qatar,Female,Cataracts,0
+Qatar,Female,Ischaemic heart disease,138.2
+Qatar,Female,Stroke,46.17
+Qatar,Female,Chronic obstructive pulmonary disease,31.5
+Saudi Arabia,Both sexes,Total,1046
+Saudi Arabia,Both sexes,Lower respiratory infections,217.6
+Saudi Arabia,Both sexes,"Trachea, bronchus, lung cancers",24.2
+Saudi Arabia,Both sexes,Cataracts,0
+Saudi Arabia,Both sexes,Ischaemic heart disease,562.4
+Saudi Arabia,Both sexes,Stroke,178.1
+Saudi Arabia,Both sexes,Chronic obstructive pulmonary disease,64.14
+Saudi Arabia,Male,Total,1199
+Saudi Arabia,Male,Lower respiratory infections,212
+Saudi Arabia,Male,"Trachea, bronchus, lung cancers",31.4
+Saudi Arabia,Male,Ischaemic heart disease,694.3
+Saudi Arabia,Male,Stroke,190.1
+Saudi Arabia,Male,Chronic obstructive pulmonary disease,71.23
+Saudi Arabia,Female,Total,845.3
+Saudi Arabia,Female,Lower respiratory infections,225.1
+Saudi Arabia,Female,"Trachea, bronchus, lung cancers",14.69
+Saudi Arabia,Female,Cataracts,0
+Saudi Arabia,Female,Ischaemic heart disease,388.5
+Saudi Arabia,Female,Stroke,162.2
+Saudi Arabia,Female,Chronic obstructive pulmonary disease,54.79
+Sudan,Both sexes,Total,2374
+Sudan,Both sexes,Lower respiratory infections,1067
+Sudan,Both sexes,"Trachea, bronchus, lung cancers",6.91
+Sudan,Both sexes,Cataracts,0
+Sudan,Both sexes,Ischaemic heart disease,900.6
+Sudan,Both sexes,Stroke,289
+Sudan,Both sexes,Chronic obstructive pulmonary disease,110.4
+Sudan,Male,Total,2400
+Sudan,Male,Lower respiratory infections,955.9
+Sudan,Male,"Trachea, bronchus, lung cancers",9.27
+Sudan,Male,Ischaemic heart disease,1063
+Sudan,Male,Stroke,253.3
+Sudan,Male,Chronic obstructive pulmonary disease,119.1
+Sudan,Female,Total,2348
+Sudan,Female,Lower respiratory infections,1178
+Sudan,Female,"Trachea, bronchus, lung cancers",4.55
+Sudan,Female,Cataracts,0
+Sudan,Female,Ischaemic heart disease,738.5
+Sudan,Female,Stroke,324.6
+Sudan,Female,Chronic obstructive pulmonary disease,101.8
+Somalia,Both sexes,Total,3653
+Somalia,Both sexes,Lower respiratory infections,3138
+Somalia,Both sexes,"Trachea, bronchus, lung cancers",5.16
+Somalia,Both sexes,Cataracts,0
+Somalia,Both sexes,Ischaemic heart disease,282.5
+Somalia,Both sexes,Stroke,169.8
+Somalia,Both sexes,Chronic obstructive pulmonary disease,57.19
+Somalia,Male,Total,3852
+Somalia,Male,Lower respiratory infections,3291
+Somalia,Male,"Trachea, bronchus, lung cancers",5.38
+Somalia,Male,Ischaemic heart disease,320
+Somalia,Male,Stroke,164.6
+Somalia,Male,Chronic obstructive pulmonary disease,70.87
+Somalia,Female,Total,3455
+Somalia,Female,Lower respiratory infections,2986
+Somalia,Female,"Trachea, bronchus, lung cancers",4.94
+Somalia,Female,Cataracts,0
+Somalia,Female,Ischaemic heart disease,245.3
+Somalia,Female,Stroke,175
+Somalia,Female,Chronic obstructive pulmonary disease,43.62
+Syrian Arab Republic,Both sexes,Total,1247
+Syrian Arab Republic,Both sexes,Lower respiratory infections,174
+Syrian Arab Republic,Both sexes,"Trachea, bronchus, lung cancers",54.21
+Syrian Arab Republic,Both sexes,Cataracts,0
+Syrian Arab Republic,Both sexes,Ischaemic heart disease,807.1
+Syrian Arab Republic,Both sexes,Stroke,153.3
+Syrian Arab Republic,Both sexes,Chronic obstructive pulmonary disease,57.96
+Syrian Arab Republic,Male,Total,1468
+Syrian Arab Republic,Male,Lower respiratory infections,186.2
+Syrian Arab Republic,Male,"Trachea, bronchus, lung cancers",85.67
+Syrian Arab Republic,Male,Ischaemic heart disease,955.5
+Syrian Arab Republic,Male,Stroke,175.7
+Syrian Arab Republic,Male,Chronic obstructive pulmonary disease,64.5
+Syrian Arab Republic,Female,Total,1021
+Syrian Arab Republic,Female,Lower respiratory infections,161.6
+Syrian Arab Republic,Female,"Trachea, bronchus, lung cancers",22.02
+Syrian Arab Republic,Female,Cataracts,0
+Syrian Arab Republic,Female,Ischaemic heart disease,655.2
+Syrian Arab Republic,Female,Stroke,130.5
+Syrian Arab Republic,Female,Chronic obstructive pulmonary disease,51.26
+Tunisia,Both sexes,Total,1312
+Tunisia,Both sexes,Lower respiratory infections,174.8
+Tunisia,Both sexes,"Trachea, bronchus, lung cancers",85.96
+Tunisia,Both sexes,Cataracts,0
+Tunisia,Both sexes,Ischaemic heart disease,726.6
+Tunisia,Both sexes,Stroke,206.1
+Tunisia,Both sexes,Chronic obstructive pulmonary disease,119
+Tunisia,Male,Total,1625
+Tunisia,Male,Lower respiratory infections,176.2
+Tunisia,Male,"Trachea, bronchus, lung cancers",163.6
+Tunisia,Male,Ischaemic heart disease,903.7
+Tunisia,Male,Stroke,237.9
+Tunisia,Male,Chronic obstructive pulmonary disease,143.5
+Tunisia,Female,Total,1007
+Tunisia,Female,Lower respiratory infections,173.4
+Tunisia,Female,"Trachea, bronchus, lung cancers",10.11
+Tunisia,Female,Cataracts,0
+Tunisia,Female,Ischaemic heart disease,553.6
+Tunisia,Female,Stroke,175.1
+Tunisia,Female,Chronic obstructive pulmonary disease,95.06
+Yemen,Both sexes,Total,2287
+Yemen,Both sexes,Lower respiratory infections,970.6
+Yemen,Both sexes,"Trachea, bronchus, lung cancers",10.09
+Yemen,Both sexes,Cataracts,0
+Yemen,Both sexes,Ischaemic heart disease,878.2
+Yemen,Both sexes,Stroke,308.1
+Yemen,Both sexes,Chronic obstructive pulmonary disease,120.3
+Yemen,Male,Total,2280
+Yemen,Male,Lower respiratory infections,856.3
+Yemen,Male,"Trachea, bronchus, lung cancers",14.93
+Yemen,Male,Ischaemic heart disease,1010
+Yemen,Male,Stroke,270.1
+Yemen,Male,Chronic obstructive pulmonary disease,128.7
+Yemen,Female,Total,2295
+Yemen,Female,Lower respiratory infections,1087
+Yemen,Female,"Trachea, bronchus, lung cancers",5.16
+Yemen,Female,Cataracts,0
+Yemen,Female,Ischaemic heart disease,743.9
+Yemen,Female,Stroke,346.8
+Yemen,Female,Chronic obstructive pulmonary disease,111.6
+Albania,Both sexes,Total,1294
+Albania,Both sexes,Lower respiratory infections,67.16
+Albania,Both sexes,"Trachea, bronchus, lung cancers",102.6
+Albania,Both sexes,Cataracts,0
+Albania,Both sexes,Ischaemic heart disease,697.4
+Albania,Both sexes,Stroke,355
+Albania,Both sexes,Chronic obstructive pulmonary disease,71.46
+Albania,Male,Total,1597
+Albania,Male,Lower respiratory infections,74.74
+Albania,Male,"Trachea, bronchus, lung cancers",137.4
+Albania,Male,Ischaemic heart disease,905.4
+Albania,Male,Stroke,384.1
+Albania,Male,Chronic obstructive pulmonary disease,95.46
+Albania,Female,Total,984.1
+Albania,Female,Lower respiratory infections,59.43
+Albania,Female,"Trachea, bronchus, lung cancers",67.19
+Albania,Female,Cataracts,0
+Albania,Female,Ischaemic heart disease,485.2
+Albania,Female,Stroke,325.3
+Albania,Female,Chronic obstructive pulmonary disease,46.99
+Andorra,Both sexes,Cataracts,0
+Andorra,Female,Cataracts,0
+Armenia,Both sexes,Total,1557
+Armenia,Both sexes,Lower respiratory infections,92.03
+Armenia,Both sexes,"Trachea, bronchus, lung cancers",199.3
+Armenia,Both sexes,Cataracts,0
+Armenia,Both sexes,Ischaemic heart disease,911.3
+Armenia,Both sexes,Stroke,211.7
+Armenia,Both sexes,Chronic obstructive pulmonary disease,142.7
+Armenia,Male,Total,2120
+Armenia,Male,Lower respiratory infections,113.2
+Armenia,Male,"Trachea, bronchus, lung cancers",356.8
+Armenia,Male,Ischaemic heart disease,1232
+Armenia,Male,Stroke,236.3
+Armenia,Male,Chronic obstructive pulmonary disease,181.2
+Armenia,Female,Total,1058
+Armenia,Female,Lower respiratory infections,73.29
+Armenia,Female,"Trachea, bronchus, lung cancers",59.54
+Armenia,Female,Cataracts,0
+Armenia,Female,Ischaemic heart disease,626.5
+Armenia,Female,Stroke,189.9
+Armenia,Female,Chronic obstructive pulmonary disease,108.5
+Austria,Both sexes,Total,639.9
+Austria,Both sexes,Lower respiratory infections,21.03
+Austria,Both sexes,"Trachea, bronchus, lung cancers",82.54
+Austria,Both sexes,Cataracts,0
+Austria,Both sexes,Ischaemic heart disease,353.4
+Austria,Both sexes,Stroke,82.32
+Austria,Both sexes,Chronic obstructive pulmonary disease,100.6
+Austria,Male,Total,756.3
+Austria,Male,Lower respiratory infections,22.22
+Austria,Male,"Trachea, bronchus, lung cancers",102.8
+Austria,Male,Ischaemic heart disease,435.3
+Austria,Male,Stroke,78.68
+Austria,Male,Chronic obstructive pulmonary disease,117.4
+Austria,Female,Total,528.2
+Austria,Female,Lower respiratory infections,19.9
+Austria,Female,"Trachea, bronchus, lung cancers",63.1
+Austria,Female,Cataracts,0
+Austria,Female,Ischaemic heart disease,274.8
+Austria,Female,Stroke,85.82
+Austria,Female,Chronic obstructive pulmonary disease,84.59
+Azerbaijan,Both sexes,Total,1249
+Azerbaijan,Both sexes,Lower respiratory infections,143.4
+Azerbaijan,Both sexes,"Trachea, bronchus, lung cancers",38.64
+Azerbaijan,Both sexes,Cataracts,0
+Azerbaijan,Both sexes,Ischaemic heart disease,797.3
+Azerbaijan,Both sexes,Stroke,202.5
+Azerbaijan,Both sexes,Chronic obstructive pulmonary disease,67.04
+Azerbaijan,Male,Total,1522
+Azerbaijan,Male,Lower respiratory infections,148.8
+Azerbaijan,Male,"Trachea, bronchus, lung cancers",62.47
+Azerbaijan,Male,Ischaemic heart disease,1021
+Azerbaijan,Male,Stroke,214.4
+Azerbaijan,Male,Chronic obstructive pulmonary disease,75.14
+Azerbaijan,Female,Total,977.7
+Azerbaijan,Female,Lower respiratory infections,138
+Azerbaijan,Female,"Trachea, bronchus, lung cancers",15
+Azerbaijan,Female,Cataracts,0
+Azerbaijan,Female,Ischaemic heart disease,575
+Azerbaijan,Female,Stroke,190.7
+Azerbaijan,Female,Chronic obstructive pulmonary disease,59.01
+Belgium,Both sexes,Total,665.9
+Belgium,Both sexes,Lower respiratory infections,78.2
+Belgium,Both sexes,"Trachea, bronchus, lung cancers",105.7
+Belgium,Both sexes,Cataracts,0
+Belgium,Both sexes,Ischaemic heart disease,239.5
+Belgium,Both sexes,Stroke,94.55
+Belgium,Both sexes,Chronic obstructive pulmonary disease,147.9
+Belgium,Male,Total,801.5
+Belgium,Male,Lower respiratory infections,80.84
+Belgium,Male,"Trachea, bronchus, lung cancers",147.6
+Belgium,Male,Ischaemic heart disease,307.2
+Belgium,Male,Stroke,91.35
+Belgium,Male,Chronic obstructive pulmonary disease,174.5
+Belgium,Female,Total,534.5
+Belgium,Female,Lower respiratory infections,75.64
+Belgium,Female,"Trachea, bronchus, lung cancers",65.09
+Belgium,Female,Cataracts,0
+Belgium,Female,Ischaemic heart disease,173.9
+Belgium,Female,Stroke,97.66
+Belgium,Female,Chronic obstructive pulmonary disease,122.2
+Bulgaria,Both sexes,Total,2414
+Bulgaria,Both sexes,Lower respiratory infections,97.11
+Bulgaria,Both sexes,"Trachea, bronchus, lung cancers",160.7
+Bulgaria,Both sexes,Cataracts,0
+Bulgaria,Both sexes,Ischaemic heart disease,1369
+Bulgaria,Both sexes,Stroke,592.2
+Bulgaria,Both sexes,Chronic obstructive pulmonary disease,195.2
+Bulgaria,Male,Total,3013
+Bulgaria,Male,Lower respiratory infections,123.2
+Bulgaria,Male,"Trachea, bronchus, lung cancers",267.3
+Bulgaria,Male,Ischaemic heart disease,1711
+Bulgaria,Male,Stroke,649.3
+Bulgaria,Male,Chronic obstructive pulmonary disease,262.3
+Bulgaria,Female,Total,1848
+Bulgaria,Female,Lower respiratory infections,72.42
+Bulgaria,Female,"Trachea, bronchus, lung cancers",59.92
+Bulgaria,Female,Cataracts,0
+Bulgaria,Female,Ischaemic heart disease,1045
+Bulgaria,Female,Stroke,538.3
+Bulgaria,Female,Chronic obstructive pulmonary disease,131.8
+Bosnia and Herzegovina,Both sexes,Total,1758
+Bosnia and Herzegovina,Both sexes,Lower respiratory infections,49.38
+Bosnia and Herzegovina,Both sexes,"Trachea, bronchus, lung cancers",196.8
+Bosnia and Herzegovina,Both sexes,Cataracts,0
+Bosnia and Herzegovina,Both sexes,Ischaemic heart disease,872
+Bosnia and Herzegovina,Both sexes,Stroke,474.7
+Bosnia and Herzegovina,Both sexes,Chronic obstructive pulmonary disease,164.7
+Bosnia and Herzegovina,Male,Total,2113
+Bosnia and Herzegovina,Male,Lower respiratory infections,55.47
+Bosnia and Herzegovina,Male,"Trachea, bronchus, lung cancers",321.1
+Bosnia and Herzegovina,Male,Ischaemic heart disease,1051
+Bosnia and Herzegovina,Male,Stroke,470.5
+Bosnia and Herzegovina,Male,Chronic obstructive pulmonary disease,214.3
+Bosnia and Herzegovina,Female,Total,1415
+Bosnia and Herzegovina,Female,Lower respiratory infections,43.52
+Bosnia and Herzegovina,Female,"Trachea, bronchus, lung cancers",76.99
+Bosnia and Herzegovina,Female,Cataracts,0
+Bosnia and Herzegovina,Female,Ischaemic heart disease,699.2
+Bosnia and Herzegovina,Female,Stroke,478.7
+Bosnia and Herzegovina,Female,Chronic obstructive pulmonary disease,116.9
+Belarus,Both sexes,Total,2215
+Belarus,Both sexes,Lower respiratory infections,53.38
+Belarus,Both sexes,"Trachea, bronchus, lung cancers",100
+Belarus,Both sexes,Cataracts,0
+Belarus,Both sexes,Ischaemic heart disease,1600
+Belarus,Both sexes,Stroke,378
+Belarus,Both sexes,Chronic obstructive pulmonary disease,83.68
+Belarus,Male,Total,2949
+Belarus,Male,Lower respiratory infections,89.46
+Belarus,Male,"Trachea, bronchus, lung cancers",190.2
+Belarus,Male,Ischaemic heart disease,2107
+Belarus,Male,Stroke,426.4
+Belarus,Male,Chronic obstructive pulmonary disease,136.4
+Belarus,Female,Total,1576
+Belarus,Female,Lower respiratory infections,21.99
+Belarus,Female,"Trachea, bronchus, lung cancers",21.53
+Belarus,Female,Cataracts,0
+Belarus,Female,Ischaemic heart disease,1159
+Belarus,Female,Stroke,335.9
+Belarus,Female,Chronic obstructive pulmonary disease,37.81
+Switzerland,Both sexes,Total,413.6
+Switzerland,Both sexes,Lower respiratory infections,26.05
+Switzerland,Both sexes,"Trachea, bronchus, lung cancers",54.87
+Switzerland,Both sexes,Cataracts,0
+Switzerland,Both sexes,Ischaemic heart disease,196.4
+Switzerland,Both sexes,Stroke,58.54
+Switzerland,Both sexes,Chronic obstructive pulmonary disease,77.75
+Switzerland,Male,Total,489.9
+Switzerland,Male,Lower respiratory infections,26.5
+Switzerland,Male,"Trachea, bronchus, lung cancers",69.51
+Switzerland,Male,Ischaemic heart disease,250.8
+Switzerland,Male,Stroke,54.58
+Switzerland,Male,Chronic obstructive pulmonary disease,88.44
+Switzerland,Female,Total,338.7
+Switzerland,Female,Lower respiratory infections,25.6
+Switzerland,Female,"Trachea, bronchus, lung cancers",40.51
+Switzerland,Female,Cataracts,0
+Switzerland,Female,Ischaemic heart disease,143
+Switzerland,Female,Stroke,62.42
+Switzerland,Female,Chronic obstructive pulmonary disease,67.26
+Cyprus,Both sexes,Total,601.9
+Cyprus,Both sexes,Lower respiratory infections,22.35
+Cyprus,Both sexes,"Trachea, bronchus, lung cancers",73.44
+Cyprus,Both sexes,Cataracts,0
+Cyprus,Both sexes,Ischaemic heart disease,333.3
+Cyprus,Both sexes,Stroke,80.13
+Cyprus,Both sexes,Chronic obstructive pulmonary disease,92.69
+Cyprus,Male,Total,813.2
+Cyprus,Male,Lower respiratory infections,22.35
+Cyprus,Male,"Trachea, bronchus, lung cancers",121
+Cyprus,Male,Ischaemic heart disease,473.1
+Cyprus,Male,Stroke,79.77
+Cyprus,Male,Chronic obstructive pulmonary disease,117.1
+Cyprus,Female,Total,389.9
+Cyprus,Female,Lower respiratory infections,22.34
+Cyprus,Female,"Trachea, bronchus, lung cancers",25.75
+Cyprus,Female,Cataracts,0
+Cyprus,Female,Ischaemic heart disease,193.1
+Cyprus,Female,Stroke,80.48
+Cyprus,Female,Chronic obstructive pulmonary disease,68.22
+Czechia,Both sexes,Total,1089
+Czechia,Both sexes,Lower respiratory infections,85.32
+Czechia,Both sexes,"Trachea, bronchus, lung cancers",113.8
+Czechia,Both sexes,Cataracts,0
+Czechia,Both sexes,Ischaemic heart disease,610.8
+Czechia,Both sexes,Stroke,152.3
+Czechia,Both sexes,Chronic obstructive pulmonary disease,126.6
+Czechia,Male,Total,1356
+Czechia,Male,Lower respiratory infections,102.6
+Czechia,Male,"Trachea, bronchus, lung cancers",159
+Czechia,Male,Ischaemic heart disease,767.8
+Czechia,Male,Stroke,161.1
+Czechia,Male,Chronic obstructive pulmonary disease,165.4
+Czechia,Female,Total,830.8
+Czechia,Female,Lower respiratory infections,68.6
+Czechia,Female,"Trachea, bronchus, lung cancers",70.18
+Czechia,Female,Cataracts,0
+Czechia,Female,Ischaemic heart disease,459.1
+Czechia,Female,Stroke,143.8
+Czechia,Female,Chronic obstructive pulmonary disease,89.1
+Germany,Both sexes,Total,765
+Germany,Both sexes,Lower respiratory infections,44.33
+Germany,Both sexes,"Trachea, bronchus, lung cancers",93.53
+Germany,Both sexes,Cataracts,0
+Germany,Both sexes,Ischaemic heart disease,383.4
+Germany,Both sexes,Stroke,103.4
+Germany,Both sexes,Chronic obstructive pulmonary disease,140.3
+Germany,Male,Total,919.8
+Germany,Male,Lower respiratory infections,50.67
+Germany,Male,"Trachea, bronchus, lung cancers",124.2
+Germany,Male,Ischaemic heart disease,481.7
+Germany,Male,Stroke,102.6
+Germany,Male,Chronic obstructive pulmonary disease,160.7
+Germany,Female,Total,615
+Germany,Female,Lower respiratory infections,38.18
+Germany,Female,"Trachea, bronchus, lung cancers",63.82
+Germany,Female,Cataracts,0
+Germany,Female,Ischaemic heart disease,288.2
+Germany,Female,Stroke,104.2
+Germany,Female,Chronic obstructive pulmonary disease,120.7
+Denmark,Both sexes,Total,533.2
+Denmark,Both sexes,Lower respiratory infections,44.18
+Denmark,Both sexes,"Trachea, bronchus, lung cancers",88.58
+Denmark,Both sexes,Cataracts,0
+Denmark,Both sexes,Ischaemic heart disease,170
+Denmark,Both sexes,Stroke,85.17
+Denmark,Both sexes,Chronic obstructive pulmonary disease,145.3
+Denmark,Male,Total,599.1
+Denmark,Male,Lower respiratory infections,47.31
+Denmark,Male,"Trachea, bronchus, lung cancers",92.94
+Denmark,Male,Ischaemic heart disease,227.1
+Denmark,Male,Stroke,87.7
+Denmark,Male,Chronic obstructive pulmonary disease,144
+Denmark,Female,Total,468.1
+Denmark,Female,Lower respiratory infections,41.08
+Denmark,Female,"Trachea, bronchus, lung cancers",84.26
+Denmark,Female,Cataracts,0
+Denmark,Female,Ischaemic heart disease,113.5
+Denmark,Female,Stroke,82.66
+Denmark,Female,Chronic obstructive pulmonary disease,146.6
+Spain,Both sexes,Total,433.8
+Spain,Both sexes,Lower respiratory infections,29.87
+Spain,Both sexes,"Trachea, bronchus, lung cancers",60.93
+Spain,Both sexes,Cataracts,0
+Spain,Both sexes,Ischaemic heart disease,184
+Spain,Both sexes,Stroke,73.12
+Spain,Both sexes,Chronic obstructive pulmonary disease,85.9
+Spain,Male,Total,569
+Spain,Male,Lower respiratory infections,33.52
+Spain,Male,"Trachea, bronchus, lung cancers",97.86
+Spain,Male,Ischaemic heart disease,245.1
+Spain,Male,Stroke,73.19
+Spain,Male,Chronic obstructive pulmonary disease,119.4
+Spain,Female,Total,303.7
+Spain,Female,Lower respiratory infections,26.36
+Spain,Female,"Trachea, bronchus, lung cancers",25.39
+Spain,Female,Cataracts,0
+Spain,Female,Ischaemic heart disease,125.2
+Spain,Female,Stroke,73.06
+Spain,Female,Chronic obstructive pulmonary disease,53.7
+Estonia,Both sexes,Total,759.1
+Estonia,Both sexes,Lower respiratory infections,25.48
+Estonia,Both sexes,"Trachea, bronchus, lung cancers",39.08
+Estonia,Both sexes,Cataracts,0
+Estonia,Both sexes,Ischaemic heart disease,565.7
+Estonia,Both sexes,Stroke,97.89
+Estonia,Both sexes,Chronic obstructive pulmonary disease,30.96
+Estonia,Male,Total,922.7
+Estonia,Male,Lower respiratory infections,38.23
+Estonia,Male,"Trachea, bronchus, lung cancers",63.59
+Estonia,Male,Ischaemic heart disease,675.8
+Estonia,Male,Stroke,98.56
+Estonia,Male,Chronic obstructive pulmonary disease,46.55
+Estonia,Female,Total,615.2
+Estonia,Female,Lower respiratory infections,14.27
+Estonia,Female,"Trachea, bronchus, lung cancers",17.51
+Estonia,Female,Cataracts,0
+Estonia,Female,Ischaemic heart disease,468.8
+Estonia,Female,Stroke,97.3
+Estonia,Female,Chronic obstructive pulmonary disease,17.24
+Finland,Both sexes,Total,319.8
+Finland,Both sexes,Lower respiratory infections,3.51
+Finland,Both sexes,"Trachea, bronchus, lung cancers",20.03
+Finland,Both sexes,Cataracts,0
+Finland,Both sexes,Ischaemic heart disease,199.5
+Finland,Both sexes,Stroke,65.81
+Finland,Both sexes,Chronic obstructive pulmonary disease,30.92
+Finland,Male,Total,408.1
+Finland,Male,Lower respiratory infections,4.02
+Finland,Male,"Trachea, bronchus, lung cancers",26.89
+Finland,Male,Ischaemic heart disease,270.8
+Finland,Male,Stroke,65.5
+Finland,Male,Chronic obstructive pulmonary disease,40.9
+Finland,Female,Total,234.1
+Finland,Female,Lower respiratory infections,3.01
+Finland,Female,"Trachea, bronchus, lung cancers",13.38
+Finland,Female,Cataracts,0
+Finland,Female,Ischaemic heart disease,130.3
+Finland,Female,Stroke,66.12
+Finland,Female,Chronic obstructive pulmonary disease,21.24
+France,Both sexes,Total,416.3
+France,Both sexes,Lower respiratory infections,36.34
+France,Both sexes,"Trachea, bronchus, lung cancers",90.23
+France,Both sexes,Cataracts,0
+France,Both sexes,Ischaemic heart disease,159.2
+France,Both sexes,Stroke,74.29
+France,Both sexes,Chronic obstructive pulmonary disease,56.19
+France,Male,Total,526.6
+France,Male,Lower respiratory infections,37.71
+France,Male,"Trachea, bronchus, lung cancers",133
+France,Male,Ischaemic heart disease,211.6
+France,Male,Stroke,74.26
+France,Male,Chronic obstructive pulmonary disease,70.04
+France,Female,Total,309.6
+France,Female,Lower respiratory infections,35.02
+France,Female,"Trachea, bronchus, lung cancers",48.9
+France,Female,Cataracts,0
+France,Female,Ischaemic heart disease,108.5
+France,Female,Stroke,74.33
+France,Female,Chronic obstructive pulmonary disease,42.79
+United Kingdom of Great Britain and Northern Ireland,Both sexes,Total,559.5
+United Kingdom of Great Britain and Northern Ireland,Both sexes,Lower respiratory infections,67.66
+United Kingdom of Great Britain and Northern Ireland,Both sexes,"Trachea, bronchus, lung cancers",68.58
+United Kingdom of Great Britain and Northern Ireland,Both sexes,Cataracts,0
+United Kingdom of Great Britain and Northern Ireland,Both sexes,Ischaemic heart disease,225.9
+United Kingdom of Great Britain and Northern Ireland,Both sexes,Stroke,79.59
+United Kingdom of Great Britain and Northern Ireland,Both sexes,Chronic obstructive pulmonary disease,117.8
+United Kingdom of Great Britain and Northern Ireland,Male,Total,657.6
+United Kingdom of Great Britain and Northern Ireland,Male,Lower respiratory infections,66.12
+United Kingdom of Great Britain and Northern Ireland,Male,"Trachea, bronchus, lung cancers",76.54
+United Kingdom of Great Britain and Northern Ireland,Male,Ischaemic heart disease,312.9
+United Kingdom of Great Britain and Northern Ireland,Male,Stroke,76.65
+United Kingdom of Great Britain and Northern Ireland,Male,Chronic obstructive pulmonary disease,125.4
+United Kingdom of Great Britain and Northern Ireland,Female,Total,464
+United Kingdom of Great Britain and Northern Ireland,Female,Lower respiratory infections,69.16
+United Kingdom of Great Britain and Northern Ireland,Female,"Trachea, bronchus, lung cancers",60.84
+United Kingdom of Great Britain and Northern Ireland,Female,Cataracts,0
+United Kingdom of Great Britain and Northern Ireland,Female,Ischaemic heart disease,141.2
+United Kingdom of Great Britain and Northern Ireland,Female,Stroke,82.46
+United Kingdom of Great Britain and Northern Ireland,Female,Chronic obstructive pulmonary disease,110.4
+Georgia,Both sexes,Total,2401
+Georgia,Both sexes,Lower respiratory infections,78.15
+Georgia,Both sexes,"Trachea, bronchus, lung cancers",82.55
+Georgia,Both sexes,Cataracts,0
+Georgia,Both sexes,Ischaemic heart disease,1428
+Georgia,Both sexes,Stroke,639.2
+Georgia,Both sexes,Chronic obstructive pulmonary disease,172.5
+Georgia,Male,Total,3086
+Georgia,Male,Lower respiratory infections,100.6
+Georgia,Male,"Trachea, bronchus, lung cancers",143.4
+Georgia,Male,Ischaemic heart disease,1879
+Georgia,Male,Stroke,740.7
+Georgia,Male,Chronic obstructive pulmonary disease,221.8
+Georgia,Female,Total,1775
+Georgia,Female,Lower respiratory infections,57.64
+Georgia,Female,"Trachea, bronchus, lung cancers",26.97
+Georgia,Female,Cataracts,0
+Georgia,Female,Ischaemic heart disease,1016
+Georgia,Female,Stroke,546.5
+Georgia,Female,Chronic obstructive pulmonary disease,127.4
+Greece,Both sexes,Total,1049
+Greece,Both sexes,Lower respiratory infections,98.73
+Greece,Both sexes,"Trachea, bronchus, lung cancers",142.3
+Greece,Both sexes,Cataracts,0
+Greece,Both sexes,Ischaemic heart disease,448.3
+Greece,Both sexes,Stroke,191.4
+Greece,Both sexes,Chronic obstructive pulmonary disease,167.9
+Greece,Male,Total,1317
+Greece,Male,Lower respiratory infections,96.35
+Greece,Male,"Trachea, bronchus, lung cancers",232.7
+Greece,Male,Ischaemic heart disease,607.3
+Greece,Male,Stroke,189
+Greece,Male,Chronic obstructive pulmonary disease,191.7
+Greece,Female,Total,788.3
+Greece,Female,Lower respiratory infections,101
+Greece,Female,"Trachea, bronchus, lung cancers",54.77
+Greece,Female,Cataracts,0
+Greece,Female,Ischaemic heart disease,294.1
+Greece,Female,Stroke,193.6
+Greece,Female,Chronic obstructive pulmonary disease,144.7
+Croatia,Both sexes,Total,1263
+Croatia,Both sexes,Lower respiratory infections,37.85
+Croatia,Both sexes,"Trachea, bronchus, lung cancers",169.5
+Croatia,Both sexes,Cataracts,0
+Croatia,Both sexes,Ischaemic heart disease,648.2
+Croatia,Both sexes,Stroke,275.9
+Croatia,Both sexes,Chronic obstructive pulmonary disease,132
+Croatia,Male,Total,1570
+Croatia,Male,Lower respiratory infections,47.99
+Croatia,Male,"Trachea, bronchus, lung cancers",263
+Croatia,Male,Ischaemic heart disease,802.2
+Croatia,Male,Stroke,286
+Croatia,Male,Chronic obstructive pulmonary disease,170.8
+Croatia,Female,Total,978.1
+Croatia,Female,Lower respiratory infections,28.43
+Croatia,Female,"Trachea, bronchus, lung cancers",82.49
+Croatia,Female,Cataracts,0
+Croatia,Female,Ischaemic heart disease,504.9
+Croatia,Female,Stroke,266.4
+Croatia,Female,Chronic obstructive pulmonary disease,95.89
+Hungary,Both sexes,Total,1639
+Hungary,Both sexes,Lower respiratory infections,36.44
+Hungary,Both sexes,"Trachea, bronchus, lung cancers",221.2
+Hungary,Both sexes,Cataracts,0
+Hungary,Both sexes,Ischaemic heart disease,936.1
+Hungary,Both sexes,Stroke,229.7
+Hungary,Both sexes,Chronic obstructive pulmonary disease,215.9
+Hungary,Male,Total,2002
+Hungary,Male,Lower respiratory infections,44.03
+Hungary,Male,"Trachea, bronchus, lung cancers",294.9
+Hungary,Male,Ischaemic heart disease,1141
+Hungary,Male,Stroke,257
+Hungary,Male,Chronic obstructive pulmonary disease,264.4
+Hungary,Female,Total,1311
+Hungary,Female,Lower respiratory infections,29.56
+Hungary,Female,"Trachea, bronchus, lung cancers",154.4
+Hungary,Female,Cataracts,0
+Hungary,Female,Ischaemic heart disease,750.1
+Hungary,Female,Stroke,204.9
+Hungary,Female,Chronic obstructive pulmonary disease,171.8
+Ireland,Both sexes,Total,360.7
+Ireland,Both sexes,Lower respiratory infections,22.56
+Ireland,Both sexes,"Trachea, bronchus, lung cancers",39.4
+Ireland,Both sexes,Cataracts,0
+Ireland,Both sexes,Ischaemic heart disease,179.5
+Ireland,Both sexes,Stroke,49.49
+Ireland,Both sexes,Chronic obstructive pulmonary disease,69.7
+Ireland,Male,Total,438.1
+Ireland,Male,Lower respiratory infections,22.3
+Ireland,Male,"Trachea, bronchus, lung cancers",45.55
+Ireland,Male,Ischaemic heart disease,247.6
+Ireland,Male,Stroke,48.39
+Ireland,Male,Chronic obstructive pulmonary disease,74.22
+Ireland,Female,Total,284.5
+Ireland,Female,Lower respiratory infections,22.82
+Ireland,Female,"Trachea, bronchus, lung cancers",33.34
+Ireland,Female,Cataracts,0
+Ireland,Female,Ischaemic heart disease,112.6
+Ireland,Female,Stroke,50.58
+Ireland,Female,Chronic obstructive pulmonary disease,65.25
+Iceland,Both sexes,Total,273.9
+Iceland,Both sexes,Lower respiratory infections,11.03
+Iceland,Both sexes,"Trachea, bronchus, lung cancers",26.35
+Iceland,Both sexes,Cataracts,0
+Iceland,Both sexes,Ischaemic heart disease,148.2
+Iceland,Both sexes,Stroke,39.24
+Iceland,Both sexes,Chronic obstructive pulmonary disease,49.04
+Iceland,Male,Total,320.4
+Iceland,Male,Lower respiratory infections,9.75
+Iceland,Male,"Trachea, bronchus, lung cancers",23.36
+Iceland,Male,Ischaemic heart disease,198.7
+Iceland,Male,Stroke,40.8
+Iceland,Male,Chronic obstructive pulmonary disease,47.79
+Iceland,Female,Total,227.1
+Iceland,Female,Lower respiratory infections,12.32
+Iceland,Female,"Trachea, bronchus, lung cancers",29.36
+Iceland,Female,Cataracts,0
+Iceland,Female,Ischaemic heart disease,97.43
+Iceland,Female,Stroke,37.68
+Iceland,Female,Chronic obstructive pulmonary disease,50.3
+Israel,Both sexes,Total,410.4
+Israel,Both sexes,Lower respiratory infections,72.21
+Israel,Both sexes,"Trachea, bronchus, lung cancers",67.36
+Israel,Both sexes,Cataracts,0
+Israel,Both sexes,Ischaemic heart disease,136.8
+Israel,Both sexes,Stroke,60.26
+Israel,Both sexes,Chronic obstructive pulmonary disease,73.73
+Israel,Male,Total,513
+Israel,Male,Lower respiratory infections,81.43
+Israel,Male,"Trachea, bronchus, lung cancers",95.02
+Israel,Male,Ischaemic heart disease,184.6
+Israel,Male,Stroke,64.45
+Israel,Male,Chronic obstructive pulmonary disease,87.51
+Israel,Female,Total,309.3
+Israel,Female,Lower respiratory infections,63.12
+Israel,Female,"Trachea, bronchus, lung cancers",40.11
+Israel,Female,Cataracts,0
+Israel,Female,Ischaemic heart disease,89.76
+Israel,Female,Stroke,56.12
+Israel,Female,Chronic obstructive pulmonary disease,60.15
+Italy,Both sexes,Total,723.4
+Italy,Both sexes,Lower respiratory infections,41.04
+Italy,Both sexes,"Trachea, bronchus, lung cancers",113
+Italy,Both sexes,Cataracts,0
+Italy,Both sexes,Ischaemic heart disease,316.1
+Italy,Both sexes,Stroke,134
+Italy,Both sexes,Chronic obstructive pulmonary disease,119.2
+Italy,Male,Total,867.7
+Italy,Male,Lower respiratory infections,43.29
+Italy,Male,"Trachea, bronchus, lung cancers",166
+Italy,Male,Ischaemic heart disease,389.7
+Italy,Male,Stroke,127.8
+Italy,Male,Chronic obstructive pulmonary disease,141
+Italy,Female,Total,586.3
+Italy,Female,Lower respiratory infections,38.91
+Italy,Female,"Trachea, bronchus, lung cancers",62.68
+Italy,Female,Cataracts,0
+Italy,Female,Ischaemic heart disease,246.3
+Italy,Female,Stroke,139.8
+Italy,Female,Chronic obstructive pulmonary disease,98.54
+Kazakhstan,Both sexes,Total,1187
+Kazakhstan,Both sexes,Lower respiratory infections,82.88
+Kazakhstan,Both sexes,"Trachea, bronchus, lung cancers",43.14
+Kazakhstan,Both sexes,Cataracts,0
+Kazakhstan,Both sexes,Ischaemic heart disease,718.4
+Kazakhstan,Both sexes,Stroke,244.5
+Kazakhstan,Both sexes,Chronic obstructive pulmonary disease,97.97
+Kazakhstan,Male,Total,1519
+Kazakhstan,Male,Lower respiratory infections,111.3
+Kazakhstan,Male,"Trachea, bronchus, lung cancers",71.15
+Kazakhstan,Male,Ischaemic heart disease,932
+Kazakhstan,Male,Stroke,272.9
+Kazakhstan,Male,Chronic obstructive pulmonary disease,131.7
+Kazakhstan,Female,Total,874.9
+Kazakhstan,Female,Lower respiratory infections,56.14
+Kazakhstan,Female,"Trachea, bronchus, lung cancers",16.84
+Kazakhstan,Female,Cataracts,0
+Kazakhstan,Female,Ischaemic heart disease,517.9
+Kazakhstan,Female,Stroke,217.8
+Kazakhstan,Female,Chronic obstructive pulmonary disease,66.3
+Kyrgyzstan,Both sexes,Total,1275
+Kyrgyzstan,Both sexes,Lower respiratory infections,220.3
+Kyrgyzstan,Both sexes,"Trachea, bronchus, lung cancers",29.94
+Kyrgyzstan,Both sexes,Cataracts,0
+Kyrgyzstan,Both sexes,Ischaemic heart disease,659.7
+Kyrgyzstan,Both sexes,Stroke,273.9
+Kyrgyzstan,Both sexes,Chronic obstructive pulmonary disease,90.77
+Kyrgyzstan,Male,Total,1572
+Kyrgyzstan,Male,Lower respiratory infections,250
+Kyrgyzstan,Male,"Trachea, bronchus, lung cancers",46.69
+Kyrgyzstan,Male,Ischaemic heart disease,833.2
+Kyrgyzstan,Male,Stroke,326.5
+Kyrgyzstan,Male,Chronic obstructive pulmonary disease,115.4
+Kyrgyzstan,Female,Total,982
+Kyrgyzstan,Female,Lower respiratory infections,191
+Kyrgyzstan,Female,"Trachea, bronchus, lung cancers",13.46
+Kyrgyzstan,Female,Cataracts,0
+Kyrgyzstan,Female,Ischaemic heart disease,488.9
+Kyrgyzstan,Female,Stroke,222.1
+Kyrgyzstan,Female,Chronic obstructive pulmonary disease,66.52
+Lithuania,Both sexes,Total,1470
+Lithuania,Both sexes,Lower respiratory infections,63.4
+Lithuania,Both sexes,"Trachea, bronchus, lung cancers",74.5
+Lithuania,Both sexes,Cataracts,0
+Lithuania,Both sexes,Ischaemic heart disease,979.2
+Lithuania,Both sexes,Stroke,297.8
+Lithuania,Both sexes,Chronic obstructive pulmonary disease,55.06
+Lithuania,Male,Total,1868
+Lithuania,Male,Lower respiratory infections,92.45
+Lithuania,Male,"Trachea, bronchus, lung cancers",131.9
+Lithuania,Male,Ischaemic heart disease,1256
+Lithuania,Male,Stroke,302.2
+Lithuania,Male,Chronic obstructive pulmonary disease,85.99
+Lithuania,Female,Total,1130
+Lithuania,Female,Lower respiratory infections,38.6
+Lithuania,Female,"Trachea, bronchus, lung cancers",25.46
+Lithuania,Female,Cataracts,0
+Lithuania,Female,Ischaemic heart disease,742.9
+Lithuania,Female,Stroke,293.9
+Lithuania,Female,Chronic obstructive pulmonary disease,28.65
+Luxembourg,Both sexes,Total,409
+Luxembourg,Both sexes,Lower respiratory infections,23.53
+Luxembourg,Both sexes,"Trachea, bronchus, lung cancers",57.24
+Luxembourg,Both sexes,Cataracts,0
+Luxembourg,Both sexes,Ischaemic heart disease,189.2
+Luxembourg,Both sexes,Stroke,60.12
+Luxembourg,Both sexes,Chronic obstructive pulmonary disease,78.93
+Luxembourg,Male,Total,504.5
+Luxembourg,Male,Lower respiratory infections,23.38
+Luxembourg,Male,"Trachea, bronchus, lung cancers",75.91
+Luxembourg,Male,Ischaemic heart disease,260.4
+Luxembourg,Male,Stroke,59.01
+Luxembourg,Male,Chronic obstructive pulmonary disease,85.86
+Luxembourg,Female,Total,312.6
+Luxembourg,Female,Lower respiratory infections,23.69
+Luxembourg,Female,"Trachea, bronchus, lung cancers",38.38
+Luxembourg,Female,Cataracts,0
+Luxembourg,Female,Ischaemic heart disease,117.3
+Luxembourg,Female,Stroke,61.23
+Luxembourg,Female,Chronic obstructive pulmonary disease,71.94
+Latvia,Both sexes,Total,1562
+Latvia,Both sexes,Lower respiratory infections,71.73
+Latvia,Both sexes,"Trachea, bronchus, lung cancers",91.87
+Latvia,Both sexes,Cataracts,0
+Latvia,Both sexes,Ischaemic heart disease,949.1
+Latvia,Both sexes,Stroke,395.3
+Latvia,Both sexes,Chronic obstructive pulmonary disease,54.13
+Latvia,Male,Total,1947
+Latvia,Male,Lower respiratory infections,105.2
+Latvia,Male,"Trachea, bronchus, lung cancers",160.3
+Latvia,Male,Ischaemic heart disease,1208
+Latvia,Male,Stroke,386.6
+Latvia,Male,Chronic obstructive pulmonary disease,86.05
+Latvia,Female,Total,1236
+Latvia,Female,Lower respiratory infections,43.3
+Latvia,Female,"Trachea, bronchus, lung cancers",33.74
+Latvia,Female,Cataracts,0
+Latvia,Female,Ischaemic heart disease,728.9
+Latvia,Female,Stroke,402.6
+Latvia,Female,Chronic obstructive pulmonary disease,27.04
+Monaco,Both sexes,Cataracts,0
+Monaco,Female,Cataracts,0
+Republic of Moldova,Both sexes,Total,1874
+Republic of Moldova,Both sexes,Lower respiratory infections,170.7
+Republic of Moldova,Both sexes,"Trachea, bronchus, lung cancers",79.42
+Republic of Moldova,Both sexes,Cataracts,0
+Republic of Moldova,Both sexes,Ischaemic heart disease,1161
+Republic of Moldova,Both sexes,Stroke,390.3
+Republic of Moldova,Both sexes,Chronic obstructive pulmonary disease,73.11
+Republic of Moldova,Male,Total,2302
+Republic of Moldova,Male,Lower respiratory infections,256.5
+Republic of Moldova,Male,"Trachea, bronchus, lung cancers",137.9
+Republic of Moldova,Male,Ischaemic heart disease,1382
+Republic of Moldova,Male,Stroke,423.6
+Republic of Moldova,Male,Chronic obstructive pulmonary disease,101.9
+Republic of Moldova,Female,Total,1479
+Republic of Moldova,Female,Lower respiratory infections,91.5
+Republic of Moldova,Female,"Trachea, bronchus, lung cancers",25.43
+Republic of Moldova,Female,Cataracts,0
+Republic of Moldova,Female,Ischaemic heart disease,956.2
+Republic of Moldova,Female,Stroke,359.5
+Republic of Moldova,Female,Chronic obstructive pulmonary disease,46.49
+The former Yugoslav Republic of Macedonia,Both sexes,Total,1603
+The former Yugoslav Republic of Macedonia,Both sexes,Lower respiratory infections,52.55
+The former Yugoslav Republic of Macedonia,Both sexes,"Trachea, bronchus, lung cancers",187.9
+The former Yugoslav Republic of Macedonia,Both sexes,Cataracts,0
+The former Yugoslav Republic of Macedonia,Both sexes,Ischaemic heart disease,681.6
+The former Yugoslav Republic of Macedonia,Both sexes,Stroke,516.9
+The former Yugoslav Republic of Macedonia,Both sexes,Chronic obstructive pulmonary disease,163.7
+The former Yugoslav Republic of Macedonia,Male,Total,1981
+The former Yugoslav Republic of Macedonia,Male,Lower respiratory infections,59.07
+The former Yugoslav Republic of Macedonia,Male,"Trachea, bronchus, lung cancers",306.8
+The former Yugoslav Republic of Macedonia,Male,Ischaemic heart disease,872.5
+The former Yugoslav Republic of Macedonia,Male,Stroke,536.2
+The former Yugoslav Republic of Macedonia,Male,Chronic obstructive pulmonary disease,206.6
+The former Yugoslav Republic of Macedonia,Female,Total,1224
+The former Yugoslav Republic of Macedonia,Female,Lower respiratory infections,46.03
+The former Yugoslav Republic of Macedonia,Female,"Trachea, bronchus, lung cancers",69.12
+The former Yugoslav Republic of Macedonia,Female,Cataracts,0
+The former Yugoslav Republic of Macedonia,Female,Ischaemic heart disease,490.7
+The former Yugoslav Republic of Macedonia,Female,Stroke,497.6
+The former Yugoslav Republic of Macedonia,Female,Chronic obstructive pulmonary disease,120.7
+Malta,Both sexes,Total,750.8
+Malta,Both sexes,Lower respiratory infections,68.03
+Malta,Both sexes,"Trachea, bronchus, lung cancers",77.13
+Malta,Both sexes,Cataracts,0
+Malta,Both sexes,Ischaemic heart disease,418.6
+Malta,Both sexes,Stroke,102.7
+Malta,Both sexes,Chronic obstructive pulmonary disease,84.35
+Malta,Male,Total,924.8
+Malta,Male,Lower respiratory infections,68.15
+Malta,Male,"Trachea, bronchus, lung cancers",121.2
+Malta,Male,Ischaemic heart disease,517.4
+Malta,Male,Stroke,103.4
+Malta,Male,Chronic obstructive pulmonary disease,114.6
+Malta,Female,Total,575.4
+Malta,Female,Lower respiratory infections,67.92
+Malta,Female,"Trachea, bronchus, lung cancers",32.72
+Malta,Female,Cataracts,0
+Malta,Female,Ischaemic heart disease,319
+Malta,Female,Stroke,101.9
+Malta,Female,Chronic obstructive pulmonary disease,53.87
+Montenegro,Both sexes,Total,1504
+Montenegro,Both sexes,Lower respiratory infections,34.76
+Montenegro,Both sexes,"Trachea, bronchus, lung cancers",198.9
+Montenegro,Both sexes,Cataracts,0
+Montenegro,Both sexes,Ischaemic heart disease,683.5
+Montenegro,Both sexes,Stroke,492.7
+Montenegro,Both sexes,Chronic obstructive pulmonary disease,94.07
+Montenegro,Male,Total,1827
+Montenegro,Male,Lower respiratory infections,44.31
+Montenegro,Male,"Trachea, bronchus, lung cancers",307.4
+Montenegro,Male,Ischaemic heart disease,893.7
+Montenegro,Male,Stroke,453.4
+Montenegro,Male,Chronic obstructive pulmonary disease,128
+Montenegro,Female,Total,1189
+Montenegro,Female,Lower respiratory infections,25.47
+Montenegro,Female,"Trachea, bronchus, lung cancers",93.2
+Montenegro,Female,Cataracts,0
+Montenegro,Female,Ischaemic heart disease,478.8
+Montenegro,Female,Stroke,530.8
+Montenegro,Female,Chronic obstructive pulmonary disease,61.07
+Netherlands,Both sexes,Total,564.5
+Netherlands,Both sexes,Lower respiratory infections,42.24
+Netherlands,Both sexes,"Trachea, bronchus, lung cancers",105.5
+Netherlands,Both sexes,Cataracts,0
+Netherlands,Both sexes,Ischaemic heart disease,195.4
+Netherlands,Both sexes,Stroke,85.62
+Netherlands,Both sexes,Chronic obstructive pulmonary disease,135.7
+Netherlands,Male,Total,642.9
+Netherlands,Male,Lower respiratory infections,43.2
+Netherlands,Male,"Trachea, bronchus, lung cancers",120.6
+Netherlands,Male,Ischaemic heart disease,249.2
+Netherlands,Male,Stroke,82.55
+Netherlands,Male,Chronic obstructive pulmonary disease,147.3
+Netherlands,Female,Total,487
+Netherlands,Female,Lower respiratory infections,41.29
+Netherlands,Female,"Trachea, bronchus, lung cancers",90.6
+Netherlands,Female,Cataracts,0
+Netherlands,Female,Ischaemic heart disease,142.2
+Netherlands,Female,Stroke,88.67
+Netherlands,Female,Chronic obstructive pulmonary disease,124.3
+Norway,Both sexes,Total,307
+Norway,Both sexes,Lower respiratory infections,22.28
+Norway,Both sexes,"Trachea, bronchus, lung cancers",30.78
+Norway,Both sexes,Cataracts,0
+Norway,Both sexes,Ischaemic heart disease,136.7
+Norway,Both sexes,Stroke,50.44
+Norway,Both sexes,Chronic obstructive pulmonary disease,66.77
+Norway,Male,Total,352.4
+Norway,Male,Lower respiratory infections,22.26
+Norway,Male,"Trachea, bronchus, lung cancers",33.73
+Norway,Male,Ischaemic heart disease,176.7
+Norway,Male,Stroke,48.24
+Norway,Male,Chronic obstructive pulmonary disease,71.43
+Norway,Female,Total,260.8
+Norway,Female,Lower respiratory infections,22.31
+Norway,Female,"Trachea, bronchus, lung cancers",27.79
+Norway,Female,Cataracts,0
+Norway,Female,Ischaemic heart disease,96.04
+Norway,Female,Stroke,52.67
+Norway,Female,Chronic obstructive pulmonary disease,62.02
+Poland,Both sexes,Total,1494
+Poland,Both sexes,Lower respiratory infections,136.5
+Poland,Both sexes,"Trachea, bronchus, lung cancers",198.4
+Poland,Both sexes,Cataracts,0
+Poland,Both sexes,Ischaemic heart disease,797.2
+Poland,Both sexes,Stroke,211.8
+Poland,Both sexes,Chronic obstructive pulmonary disease,149.8
+Poland,Male,Total,1916
+Poland,Male,Lower respiratory infections,170.2
+Poland,Male,"Trachea, bronchus, lung cancers",284.3
+Poland,Male,Ischaemic heart disease,1025
+Poland,Male,Stroke,237.9
+Poland,Male,Chronic obstructive pulmonary disease,198.2
+Poland,Female,Total,1099
+Poland,Female,Lower respiratory infections,105
+Poland,Female,"Trachea, bronchus, lung cancers",118.2
+Poland,Female,Cataracts,0
+Poland,Female,Ischaemic heart disease,584
+Poland,Female,Stroke,187.4
+Poland,Female,Chronic obstructive pulmonary disease,104.5
+Portugal,Both sexes,Total,445
+Portugal,Both sexes,Lower respiratory infections,63.76
+Portugal,Both sexes,"Trachea, bronchus, lung cancers",39.47
+Portugal,Both sexes,Cataracts,0
+Portugal,Both sexes,Ischaemic heart disease,159.9
+Portugal,Both sexes,Stroke,122.6
+Portugal,Both sexes,Chronic obstructive pulmonary disease,59.24
+Portugal,Male,Total,553.5
+Portugal,Male,Lower respiratory infections,72.65
+Portugal,Male,"Trachea, bronchus, lung cancers",66.72
+Portugal,Male,Ischaemic heart disease,210.1
+Portugal,Male,Stroke,132.7
+Portugal,Male,Chronic obstructive pulmonary disease,71.28
+Portugal,Female,Total,347.5
+Portugal,Female,Lower respiratory infections,55.77
+Portugal,Female,"Trachea, bronchus, lung cancers",14.97
+Portugal,Female,Cataracts,0
+Portugal,Female,Ischaemic heart disease,114.8
+Portugal,Female,Stroke,113.5
+Portugal,Female,Chronic obstructive pulmonary disease,48.42
+Romania,Both sexes,Total,1658
+Romania,Both sexes,Lower respiratory infections,137.8
+Romania,Both sexes,"Trachea, bronchus, lung cancers",122.2
+Romania,Both sexes,Cataracts,0
+Romania,Both sexes,Ischaemic heart disease,900.6
+Romania,Both sexes,Stroke,378.9
+Romania,Both sexes,Chronic obstructive pulmonary disease,118.3
+Romania,Male,Total,2059
+Romania,Male,Lower respiratory infections,175.9
+Romania,Male,"Trachea, bronchus, lung cancers",198.1
+Romania,Male,Ischaemic heart disease,1106
+Romania,Male,Stroke,407.6
+Romania,Male,Chronic obstructive pulmonary disease,170.4
+Romania,Female,Total,1281
+Romania,Female,Lower respiratory infections,102
+Romania,Female,"Trachea, bronchus, lung cancers",50.92
+Romania,Female,Cataracts,0
+Romania,Female,Ischaemic heart disease,707
+Romania,Female,Stroke,351.9
+Romania,Female,Chronic obstructive pulmonary disease,69.21
+Russian Federation,Both sexes,Total,1752
+Russian Federation,Both sexes,Lower respiratory infections,107.6
+Russian Federation,Both sexes,"Trachea, bronchus, lung cancers",99.39
+Russian Federation,Both sexes,Cataracts,0
+Russian Federation,Both sexes,Ischaemic heart disease,1054
+Russian Federation,Both sexes,Stroke,419.5
+Russian Federation,Both sexes,Chronic obstructive pulmonary disease,71.55
+Russian Federation,Male,Total,2301
+Russian Federation,Male,Lower respiratory infections,173.4
+Russian Federation,Male,"Trachea, bronchus, lung cancers",180.1
+Russian Federation,Male,Ischaemic heart disease,1385
+Russian Federation,Male,Stroke,453.3
+Russian Federation,Male,Chronic obstructive pulmonary disease,109
+Russian Federation,Female,Total,1276
+Russian Federation,Female,Lower respiratory infections,50.57
+Russian Federation,Female,"Trachea, bronchus, lung cancers",29.32
+Russian Federation,Female,Cataracts,0
+Russian Federation,Female,Ischaemic heart disease,767.3
+Russian Federation,Female,Stroke,390.1
+Russian Federation,Female,Chronic obstructive pulmonary disease,39.07
+San Marino,Both sexes,Cataracts,0
+San Marino,Female,Cataracts,0
+Serbia,Both sexes,Total,1560
+Serbia,Both sexes,Lower respiratory infections,66.22
+Serbia,Both sexes,"Trachea, bronchus, lung cancers",243.1
+Serbia,Both sexes,Cataracts,0
+Serbia,Both sexes,Ischaemic heart disease,703.4
+Serbia,Both sexes,Stroke,356.9
+Serbia,Both sexes,Chronic obstructive pulmonary disease,190.5
+Serbia,Male,Total,1946
+Serbia,Male,Lower respiratory infections,81.66
+Serbia,Male,"Trachea, bronchus, lung cancers",362.5
+Serbia,Male,Ischaemic heart disease,884.5
+Serbia,Male,Stroke,370.9
+Serbia,Male,Chronic obstructive pulmonary disease,246
+Serbia,Female,Total,1192
+Serbia,Female,Lower respiratory infections,51.45
+Serbia,Female,"Trachea, bronchus, lung cancers",129
+Serbia,Female,Cataracts,0
+Serbia,Female,Ischaemic heart disease,530.4
+Serbia,Female,Stroke,343.6
+Serbia,Female,Chronic obstructive pulmonary disease,137.4
+Slovakia,Both sexes,Total,1110
+Slovakia,Both sexes,Lower respiratory infections,111.5
+Slovakia,Both sexes,"Trachea, bronchus, lung cancers",115.4
+Slovakia,Both sexes,Cataracts,0
+Slovakia,Both sexes,Ischaemic heart disease,601.7
+Slovakia,Both sexes,Stroke,196.3
+Slovakia,Both sexes,Chronic obstructive pulmonary disease,84.82
+Slovakia,Male,Total,1414
+Slovakia,Male,Lower respiratory infections,141
+Slovakia,Male,"Trachea, bronchus, lung cancers",181
+Slovakia,Male,Ischaemic heart disease,752.3
+Slovakia,Male,Stroke,223.7
+Slovakia,Male,Chronic obstructive pulmonary disease,116.3
+Slovakia,Female,Total,821.5
+Slovakia,Female,Lower respiratory infections,83.57
+Slovakia,Female,"Trachea, bronchus, lung cancers",53.29
+Slovakia,Female,Cataracts,0
+Slovakia,Female,Ischaemic heart disease,459.2
+Slovakia,Female,Stroke,170.4
+Slovakia,Female,Chronic obstructive pulmonary disease,55.03
+Slovenia,Both sexes,Total,802
+Slovenia,Both sexes,Lower respiratory infections,65.31
+Slovenia,Both sexes,"Trachea, bronchus, lung cancers",132.2
+Slovenia,Both sexes,Cataracts,0
+Slovenia,Both sexes,Ischaemic heart disease,363.9
+Slovenia,Both sexes,Stroke,161
+Slovenia,Both sexes,Chronic obstructive pulmonary disease,79.52
+Slovenia,Male,Total,947.6
+Slovenia,Male,Lower respiratory infections,63.39
+Slovenia,Male,"Trachea, bronchus, lung cancers",183.7
+Slovenia,Male,Ischaemic heart disease,440.4
+Slovenia,Male,Stroke,158.8
+Slovenia,Male,Chronic obstructive pulmonary disease,101.5
+Slovenia,Female,Total,658.5
+Slovenia,Female,Lower respiratory infections,67.2
+Slovenia,Female,"Trachea, bronchus, lung cancers",81.55
+Slovenia,Female,Cataracts,0
+Slovenia,Female,Ischaemic heart disease,288.6
+Slovenia,Female,Stroke,163.2
+Slovenia,Female,Chronic obstructive pulmonary disease,57.9
+Sweden,Both sexes,Total,297.8
+Sweden,Both sexes,Lower respiratory infections,15.15
+Sweden,Both sexes,"Trachea, bronchus, lung cancers",19.15
+Sweden,Both sexes,Cataracts,0
+Sweden,Both sexes,Ischaemic heart disease,164.5
+Sweden,Both sexes,Stroke,49.76
+Sweden,Both sexes,Chronic obstructive pulmonary disease,49.25
+Sweden,Male,Total,334.5
+Sweden,Male,Lower respiratory infections,16.7
+Sweden,Male,"Trachea, bronchus, lung cancers",18.99
+Sweden,Male,Ischaemic heart disease,207
+Sweden,Male,Stroke,50.15
+Sweden,Male,Chronic obstructive pulmonary disease,41.65
+Sweden,Female,Total,261
+Sweden,Female,Lower respiratory infections,13.59
+Sweden,Female,"Trachea, bronchus, lung cancers",19.31
+Sweden,Female,Cataracts,0
+Sweden,Female,Ischaemic heart disease,121.9
+Sweden,Female,Stroke,49.36
+Sweden,Female,Chronic obstructive pulmonary disease,56.85
+Tajikistan,Both sexes,Total,1628
+Tajikistan,Both sexes,Lower respiratory infections,710.9
+Tajikistan,Both sexes,"Trachea, bronchus, lung cancers",23.77
+Tajikistan,Both sexes,Cataracts,0
+Tajikistan,Both sexes,Ischaemic heart disease,549.8
+Tajikistan,Both sexes,Stroke,238.6
+Tajikistan,Both sexes,Chronic obstructive pulmonary disease,104.5
+Tajikistan,Male,Total,1779
+Tajikistan,Male,Lower respiratory infections,745.8
+Tajikistan,Male,"Trachea, bronchus, lung cancers",29.01
+Tajikistan,Male,Ischaemic heart disease,643.6
+Tajikistan,Male,Stroke,244.2
+Tajikistan,Male,Chronic obstructive pulmonary disease,116.1
+Tajikistan,Female,Total,1475
+Tajikistan,Female,Lower respiratory infections,675.6
+Tajikistan,Female,"Trachea, bronchus, lung cancers",18.49
+Tajikistan,Female,Cataracts,0
+Tajikistan,Female,Ischaemic heart disease,455.1
+Tajikistan,Female,Stroke,233.1
+Tajikistan,Female,Chronic obstructive pulmonary disease,92.84
+Turkmenistan,Both sexes,Total,1618
+Turkmenistan,Both sexes,Lower respiratory infections,388.6
+Turkmenistan,Both sexes,"Trachea, bronchus, lung cancers",35
+Turkmenistan,Both sexes,Cataracts,0
+Turkmenistan,Both sexes,Ischaemic heart disease,851.9
+Turkmenistan,Both sexes,Stroke,303.9
+Turkmenistan,Both sexes,Chronic obstructive pulmonary disease,38.45
+Turkmenistan,Male,Total,1979
+Turkmenistan,Male,Lower respiratory infections,456.4
+Turkmenistan,Male,"Trachea, bronchus, lung cancers",55.07
+Turkmenistan,Male,Ischaemic heart disease,1064
+Turkmenistan,Male,Stroke,355.1
+Turkmenistan,Male,Chronic obstructive pulmonary disease,48.02
+Turkmenistan,Female,Total,1268
+Turkmenistan,Female,Lower respiratory infections,322.9
+Turkmenistan,Female,"Trachea, bronchus, lung cancers",15.54
+Turkmenistan,Female,Cataracts,0
+Turkmenistan,Female,Ischaemic heart disease,645.9
+Turkmenistan,Female,Stroke,254.3
+Turkmenistan,Female,Chronic obstructive pulmonary disease,29.16
+Türkiye,Both sexes,Total,1173
+Türkiye,Both sexes,Lower respiratory infections,92.93
+Türkiye,Both sexes,"Trachea, bronchus, lung cancers",186.4
+Türkiye,Both sexes,Cataracts,0
+Türkiye,Both sexes,Ischaemic heart disease,520.6
+Türkiye,Both sexes,Stroke,169
+Türkiye,Both sexes,Chronic obstructive pulmonary disease,204
+Türkiye,Male,Total,1612
+Türkiye,Male,Lower respiratory infections,111.1
+Türkiye,Male,"Trachea, bronchus, lung cancers",327.9
+Türkiye,Male,Ischaemic heart disease,709.3
+Türkiye,Male,Stroke,186
+Türkiye,Male,Chronic obstructive pulmonary disease,277.4
+Türkiye,Female,Total,747.6
+Türkiye,Female,Lower respiratory infections,75.27
+Türkiye,Female,"Trachea, bronchus, lung cancers",49.24
+Türkiye,Female,Cataracts,0
+Türkiye,Female,Ischaemic heart disease,337.8
+Türkiye,Female,Stroke,152.5
+Türkiye,Female,Chronic obstructive pulmonary disease,132.7
+Ukraine,Both sexes,Total,2538
+Ukraine,Both sexes,Lower respiratory infections,83.36
+Ukraine,Both sexes,"Trachea, bronchus, lung cancers",119.2
+Ukraine,Both sexes,Cataracts,0
+Ukraine,Both sexes,Ischaemic heart disease,1797
+Ukraine,Both sexes,Stroke,432.5
+Ukraine,Both sexes,Chronic obstructive pulmonary disease,105.6
+Ukraine,Male,Total,3165
+Ukraine,Male,Lower respiratory infections,129.6
+Ukraine,Male,"Trachea, bronchus, lung cancers",216.3
+Ukraine,Male,Ischaemic heart disease,2181
+Ukraine,Male,Stroke,472.1
+Ukraine,Male,Chronic obstructive pulmonary disease,166.6
+Ukraine,Female,Total,1999
+Ukraine,Female,Lower respiratory infections,43.6
+Ukraine,Female,"Trachea, bronchus, lung cancers",35.74
+Ukraine,Female,Cataracts,0
+Ukraine,Female,Ischaemic heart disease,1468
+Ukraine,Female,Stroke,398.5
+Ukraine,Female,Chronic obstructive pulmonary disease,53.21
+Uzbekistan,Both sexes,Total,1287
+Uzbekistan,Both sexes,Lower respiratory infections,214.3
+Uzbekistan,Both sexes,"Trachea, bronchus, lung cancers",21
+Uzbekistan,Both sexes,Cataracts,0
+Uzbekistan,Both sexes,Ischaemic heart disease,818.7
+Uzbekistan,Both sexes,Stroke,197.3
+Uzbekistan,Both sexes,Chronic obstructive pulmonary disease,35.16
+Uzbekistan,Male,Total,1537
+Uzbekistan,Male,Lower respiratory infections,236.4
+Uzbekistan,Male,"Trachea, bronchus, lung cancers",30.13
+Uzbekistan,Male,Ischaemic heart disease,1002
+Uzbekistan,Male,Stroke,226.4
+Uzbekistan,Male,Chronic obstructive pulmonary disease,41.5
+Uzbekistan,Female,Total,1038
+Uzbekistan,Female,Lower respiratory infections,192.4
+Uzbekistan,Female,"Trachea, bronchus, lung cancers",11.93
+Uzbekistan,Female,Cataracts,0
+Uzbekistan,Female,Ischaemic heart disease,636.1
+Uzbekistan,Female,Stroke,168.4
+Uzbekistan,Female,Chronic obstructive pulmonary disease,28.86
+Bangladesh,Both sexes,Total,1584
+Bangladesh,Both sexes,Lower respiratory infections,409.6
+Bangladesh,Both sexes,"Trachea, bronchus, lung cancers",55.25
+Bangladesh,Both sexes,Cataracts,0
+Bangladesh,Both sexes,Ischaemic heart disease,449.7
+Bangladesh,Both sexes,Stroke,375.7
+Bangladesh,Both sexes,Chronic obstructive pulmonary disease,293.5
+Bangladesh,Male,Total,1787
+Bangladesh,Male,Lower respiratory infections,436.6
+Bangladesh,Male,"Trachea, bronchus, lung cancers",76.07
+Bangladesh,Male,Ischaemic heart disease,560.5
+Bangladesh,Male,Stroke,386.2
+Bangladesh,Male,Chronic obstructive pulmonary disease,327.7
+Bangladesh,Female,Total,1377
+Bangladesh,Female,Lower respiratory infections,382.1
+Bangladesh,Female,"Trachea, bronchus, lung cancers",34.04
+Bangladesh,Female,Cataracts,0
+Bangladesh,Female,Ischaemic heart disease,336.9
+Bangladesh,Female,Stroke,365
+Bangladesh,Female,Chronic obstructive pulmonary disease,258.6
+Bhutan,Both sexes,Total,1668
+Bhutan,Both sexes,Lower respiratory infections,380.5
+Bhutan,Both sexes,"Trachea, bronchus, lung cancers",29.29
+Bhutan,Both sexes,Cataracts,0
+Bhutan,Both sexes,Ischaemic heart disease,719.6
+Bhutan,Both sexes,Stroke,231.3
+Bhutan,Both sexes,Chronic obstructive pulmonary disease,307.3
+Bhutan,Male,Total,1717
+Bhutan,Male,Lower respiratory infections,362.9
+Bhutan,Male,"Trachea, bronchus, lung cancers",26.32
+Bhutan,Male,Ischaemic heart disease,796.9
+Bhutan,Male,Stroke,216.6
+Bhutan,Male,Chronic obstructive pulmonary disease,313.9
+Bhutan,Female,Total,1613
+Bhutan,Female,Lower respiratory infections,400.4
+Bhutan,Female,"Trachea, bronchus, lung cancers",32.67
+Bhutan,Female,Cataracts,0
+Bhutan,Female,Ischaemic heart disease,631.9
+Bhutan,Female,Stroke,247.9
+Bhutan,Female,Chronic obstructive pulmonary disease,299.9
+Indonesia,Both sexes,Total,1131
+Indonesia,Both sexes,Lower respiratory infections,148.8
+Indonesia,Both sexes,"Trachea, bronchus, lung cancers",33.61
+Indonesia,Both sexes,Cataracts,0
+Indonesia,Both sexes,Ischaemic heart disease,525.9
+Indonesia,Both sexes,Stroke,308.1
+Indonesia,Both sexes,Chronic obstructive pulmonary disease,114.7
+Indonesia,Male,Total,1332
+Indonesia,Male,Lower respiratory infections,156.8
+Indonesia,Male,"Trachea, bronchus, lung cancers",47.43
+Indonesia,Male,Ischaemic heart disease,572.8
+Indonesia,Male,Stroke,403.7
+Indonesia,Male,Chronic obstructive pulmonary disease,151.3
+Indonesia,Female,Total,927.1
+Indonesia,Female,Lower respiratory infections,140.6
+Indonesia,Female,"Trachea, bronchus, lung cancers",19.58
+Indonesia,Female,Cataracts,0
+Indonesia,Female,Ischaemic heart disease,478.3
+Indonesia,Female,Stroke,211.1
+Indonesia,Female,Chronic obstructive pulmonary disease,77.52
+India,Both sexes,Total,2547
+India,Both sexes,Lower respiratory infections,692.1
+India,Both sexes,"Trachea, bronchus, lung cancers",62.61
+India,Both sexes,Cataracts,0
+India,Both sexes,Ischaemic heart disease,884.7
+India,Both sexes,Stroke,306.9
+India,Both sexes,Chronic obstructive pulmonary disease,600.8
+India,Male,Total,2850
+India,Male,Lower respiratory infections,611.8
+India,Male,"Trachea, bronchus, lung cancers",87.73
+India,Male,Ischaemic heart disease,1163
+India,Male,Stroke,335.2
+India,Male,Chronic obstructive pulmonary disease,652.9
+India,Female,Total,2221
+India,Female,Lower respiratory infections,778.5
+India,Female,"Trachea, bronchus, lung cancers",35.6
+India,Female,Cataracts,0
+India,Female,Ischaemic heart disease,585.5
+India,Female,Stroke,276.6
+India,Female,Chronic obstructive pulmonary disease,544.7
+Sri Lanka,Both sexes,Total,719.8
+Sri Lanka,Both sexes,Lower respiratory infections,80.45
+Sri Lanka,Both sexes,"Trachea, bronchus, lung cancers",13.51
+Sri Lanka,Both sexes,Cataracts,0
+Sri Lanka,Both sexes,Ischaemic heart disease,401.5
+Sri Lanka,Both sexes,Stroke,120.7
+Sri Lanka,Both sexes,Chronic obstructive pulmonary disease,103.6
+Sri Lanka,Male,Total,958.6
+Sri Lanka,Male,Lower respiratory infections,104.7
+Sri Lanka,Male,"Trachea, bronchus, lung cancers",20.14
+Sri Lanka,Male,Ischaemic heart disease,550.4
+Sri Lanka,Male,Stroke,149
+Sri Lanka,Male,Chronic obstructive pulmonary disease,134.4
+Sri Lanka,Female,Total,498.4
+Sri Lanka,Female,Lower respiratory infections,58
+Sri Lanka,Female,"Trachea, bronchus, lung cancers",7.37
+Sri Lanka,Female,Cataracts,0
+Sri Lanka,Female,Ischaemic heart disease,263.4
+Sri Lanka,Female,Stroke,94.55
+Sri Lanka,Female,Chronic obstructive pulmonary disease,75.12
+Maldives,Both sexes,Total,245.9
+Maldives,Both sexes,Lower respiratory infections,13.49
+Maldives,Both sexes,"Trachea, bronchus, lung cancers",5.87
+Maldives,Both sexes,Cataracts,0
+Maldives,Both sexes,Ischaemic heart disease,147.2
+Maldives,Both sexes,Stroke,32.69
+Maldives,Both sexes,Chronic obstructive pulmonary disease,46.67
+Maldives,Male,Total,285
+Maldives,Male,Lower respiratory infections,12.03
+Maldives,Male,"Trachea, bronchus, lung cancers",8.45
+Maldives,Male,Ischaemic heart disease,185.8
+Maldives,Male,Stroke,37.77
+Maldives,Male,Chronic obstructive pulmonary disease,40.87
+Maldives,Female,Total,194.7
+Maldives,Female,Lower respiratory infections,15.41
+Maldives,Female,"Trachea, bronchus, lung cancers",2.5
+Maldives,Female,Cataracts,0
+Maldives,Female,Ischaemic heart disease,96.49
+Maldives,Female,Stroke,26.03
+Maldives,Female,Chronic obstructive pulmonary disease,54.27
+Myanmar,Both sexes,Total,1615
+Myanmar,Both sexes,Lower respiratory infections,577.1
+Myanmar,Both sexes,"Trachea, bronchus, lung cancers",82.52
+Myanmar,Both sexes,Cataracts,0
+Myanmar,Both sexes,Ischaemic heart disease,285.7
+Myanmar,Both sexes,Stroke,385.3
+Myanmar,Both sexes,Chronic obstructive pulmonary disease,283.9
+Myanmar,Male,Total,1855
+Myanmar,Male,Lower respiratory infections,637
+Myanmar,Male,"Trachea, bronchus, lung cancers",95.07
+Myanmar,Male,Ischaemic heart disease,324.1
+Myanmar,Male,Stroke,426.4
+Myanmar,Male,Chronic obstructive pulmonary disease,372.7
+Myanmar,Female,Total,1385
+Myanmar,Female,Lower respiratory infections,519.9
+Myanmar,Female,"Trachea, bronchus, lung cancers",70.53
+Myanmar,Female,Cataracts,0
+Myanmar,Female,Ischaemic heart disease,249.1
+Myanmar,Female,Stroke,346.1
+Myanmar,Female,Chronic obstructive pulmonary disease,199.1
+Nepal,Both sexes,Total,2255
+Nepal,Both sexes,Lower respiratory infections,633.1
+Nepal,Both sexes,"Trachea, bronchus, lung cancers",94.98
+Nepal,Both sexes,Cataracts,0
+Nepal,Both sexes,Ischaemic heart disease,736.3
+Nepal,Both sexes,Stroke,306
+Nepal,Both sexes,Chronic obstructive pulmonary disease,484.3
+Nepal,Male,Total,2576
+Nepal,Male,Lower respiratory infections,675.9
+Nepal,Male,"Trachea, bronchus, lung cancers",89.97
+Nepal,Male,Ischaemic heart disease,980.8
+Nepal,Male,Stroke,363
+Nepal,Male,Chronic obstructive pulmonary disease,466.2
+Nepal,Female,Total,1952
+Nepal,Female,Lower respiratory infections,592.8
+Nepal,Female,"Trachea, bronchus, lung cancers",99.71
+Nepal,Female,Cataracts,0
+Nepal,Female,Ischaemic heart disease,505.9
+Nepal,Female,Stroke,252.3
+Nepal,Female,Chronic obstructive pulmonary disease,501.3
+Democratic People's Republic of Korea,Both sexes,Total,2168
+Democratic People's Republic of Korea,Both sexes,Lower respiratory infections,172.6
+Democratic People's Republic of Korea,Both sexes,"Trachea, bronchus, lung cancers",239.8
+Democratic People's Republic of Korea,Both sexes,Cataracts,0
+Democratic People's Republic of Korea,Both sexes,Ischaemic heart disease,522.7
+Democratic People's Republic of Korea,Both sexes,Stroke,655.4
+Democratic People's Republic of Korea,Both sexes,Chronic obstructive pulmonary disease,577.1
+Democratic People's Republic of Korea,Male,Total,2605
+Democratic People's Republic of Korea,Male,Lower respiratory infections,198.6
+Democratic People's Republic of Korea,Male,"Trachea, bronchus, lung cancers",292.6
+Democratic People's Republic of Korea,Male,Ischaemic heart disease,674.2
+Democratic People's Republic of Korea,Male,Stroke,823.9
+Democratic People's Republic of Korea,Male,Chronic obstructive pulmonary disease,615.7
+Democratic People's Republic of Korea,Female,Total,1749
+Democratic People's Republic of Korea,Female,Lower respiratory infections,147.7
+Democratic People's Republic of Korea,Female,"Trachea, bronchus, lung cancers",189.4
+Democratic People's Republic of Korea,Female,Cataracts,0
+Democratic People's Republic of Korea,Female,Ischaemic heart disease,377.7
+Democratic People's Republic of Korea,Female,Stroke,494
+Democratic People's Republic of Korea,Female,Chronic obstructive pulmonary disease,540.2
+Thailand,Both sexes,Total,1215
+Thailand,Both sexes,Lower respiratory infections,294.9
+Thailand,Both sexes,"Trachea, bronchus, lung cancers",108.6
+Thailand,Both sexes,Cataracts,0
+Thailand,Both sexes,Ischaemic heart disease,333.6
+Thailand,Both sexes,Stroke,247.4
+Thailand,Both sexes,Chronic obstructive pulmonary disease,230.4
+Thailand,Male,Total,1592
+Thailand,Male,Lower respiratory infections,350.1
+Thailand,Male,"Trachea, bronchus, lung cancers",151.2
+Thailand,Male,Ischaemic heart disease,441.8
+Thailand,Male,Stroke,332.9
+Thailand,Male,Chronic obstructive pulmonary disease,315.7
+Thailand,Female,Total,855.7
+Thailand,Female,Lower respiratory infections,242.2
+Thailand,Female,"Trachea, bronchus, lung cancers",67.95
+Thailand,Female,Cataracts,0
+Thailand,Female,Ischaemic heart disease,230.5
+Thailand,Female,Stroke,165.8
+Thailand,Female,Chronic obstructive pulmonary disease,149.1
+Timor-Leste,Both sexes,Total,1092
+Timor-Leste,Both sexes,Lower respiratory infections,648.3
+Timor-Leste,Both sexes,"Trachea, bronchus, lung cancers",38.73
+Timor-Leste,Both sexes,Cataracts,0
+Timor-Leste,Both sexes,Ischaemic heart disease,212.9
+Timor-Leste,Both sexes,Stroke,118
+Timor-Leste,Both sexes,Chronic obstructive pulmonary disease,74.34
+Timor-Leste,Male,Total,1145
+Timor-Leste,Male,Lower respiratory infections,627.2
+Timor-Leste,Male,"Trachea, bronchus, lung cancers",49.87
+Timor-Leste,Male,Ischaemic heart disease,242.7
+Timor-Leste,Male,Stroke,137.3
+Timor-Leste,Male,Chronic obstructive pulmonary disease,87.57
+Timor-Leste,Female,Total,1038
+Timor-Leste,Female,Lower respiratory infections,670.1
+Timor-Leste,Female,"Trachea, bronchus, lung cancers",27.24
+Timor-Leste,Female,Cataracts,0
+Timor-Leste,Female,Ischaemic heart disease,182.2
+Timor-Leste,Female,Stroke,98.14
+Timor-Leste,Female,Chronic obstructive pulmonary disease,60.69
+Australia,Both sexes,Total,289
+Australia,Both sexes,Lower respiratory infections,15.56
+Australia,Both sexes,"Trachea, bronchus, lung cancers",33.1
+Australia,Both sexes,Cataracts,0
+Australia,Both sexes,Ischaemic heart disease,137.3
+Australia,Both sexes,Stroke,45.61
+Australia,Both sexes,Chronic obstructive pulmonary disease,57.48
+Australia,Male,Total,347
+Australia,Male,Lower respiratory infections,15.43
+Australia,Male,"Trachea, bronchus, lung cancers",39.25
+Australia,Male,Ischaemic heart disease,185.6
+Australia,Male,Stroke,42.33
+Australia,Male,Chronic obstructive pulmonary disease,64.45
+Australia,Female,Total,231.4
+Australia,Female,Lower respiratory infections,15.68
+Australia,Female,"Trachea, bronchus, lung cancers",26.99
+Australia,Female,Cataracts,0
+Australia,Female,Ischaemic heart disease,89.3
+Australia,Female,Stroke,48.87
+Australia,Female,Chronic obstructive pulmonary disease,50.56
+Brunei Darussalam,Both sexes,Total,251.3
+Brunei Darussalam,Both sexes,Lower respiratory infections,14.2
+Brunei Darussalam,Both sexes,"Trachea, bronchus, lung cancers",8.75
+Brunei Darussalam,Both sexes,Cataracts,0
+Brunei Darussalam,Both sexes,Ischaemic heart disease,146.9
+Brunei Darussalam,Both sexes,Stroke,53.53
+Brunei Darussalam,Both sexes,Chronic obstructive pulmonary disease,27.94
+Brunei Darussalam,Male,Total,310.9
+Brunei Darussalam,Male,Lower respiratory infections,16.29
+Brunei Darussalam,Male,"Trachea, bronchus, lung cancers",9.45
+Brunei Darussalam,Male,Ischaemic heart disease,200.4
+Brunei Darussalam,Male,Stroke,52.53
+Brunei Darussalam,Male,Chronic obstructive pulmonary disease,32.23
+Brunei Darussalam,Female,Total,188.1
+Brunei Darussalam,Female,Lower respiratory infections,11.97
+Brunei Darussalam,Female,"Trachea, bronchus, lung cancers",8
+Brunei Darussalam,Female,Cataracts,0
+Brunei Darussalam,Female,Ischaemic heart disease,90.19
+Brunei Darussalam,Female,Stroke,54.58
+Brunei Darussalam,Female,Chronic obstructive pulmonary disease,23.39
+China,Both sexes,Total,1830
+China,Both sexes,Lower respiratory infections,108
+China,Both sexes,"Trachea, bronchus, lung cancers",240.1
+China,Both sexes,Cataracts,0
+China,Both sexes,Ischaemic heart disease,538.9
+China,Both sexes,Stroke,572.8
+China,Both sexes,Chronic obstructive pulmonary disease,369.9
+China,Male,Total,1989
+China,Male,Lower respiratory infections,113.5
+China,Male,"Trachea, bronchus, lung cancers",336.3
+China,Male,Ischaemic heart disease,549.3
+China,Male,Stroke,594.9
+China,Male,Chronic obstructive pulmonary disease,394.6
+China,Female,Total,1661
+China,Female,Lower respiratory infections,102.2
+China,Female,"Trachea, bronchus, lung cancers",137.9
+China,Female,Cataracts,0
+China,Female,Ischaemic heart disease,527.9
+China,Female,Stroke,549.3
+China,Female,Chronic obstructive pulmonary disease,343.6
+Cook Islands,Both sexes,Cataracts,0
+Cook Islands,Female,Cataracts,0
+Fiji,Both sexes,Total,868.7
+Fiji,Both sexes,Lower respiratory infections,117.2
+Fiji,Both sexes,"Trachea, bronchus, lung cancers",8.51
+Fiji,Both sexes,Cataracts,0
+Fiji,Both sexes,Ischaemic heart disease,632.2
+Fiji,Both sexes,Stroke,51.67
+Fiji,Both sexes,Chronic obstructive pulmonary disease,59.15
+Fiji,Male,Total,1212
+Fiji,Male,Lower respiratory infections,134.2
+Fiji,Male,"Trachea, bronchus, lung cancers",11.21
+Fiji,Male,Ischaemic heart disease,931.7
+Fiji,Male,Stroke,58.43
+Fiji,Male,Chronic obstructive pulmonary disease,76.85
+Fiji,Female,Total,513.9
+Fiji,Female,Lower respiratory infections,99.75
+Fiji,Female,"Trachea, bronchus, lung cancers",5.72
+Fiji,Female,Cataracts,0
+Fiji,Female,Ischaemic heart disease,322.9
+Fiji,Female,Stroke,44.7
+Fiji,Female,Chronic obstructive pulmonary disease,40.87
+Micronesia (Federated States of),Both sexes,Total,773.9
+Micronesia (Federated States of),Both sexes,Lower respiratory infections,183.4
+Micronesia (Federated States of),Both sexes,"Trachea, bronchus, lung cancers",21.07
+Micronesia (Federated States of),Both sexes,Cataracts,0
+Micronesia (Federated States of),Both sexes,Ischaemic heart disease,320.6
+Micronesia (Federated States of),Both sexes,Stroke,163.5
+Micronesia (Federated States of),Both sexes,Chronic obstructive pulmonary disease,85.36
+Micronesia (Federated States of),Male,Total,867
+Micronesia (Federated States of),Male,Lower respiratory infections,191.6
+Micronesia (Federated States of),Male,"Trachea, bronchus, lung cancers",29.02
+Micronesia (Federated States of),Male,Ischaemic heart disease,384.8
+Micronesia (Federated States of),Male,Stroke,156.4
+Micronesia (Federated States of),Male,Chronic obstructive pulmonary disease,105.1
+Micronesia (Federated States of),Female,Total,676.1
+Micronesia (Federated States of),Female,Lower respiratory infections,174.7
+Micronesia (Federated States of),Female,"Trachea, bronchus, lung cancers",12.72
+Micronesia (Federated States of),Female,Cataracts,0
+Micronesia (Federated States of),Female,Ischaemic heart disease,253.1
+Micronesia (Federated States of),Female,Stroke,171
+Micronesia (Federated States of),Female,Chronic obstructive pulmonary disease,64.61
+Japan,Both sexes,Total,648.4
+Japan,Both sexes,Lower respiratory infections,135
+Japan,Both sexes,"Trachea, bronchus, lung cancers",73.85
+Japan,Both sexes,Cataracts,0
+Japan,Both sexes,Ischaemic heart disease,197.4
+Japan,Both sexes,Stroke,139.2
+Japan,Both sexes,Chronic obstructive pulmonary disease,102.9
+Japan,Male,Total,824.1
+Japan,Male,Lower respiratory infections,159
+Japan,Male,"Trachea, bronchus, lung cancers",110.2
+Japan,Male,Ischaemic heart disease,252.8
+Japan,Male,Stroke,156.6
+Japan,Male,Chronic obstructive pulmonary disease,145.5
+Japan,Female,Total,480.6
+Japan,Female,Lower respiratory infections,112.1
+Japan,Female,"Trachea, bronchus, lung cancers",39.1
+Japan,Female,Cataracts,0
+Japan,Female,Ischaemic heart disease,144.6
+Japan,Female,Stroke,122.5
+Japan,Female,Chronic obstructive pulmonary disease,62.3
+Cambodia,Both sexes,Total,1104
+Cambodia,Both sexes,Lower respiratory infections,450.5
+Cambodia,Both sexes,"Trachea, bronchus, lung cancers",32.53
+Cambodia,Both sexes,Cataracts,0
+Cambodia,Both sexes,Ischaemic heart disease,262.8
+Cambodia,Both sexes,Stroke,259.6
+Cambodia,Both sexes,Chronic obstructive pulmonary disease,98.96
+Cambodia,Male,Total,1186
+Cambodia,Male,Lower respiratory infections,493.6
+Cambodia,Male,"Trachea, bronchus, lung cancers",44.08
+Cambodia,Male,Ischaemic heart disease,315.6
+Cambodia,Male,Stroke,216.7
+Cambodia,Male,Chronic obstructive pulmonary disease,116.4
+Cambodia,Female,Total,1026
+Cambodia,Female,Lower respiratory infections,409.3
+Cambodia,Female,"Trachea, bronchus, lung cancers",21.54
+Cambodia,Female,Cataracts,0
+Cambodia,Female,Ischaemic heart disease,212.6
+Cambodia,Female,Stroke,300.4
+Cambodia,Female,Chronic obstructive pulmonary disease,82.37
+Kiribati,Both sexes,Total,917.8
+Kiribati,Both sexes,Lower respiratory infections,323.9
+Kiribati,Both sexes,"Trachea, bronchus, lung cancers",19.99
+Kiribati,Both sexes,Cataracts,0
+Kiribati,Both sexes,Ischaemic heart disease,297.5
+Kiribati,Both sexes,Stroke,203.7
+Kiribati,Both sexes,Chronic obstructive pulmonary disease,72.76
+Kiribati,Male,Total,1145
+Kiribati,Male,Lower respiratory infections,345.2
+Kiribati,Male,"Trachea, bronchus, lung cancers",24.53
+Kiribati,Male,Ischaemic heart disease,408.7
+Kiribati,Male,Stroke,266.3
+Kiribati,Male,Chronic obstructive pulmonary disease,100.8
+Kiribati,Female,Total,696.5
+Kiribati,Female,Lower respiratory infections,303.2
+Kiribati,Female,"Trachea, bronchus, lung cancers",15.57
+Kiribati,Female,Cataracts,0
+Kiribati,Female,Ischaemic heart disease,189.5
+Kiribati,Female,Stroke,142.7
+Kiribati,Female,Chronic obstructive pulmonary disease,45.49
+Republic of Korea,Both sexes,Total,626.2
+Republic of Korea,Both sexes,Lower respiratory infections,101.7
+Republic of Korea,Both sexes,"Trachea, bronchus, lung cancers",110.9
+Republic of Korea,Both sexes,Cataracts,0
+Republic of Korea,Both sexes,Ischaemic heart disease,156.3
+Republic of Korea,Both sexes,Stroke,148.6
+Republic of Korea,Both sexes,Chronic obstructive pulmonary disease,108.6
+Republic of Korea,Male,Total,820.1
+Republic of Korea,Male,Lower respiratory infections,116.6
+Republic of Korea,Male,"Trachea, bronchus, lung cancers",164.1
+Republic of Korea,Male,Ischaemic heart disease,211.5
+Republic of Korea,Male,Stroke,169.7
+Republic of Korea,Male,Chronic obstructive pulmonary disease,158.2
+Republic of Korea,Female,Total,432
+Republic of Korea,Female,Lower respiratory infections,86.86
+Republic of Korea,Female,"Trachea, bronchus, lung cancers",57.67
+Republic of Korea,Female,Cataracts,0
+Republic of Korea,Female,Ischaemic heart disease,101.1
+Republic of Korea,Female,Stroke,127.5
+Republic of Korea,Female,Chronic obstructive pulmonary disease,58.9
+Lao People's Democratic Republic,Both sexes,Total,1495
+Lao People's Democratic Republic,Both sexes,Lower respiratory infections,629.4
+Lao People's Democratic Republic,Both sexes,"Trachea, bronchus, lung cancers",31.93
+Lao People's Democratic Republic,Both sexes,Cataracts,0
+Lao People's Democratic Republic,Both sexes,Ischaemic heart disease,437.5
+Lao People's Democratic Republic,Both sexes,Stroke,271.8
+Lao People's Democratic Republic,Both sexes,Chronic obstructive pulmonary disease,124.1
+Lao People's Democratic Republic,Male,Total,1531
+Lao People's Democratic Republic,Male,Lower respiratory infections,643.4
+Lao People's Democratic Republic,Male,"Trachea, bronchus, lung cancers",44.14
+Lao People's Democratic Republic,Male,Ischaemic heart disease,435.9
+Lao People's Democratic Republic,Male,Stroke,274.7
+Lao People's Democratic Republic,Male,Chronic obstructive pulmonary disease,132.6
+Lao People's Democratic Republic,Female,Total,1459
+Lao People's Democratic Republic,Female,Lower respiratory infections,615.6
+Lao People's Democratic Republic,Female,"Trachea, bronchus, lung cancers",19.78
+Lao People's Democratic Republic,Female,Cataracts,0
+Lao People's Democratic Republic,Female,Ischaemic heart disease,439.1
+Lao People's Democratic Republic,Female,Stroke,269
+Lao People's Democratic Republic,Female,Chronic obstructive pulmonary disease,115.5
+Marshall Islands,Both sexes,Cataracts,0
+Marshall Islands,Female,Cataracts,0
+Mongolia,Both sexes,Total,1556
+Mongolia,Both sexes,Lower respiratory infections,211.9
+Mongolia,Both sexes,"Trachea, bronchus, lung cancers",67.54
+Mongolia,Both sexes,Cataracts,0
+Mongolia,Both sexes,Ischaemic heart disease,691.2
+Mongolia,Both sexes,Stroke,533.4
+Mongolia,Both sexes,Chronic obstructive pulmonary disease,52.15
+Mongolia,Male,Total,2012
+Mongolia,Male,Lower respiratory infections,273
+Mongolia,Male,"Trachea, bronchus, lung cancers",109.4
+Mongolia,Male,Ischaemic heart disease,947.4
+Mongolia,Male,Stroke,615.8
+Mongolia,Male,Chronic obstructive pulmonary disease,65.88
+Mongolia,Female,Total,1110
+Mongolia,Female,Lower respiratory infections,152
+Mongolia,Female,"Trachea, bronchus, lung cancers",26.51
+Mongolia,Female,Cataracts,0
+Mongolia,Female,Ischaemic heart disease,440.1
+Mongolia,Female,Stroke,452.7
+Mongolia,Female,Chronic obstructive pulmonary disease,38.7
+Malaysia,Both sexes,Total,788.4
+Malaysia,Both sexes,Lower respiratory infections,152.9
+Malaysia,Both sexes,"Trachea, bronchus, lung cancers",39.57
+Malaysia,Both sexes,Cataracts,0
+Malaysia,Both sexes,Ischaemic heart disease,384.3
+Malaysia,Both sexes,Stroke,123.9
+Malaysia,Both sexes,Chronic obstructive pulmonary disease,87.82
+Malaysia,Male,Total,965.2
+Malaysia,Male,Lower respiratory infections,169.5
+Malaysia,Male,"Trachea, bronchus, lung cancers",50.67
+Malaysia,Male,Ischaemic heart disease,494
+Malaysia,Male,Stroke,134.2
+Malaysia,Male,Chronic obstructive pulmonary disease,116.8
+Malaysia,Female,Total,599.5
+Malaysia,Female,Lower respiratory infections,135.1
+Malaysia,Female,"Trachea, bronchus, lung cancers",27.7
+Malaysia,Female,Cataracts,0
+Malaysia,Female,Ischaemic heart disease,267
+Malaysia,Female,Stroke,112.9
+Malaysia,Female,Chronic obstructive pulmonary disease,56.84
+Niue,Both sexes,Cataracts,0
+Niue,Female,Cataracts,0
+Nauru,Both sexes,Cataracts,0
+Nauru,Female,Cataracts,0
+New Zealand,Both sexes,Total,241.2
+New Zealand,Both sexes,Lower respiratory infections,10.37
+New Zealand,Both sexes,"Trachea, bronchus, lung cancers",18.91
+New Zealand,Both sexes,Cataracts,0
+New Zealand,Both sexes,Ischaemic heart disease,131.8
+New Zealand,Both sexes,Stroke,41.55
+New Zealand,Both sexes,Chronic obstructive pulmonary disease,38.54
+New Zealand,Male,Total,287.4
+New Zealand,Male,Lower respiratory infections,9.31
+New Zealand,Male,"Trachea, bronchus, lung cancers",20.44
+New Zealand,Male,Ischaemic heart disease,178.1
+New Zealand,Male,Stroke,37.98
+New Zealand,Male,Chronic obstructive pulmonary disease,41.5
+New Zealand,Female,Total,196.5
+New Zealand,Female,Lower respiratory infections,11.4
+New Zealand,Female,"Trachea, bronchus, lung cancers",17.44
+New Zealand,Female,Cataracts,0
+New Zealand,Female,Ischaemic heart disease,87
+New Zealand,Female,Stroke,45.02
+New Zealand,Female,Chronic obstructive pulmonary disease,35.67
+Philippines,Both sexes,Total,1460
+Philippines,Both sexes,Lower respiratory infections,409.5
+Philippines,Both sexes,"Trachea, bronchus, lung cancers",31.54
+Philippines,Both sexes,Cataracts,0
+Philippines,Both sexes,Ischaemic heart disease,571.7
+Philippines,Both sexes,Stroke,314.3
+Philippines,Both sexes,Chronic obstructive pulmonary disease,133
+Philippines,Male,Total,1810
+Philippines,Male,Lower respiratory infections,454.8
+Philippines,Male,"Trachea, bronchus, lung cancers",43.45
+Philippines,Male,Ischaemic heart disease,749.3
+Philippines,Male,Stroke,381.4
+Philippines,Male,Chronic obstructive pulmonary disease,180.6
+Philippines,Female,Total,1106
+Philippines,Female,Lower respiratory infections,363.5
+Philippines,Female,"Trachea, bronchus, lung cancers",19.47
+Philippines,Female,Cataracts,0
+Philippines,Female,Ischaemic heart disease,391.6
+Philippines,Female,Stroke,246.3
+Philippines,Female,Chronic obstructive pulmonary disease,84.73
+Palau,Both sexes,Cataracts,0
+Palau,Female,Cataracts,0
+Papua New Guinea,Both sexes,Total,911.4
+Papua New Guinea,Both sexes,Lower respiratory infections,315.6
+Papua New Guinea,Both sexes,"Trachea, bronchus, lung cancers",7.23
+Papua New Guinea,Both sexes,Cataracts,0
+Papua New Guinea,Both sexes,Ischaemic heart disease,336.4
+Papua New Guinea,Both sexes,Stroke,169.7
+Papua New Guinea,Both sexes,Chronic obstructive pulmonary disease,82.43
+Papua New Guinea,Male,Total,1076
+Papua New Guinea,Male,Lower respiratory infections,361
+Papua New Guinea,Male,"Trachea, bronchus, lung cancers",9.54
+Papua New Guinea,Male,Ischaemic heart disease,438.3
+Papua New Guinea,Male,Stroke,170.7
+Papua New Guinea,Male,Chronic obstructive pulmonary disease,96
+Papua New Guinea,Female,Total,741.5
+Papua New Guinea,Female,Lower respiratory infections,268.7
+Papua New Guinea,Female,"Trachea, bronchus, lung cancers",4.84
+Papua New Guinea,Female,Cataracts,0
+Papua New Guinea,Female,Ischaemic heart disease,230.9
+Papua New Guinea,Female,Stroke,168.7
+Papua New Guinea,Female,Chronic obstructive pulmonary disease,68.37
+Singapore,Both sexes,Total,757.5
+Singapore,Both sexes,Lower respiratory infections,254.1
+Singapore,Both sexes,"Trachea, bronchus, lung cancers",79.43
+Singapore,Both sexes,Cataracts,0
+Singapore,Both sexes,Ischaemic heart disease,281.5
+Singapore,Both sexes,Stroke,93.84
+Singapore,Both sexes,Chronic obstructive pulmonary disease,48.63
+Singapore,Male,Total,988.5
+Singapore,Male,Lower respiratory infections,285.7
+Singapore,Male,"Trachea, bronchus, lung cancers",109.6
+Singapore,Male,Ischaemic heart disease,407.9
+Singapore,Male,Stroke,103.6
+Singapore,Male,Chronic obstructive pulmonary disease,81.57
+Singapore,Female,Total,531.9
+Singapore,Female,Lower respiratory infections,223.2
+Singapore,Female,"Trachea, bronchus, lung cancers",49.97
+Singapore,Female,Cataracts,0
+Singapore,Female,Ischaemic heart disease,158
+Singapore,Female,Stroke,84.29
+Singapore,Female,Chronic obstructive pulmonary disease,16.47
+Solomon Islands,Both sexes,Total,584.3
+Solomon Islands,Both sexes,Lower respiratory infections,170.6
+Solomon Islands,Both sexes,"Trachea, bronchus, lung cancers",7.93
+Solomon Islands,Both sexes,Cataracts,0
+Solomon Islands,Both sexes,Ischaemic heart disease,215.8
+Solomon Islands,Both sexes,Stroke,121.1
+Solomon Islands,Both sexes,Chronic obstructive pulmonary disease,68.89
+Solomon Islands,Male,Total,686.3
+Solomon Islands,Male,Lower respiratory infections,177.5
+Solomon Islands,Male,"Trachea, bronchus, lung cancers",11.57
+Solomon Islands,Male,Ischaemic heart disease,281.6
+Solomon Islands,Male,Stroke,126
+Solomon Islands,Male,Chronic obstructive pulmonary disease,89.64
+Solomon Islands,Female,Total,478.9
+Solomon Islands,Female,Lower respiratory infections,163.5
+Solomon Islands,Female,"Trachea, bronchus, lung cancers",4.17
+Solomon Islands,Female,Cataracts,0
+Solomon Islands,Female,Ischaemic heart disease,147.6
+Solomon Islands,Female,Stroke,116.1
+Solomon Islands,Female,Chronic obstructive pulmonary disease,47.43
+Tonga,Both sexes,Total,539.6
+Tonga,Both sexes,Lower respiratory infections,97.65
+Tonga,Both sexes,"Trachea, bronchus, lung cancers",33.89
+Tonga,Both sexes,Cataracts,0
+Tonga,Both sexes,Ischaemic heart disease,244.1
+Tonga,Both sexes,Stroke,87.83
+Tonga,Both sexes,Chronic obstructive pulmonary disease,76.12
+Tonga,Male,Total,711
+Tonga,Male,Lower respiratory infections,101.6
+Tonga,Male,"Trachea, bronchus, lung cancers",49.8
+Tonga,Male,Ischaemic heart disease,364.8
+Tonga,Male,Stroke,91.02
+Tonga,Male,Chronic obstructive pulmonary disease,103.7
+Tonga,Female,Total,367.1
+Tonga,Female,Lower respiratory infections,93.65
+Tonga,Female,"Trachea, bronchus, lung cancers",17.87
+Tonga,Female,Cataracts,0
+Tonga,Female,Ischaemic heart disease,122.6
+Tonga,Female,Stroke,84.62
+Tonga,Female,Chronic obstructive pulmonary disease,48.35
+Tuvalu,Both sexes,Cataracts,0
+Tuvalu,Female,Cataracts,0
+Viet Nam,Both sexes,Total,966.3
+Viet Nam,Both sexes,Lower respiratory infections,162
+Viet Nam,Both sexes,"Trachea, bronchus, lung cancers",97.14
+Viet Nam,Both sexes,Cataracts,0
+Viet Nam,Both sexes,Ischaemic heart disease,246.1
+Viet Nam,Both sexes,Stroke,303.8
+Viet Nam,Both sexes,Chronic obstructive pulmonary disease,157.3
+Viet Nam,Male,Total,1299
+Viet Nam,Male,Lower respiratory infections,205.5
+Viet Nam,Male,"Trachea, bronchus, lung cancers",131.3
+Viet Nam,Male,Ischaemic heart disease,328.5
+Viet Nam,Male,Stroke,433.4
+Viet Nam,Male,Chronic obstructive pulmonary disease,200.4
+Viet Nam,Female,Total,640.5
+Viet Nam,Female,Lower respiratory infections,119.4
+Viet Nam,Female,"Trachea, bronchus, lung cancers",63.68
+Viet Nam,Female,Cataracts,0
+Viet Nam,Female,Ischaemic heart disease,165.4
+Viet Nam,Female,Stroke,176.9
+Viet Nam,Female,Chronic obstructive pulmonary disease,115
+Vanuatu,Both sexes,Total,630.2
+Vanuatu,Both sexes,Lower respiratory infections,138
+Vanuatu,Both sexes,"Trachea, bronchus, lung cancers",11.86
+Vanuatu,Both sexes,Cataracts,0
+Vanuatu,Both sexes,Ischaemic heart disease,280.9
+Vanuatu,Both sexes,Stroke,127.4
+Vanuatu,Both sexes,Chronic obstructive pulmonary disease,72.05
+Vanuatu,Male,Total,764.7
+Vanuatu,Male,Lower respiratory infections,151.1
+Vanuatu,Male,"Trachea, bronchus, lung cancers",17.26
+Vanuatu,Male,Ischaemic heart disease,365.3
+Vanuatu,Male,Stroke,135.2
+Vanuatu,Male,Chronic obstructive pulmonary disease,95.82
+Vanuatu,Female,Total,492.3
+Vanuatu,Female,Lower respiratory infections,124.5
+Vanuatu,Female,"Trachea, bronchus, lung cancers",6.32
+Vanuatu,Female,Cataracts,0
+Vanuatu,Female,Ischaemic heart disease,194.5
+Vanuatu,Female,Stroke,119.3
+Vanuatu,Female,Chronic obstructive pulmonary disease,47.69
+Samoa,Both sexes,Total,522.1
+Samoa,Both sexes,Lower respiratory infections,89.39
+Samoa,Both sexes,"Trachea, bronchus, lung cancers",11.15
+Samoa,Both sexes,Cataracts,0
+Samoa,Both sexes,Ischaemic heart disease,247.7
+Samoa,Both sexes,Stroke,111.8
+Samoa,Both sexes,Chronic obstructive pulmonary disease,62.07
+Samoa,Male,Total,682.8
+Samoa,Male,Lower respiratory infections,102.2
+Samoa,Male,"Trachea, bronchus, lung cancers",17.29
+Samoa,Male,Ischaemic heart disease,345.6
+Samoa,Male,Stroke,133.3
+Samoa,Male,Chronic obstructive pulmonary disease,84.42
+Samoa,Female,Total,350.9
+Samoa,Female,Lower respiratory infections,75.71
+Samoa,Female,"Trachea, bronchus, lung cancers",4.61
+Samoa,Female,Cataracts,0
+Samoa,Female,Ischaemic heart disease,143.3
+Samoa,Female,Stroke,89.03
+Samoa,Female,Chronic obstructive pulmonary disease,38.24
